@@ -21,7 +21,7 @@ category: geral
 	    Order allow,deny 
 	    Allow from all 
 	</Directory> 
-	</VirtualHost>`
+	</VirtualHost>``
 
 3. Para terminar de configurar o domínio local, abra o Terminal e digite o comando: 
 sudo/applications/textedit.app/contents/macOS/textedit/etc/hosts

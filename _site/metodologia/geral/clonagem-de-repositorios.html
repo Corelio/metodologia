@@ -1,0 +1,74 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset=utf-8 />
+      <title>  Clonagem de repositórios da Doors |  A2 Comunicação</title>
+      <link rel="stylesheet" href="/css/style.css" />
+    </head>
+    <body>
+      <div id="main">
+
+        <header>
+          <h1>Metodologia A2</h1>
+          <p>Documentação do processo de criação e desenvolvimento web na A2 Comunicação</p>
+        </header>
+
+        <h2 class="content">Clonagem de repositórios da Doors</h2>
+<p class="subtitle">Utilizando o Source Tree, XAMPP e Terminal (MAC)</p>
+
+<img src="" />
+
+<ol>
+<li>
+<p>Para clonar, no Source Tree aponte o caminho: www.data@192.168.0.201:/Dados/A2Projetos/nomedoprojeto/www . Aponte para a pasta onde serão instalados os websites, no MAC configurei o XAMPP para apontar para a pasta &#8220;Sites&#8221; e sempre os nomeio com o mesmo nome da Doors;</p>
+</li>
+
+<li>
+<p>Para criar o ambiente local, abra a pasta Xampp dentro de Aplicativos: Xampp &gt; etc &gt; extra &gt; httpvhosts.conf e edite o arquivo inserindo o código apontando a pasta onde o site foi instalado (para facilitar, nomeio sempre como local.nomedoprojeto.a2 - pois para ver se tudo está ok na Doors, só retiro o termo local da url):</p>
+
+<p><code>&lt;VirtualHost 127.0.0.1&gt; 
+ServerName local.pastadoprojetoclonado
+DocumentRoot &quot;/Users/Vivian/Sites/pastadoprojetoclonado&quot; 
+&lt;Directory &quot;/Users/Vivian/Sites/pastadoprojetoclonado&quot;&gt; 
+    Options Indexes FollowSymLinks Includes ExecCGI 
+    AddType text/shtml .shtml 
+    AddOutputFilter INCLUDES .shtml 
+    AllowOverride All 
+    Order allow,deny 
+    Allow from all 
+&lt;/Directory&gt; 
+&lt;/VirtualHost&gt;</code></p>
+</li>
+
+<li>
+<p>Para terminar de configurar o domínio local, abra o Terminal e digite o comando: sudo/applications/textedit.app/contents/macOS/textedit/etc/hosts Digite sua senha, e insita a url que você vai utilizar entre as linhas &#8220;127.0.0.1 localhost&#8221; e &#8220;255.255.255.255 broadcasthost&#8221;.</p>
+</li>
+
+<li>
+<p>Inicie ou reinicie o XAMPP para que funcione.</p>
+</li>
+
+<li>
+<p>Se por um acaso mesmo assim aparecer algum outro site no lugar: desligue o XAMPP, abra novamente o Terminal, e limpe o cache da máquina: dscacheutil -flushcache.</p>
+</li>
+
+<li>
+<p>Reinicie o XAMPP.</p>
+</li>
+</ol>
+
+<nav class="page-tools">
+<ol>
+  <li><a title="View the page history on GitHub" href="https://github.com/a2comunicacao/metodologia/commits/master/metodologia/geral/clonagem-de-repositorios.md">Page history</a>
+  <li><a title="View and suggest changes to the page source on GitHub" href="https://github.com/a2comunicacao/metodologia/blob/master/metodologia/geral/clonagem-de-repositorios.md">Page source</a>
+</ol>
+</nav>
+
+
+        <footer>
+          <p>&copy; A2 Comunicação</p>
+        </footer>
+
+      </div>
+      </body>
+    </html>
