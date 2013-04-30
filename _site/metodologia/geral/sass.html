@@ -1,0 +1,63 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset=utf-8 />
+      <title>  Instalando e utilizando o Sass |  A2 Comunicação</title>
+      <link rel="stylesheet" href="/css/style.css" />
+    </head>
+    <body>
+      <div id="main">
+
+        <header>
+          <h1><a href="/metodologia/">Metodologia A2</a></h1>
+          <p>Documentação do processo de criação e desenvolvimento web na A2 Comunicação</p>
+        </header>
+
+        <h2 class="content">Instalando e utilizando o Sass</h2>
+<p class="subtitle">Utilizando o Terminal (MAC)</p>
+
+<img src="" />
+
+<p>Como por padrão os MAC&#8217;s já vem com o Ruby instalado, basta que instalemos o Sass (que é uma &#8220;biblioteca&#8221; do Ruby):</p>
+
+<ol>
+<li>No terminal digite: <code>sudo gem install sass</code></li>
+</ol>
+
+<p><em>Obs.: No meu caso, como não estou usando a última versão do sistema operacional, ele me apontou um erro de atualização de versão, e pediu que eu rodasse o seguinte comando: <code>gem install --version &#39;~&gt; 0.9.1&#39; rb-fsevent</code></em></p>
+
+<p>Para utilizar o Sass:</p>
+
+<ol>
+<li>Crie as pastas sass e css no seu projeto;</li>
+
+<li>Crie os arquivos principais de .scss (na pasta sass) e .css (na pasta css)</li>
+
+<li>No terminal, precisamos dizer pra ele entrar nessa pasta para &#8220;olhar os arquivos&#8221;, então digite: cd /caminhocompletodoprojeto (para copiar todo o caminho da pasta, basta que você copie a pasta pra dentro do terminal, e ele faz todo o caminho pra você, no meu caso, fica assim: cd /Users/vivian/Sites/pastadoprojeto</li>
+
+<li>Agora eu preciso &#8220;falar&#8221; pro Sass, que todas as alterações que eu fizer no arquivo .scss, que ele mande para o arquivo .css, este comando se chama watch, e que seja feito de forma minificada e que não fique guardando cache (ele cria uns arquivos estranhos de cache dentro da pasta), pra isso digite no terminal: sass &#8211;watch sass/main.scss:css/main.css &#8211;style compreesed &#8211;no-cache. Traduzindo: Sass, fique de olhos nas alterações que eu fizer na pasta sass e o no meu arquivo principal .scss e transforme ele no arquivo .css que esta na pasta css, faça isso de modo que ele fique compressado e não guarde cache dos arquivos.</li>
+
+<li>Para que ele pare de &#8220;olhar&#8221; pasta digitar ctrl + c.</li>
+
+<li>Para trocar de projeto, saia da pasta digitando: cd ../ e entre em outro projeto voltando ao passo 2.</li>
+</ol>
+
+<p><em>Obs.: Existe uma forma simplificada de rodar esses comandos mas é preciso criar um arquivo numa extensão diferenciada e, não consegui fazer no meu. A Sandra pode ajudar nesse caso, pois ela conseguiu fazer de uma outra maneira.</em></p>
+
+<p>No Windows o arquito tem uma extensão que não funciona nos MAC&#8217;s.</p>
+
+<nav class="page-tools">
+<ol>
+  <li><a title="View the page history on GitHub" href="https://github.com/a2comunicacao/metodologia/commits/master/metodologia/geral/sass.md">Page history</a>
+  <li><a title="View and suggest changes to the page source on GitHub" href="https://github.com/a2comunicacao/metodologia/blob/master/metodologia/geral/sass.md">Page source</a>
+</ol>
+</nav>
+
+
+        <footer>
+          <p>&copy; A2 Comunicação</p>
+        </footer>
+
+      </div>
+      </body>
+    </html>
