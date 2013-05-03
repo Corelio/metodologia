@@ -41,9 +41,11 @@ Para utilizar o Sass:
   cd nomedoprojeto
   ```
 5. Dentro da pasta do projeto, precisamos passar um comando para o *SASS* ficar vigiando nossos arquivos e compilar em um arquivo de saída:
-  ```
+  
+```
   sass --watch sass/main.scss:css/main.css --style compressed --no-cache
-  ```
+```
+
 (resumidamente o comando acima pega o arquivo `main.scss` que contém todos os arquivos de estilo *SASS* e compila um arquivo minificado `main.css` dentro da pasta *CSS*.
 6. A qualquer momento, é só digitar `ctrl + c` que o *SASS* para de vigiar a pasta.
 
