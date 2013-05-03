@@ -29,14 +29,12 @@ Para utilizar o Sass:
 1. Crie as pastas *SASS* e *CSS* no seu projeto;
 2. Crie seus arquivos de estilo com a extensão `.scss` dentro da pasta *SASS* (no [repositório do Grid A2](https://github.com/a2comunicacao/Grid-A2/tree/master/sass), deixamos por padrão alguns arquivos iniciais);
 3. Ainda dentro da pasta *SASS*, crie um arquivo que vai importar todos os arquivos de estilo (por padrão utilize `main.scss` ou `style.scss`):
-
-```css
+```
 @import "normalize";
 @import "base";
 @import "typography";
 @import "font-awesome";
 ```
-
 4. Agora, utilizando o terminal, entramos na pasta do projeto: 
 
 `cd nomedoprojeto`
