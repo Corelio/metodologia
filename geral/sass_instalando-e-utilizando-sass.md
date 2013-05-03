@@ -5,22 +5,41 @@ subtitle: Utilizando o Terminal (MAC)
 category: sass
 ---
 
-Como por padrão os MAC's já vem com o Ruby instalado, basta que instalemos o Sass (que é uma "biblioteca" do Ruby):
+## Instalando
 
-1. No terminal digite: `sudo gem install sass`
+### MAC
 
-_Obs.: No meu caso, como não estou usando a última versão do sistema operacional, ele me apontou um erro de atualização de versão, e pediu que eu rodasse o seguinte comando:  `gem install --version '~> 0.9.1' rb-fsevent`_
+Por padrão já vem com o Ruby instalado, basta que instalemos o Sass (que é uma *biblioteca* do Ruby):
+
+1. No terminal digite:
+
+`sudo gem install sass`
+
+**Obs.:** Pode acontecer, caso a versão do sistema operacional não seja a mais recente, de dar um erro, pedindo que rodemos algum comando para atualização, como esse:
+`gem install --version '~> 0.9.1' rb-fsevent`_
+
+### Windows
+
+[Tutorial](http://www.tidbits.com.br/desenvolvendo-css-de-forma-mais-produtiva-usando-sass) explicando como instalar o *Ruby* e o *Sass* no Windows.
+
+## Utilizando o SASS
 
 Para utilizar o Sass:
 
-1. Crie as pastas sass e css no seu projeto;
-2. Crie os arquivos principais de .scss (na pasta sass) e .css (na pasta css)
-3. No terminal, precisamos dizer pra ele entrar nessa pasta para "olhar os arquivos", então digite:  cd /caminhocompletodoprojeto (para copiar todo o caminho da pasta, basta que você copie a pasta pra dentro do terminal, e ele faz todo o caminho pra você, no meu caso, fica assim: cd /Users/vivian/Sites/pastadoprojeto
-4. Agora eu preciso "falar" pro Sass, que todas as alterações que eu fizer no arquivo .scss, que ele mande para o arquivo .css, este comando se chama watch, e que seja feito de forma minificada e que não fique guardando cache (ele cria uns arquivos estranhos de cache dentro da pasta), pra isso digite no terminal: sass --watch sass/main.scss:css/main.css --style compreesed --no-cache. 
-Traduzindo: Sass, fique de olhos nas alterações que eu fizer na pasta sass e o no meu arquivo principal .scss e transforme ele no arquivo .css que esta na pasta css, faça isso de modo que ele fique compressado e não guarde cache dos arquivos.
-5. Para que ele pare de "olhar" pasta digitar ctrl + c.
-6. Para trocar de projeto, saia da pasta digitando: cd ../ e entre em outro projeto voltando ao passo 2.
+1. Crie as pastas *SASS* e *CSS* no seu projeto;
+2. Crie seus arquivos de estilo com a extensão `.scss` dentro da pasta *SASS* (no [repositório do Grid A2](https://github.com/a2comunicacao/Grid-A2/tree/master/sass), deixamos por padrão alguns arquivos iniciais);
+3. Ainda dentro da pasta *SASS*, crie um arquivo que vai importar todos os arquivos de estilo (por padrão utilize `main.scss` ou `style.scss`):
+```scss
+@import "normalize";
+@import "base";
+@import "typography";
+@import "font-awesome";
+```
+4. Agora, utilizando o terminal, entramos na pasta do projeto: 
+`cd nomedoprojeto`
+5. Dentro da pasta do projeto, precisamos passar um comando para o *SASS* ficar vigiando nossos arquivos e compilar em um arquivo de saída:
+`sass --watch sass/main.scss:css/main.css --style compressed --no-cache`
+(resumidamente o comando acima pega o arquivo `main.scss` que contém todos os arquivos de estilo *SASS* e compila um arquivo minificado `main.css` dentro da pasta *CSS*.
+6. A qualquer momento, é só digitar `ctrl + c` que o *SASS* para de vigiar a pasta.
 
-_Obs.: Existe uma forma simplificada de rodar esses comandos mas é preciso criar um arquivo numa extensão diferenciada e, não consegui fazer no meu. A Sandra pode ajudar nesse caso, pois ela conseguiu fazer de uma outra maneira._
- 
-No Windows o arquito tem uma extensão que não funciona nos MAC's.
+No Windows é possível deixar o comando automatizado através de um arquivo `.bat`.
