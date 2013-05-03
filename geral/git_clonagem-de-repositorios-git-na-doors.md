@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Clonagem de repositórios da Doors
+title: Clonagem de repositórios GIT na Doors
 subtitle: Utilizando o Source Tree, XAMPP e Terminal (MAC)
-category: geral
+category: git
 ---
-
 
 1. Para clonar, no Source Tree aponte o caminho: www.data@192.168.0.201:/Dados/A2Projetos/nomedoprojeto/www . Aponte para a pasta onde serão instalados os websites, no MAC configurei o XAMPP para apontar para a pasta "Sites" e sempre os nomeio com o mesmo nome da Doors;
 

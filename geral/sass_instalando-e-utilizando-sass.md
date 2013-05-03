@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Instalando e utilizando o Sass 
+title: SASS - Instalando e utilizando o SASS 
 subtitle: Utilizando o Terminal (MAC)
-category: geral
+category: sass
 ---
 
 Como por padrão os MAC's já vem com o Ruby instalado, basta que instalemos o Sass (que é uma "biblioteca" do Ruby):

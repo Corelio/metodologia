@@ -1,8 +1,8 @@
 ---
 layout: page
-title: SEO
-subtitle: Criação de keywords e meta description
-category: geral
+title: SEO - Análise de SEO
+subtitle: 
+category: seo
 ---
 
 ## Meta description
