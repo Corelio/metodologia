@@ -24,3 +24,5 @@ O grupo "Importante" deve conter 4 ou 5 itens e o "Secundário" deverá conter o
 * Rápida e Simples de fazer
 * Permite que o time de design pense em objetivos, função e conteúdo
 * Possibilita que as decisões de design sejam tomadas na fase de Layout ou Código. 
+
+Feito esse processo, a próxima etapa é criar os conceitos na fase de Sketch. 
