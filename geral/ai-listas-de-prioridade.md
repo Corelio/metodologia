@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI - Lista de Prioridades: Objetivos e Elementos
+title: AI - Lista de Prioridades
 subtitle: 
 category: arquitetura de informcação
 ---
