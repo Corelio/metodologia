@@ -13,7 +13,7 @@ Lista de Prioridades é uma técnica simples e rápida que tem como função mel
 
 Objetivo é a razão da existência de uma página. Uma página sem objetivo é uma página sem função. Para uma homepage de um portal de notícias, um objetivo poderia ser "fazer as pessoas clicarem nas notícias". Para uma página de suporte e/ou atendimento, poderia ser "viabilizar fácil acesso às pessoas para nos contactar". Uma lista de objetivos deverá conter de 1 a 3 itens. 
 
-### Elementos
+### Lista de Elementos
 
 Elemento é qualquer coisa que possa ir em uma página: menu, botões, formulários, links, tagline, etc. São eles que ajudaram as pessoas na interação e consequentemente nos atingir os objetivos da página. A lista de elementos pode conter de 5 a 10 itens.
 
