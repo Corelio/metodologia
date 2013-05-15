@@ -1,11 +1,9 @@
 ---
 layout: page
-title: AI - Lista de Prioridades
+title: AI - Lista de Prioridades: Objetivos e Elementos
 subtitle: 
 category: arquitetura de informcação
 ---
-
-## AI - Lista de Prioridades: Objetivos e Elementos
 
 Lista de Prioridades é uma técnica simples e rápida que tem como função melhorar o entendimento do projeto e auxiliar a construção do website na fase de Concepção (Sketch > Wireframe > Layout > Código). Para cada página do website, é importante criar uma lista de objetivos e outra de elementos.
 
