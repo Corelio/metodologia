@@ -33,40 +33,61 @@
 
 <img src="" />
 
-<p>Como por padrão os MAC&#8217;s já vem com o Ruby instalado, basta que instalemos o Sass (que é uma &#8220;biblioteca&#8221; do Ruby):</p>
+<h2 id='instalando'>Instalando</h2>
+
+<h3 id='mac'>MAC</h3>
+
+<p>Por padrão já vem com o Ruby instalado, basta que instalemos o Sass (que é uma <em>biblioteca</em> do Ruby):</p>
 
 <ol>
-<li>No terminal digite: <code>sudo gem install sass</code></li>
+<li>No terminal digite:</li>
 </ol>
 
-<p><em>Obs.: No meu caso, como não estou usando a última versão do sistema operacional, ele me apontou um erro de atualização de versão, e pediu que eu rodasse o seguinte comando: <code>gem install --version &#39;~&gt; 0.9.1&#39; rb-fsevent</code></em></p>
+<p><code>sudo gem install sass</code></p>
+
+<p><strong>Obs.:</strong> Pode acontecer, caso a versão do sistema operacional não seja a mais recente, de dar um erro, pedindo que rodemos algum comando para atualização, como esse: <code>gem install --version &#39;~&gt; 0.9.1&#39; rb-fsevent</code>_</p>
+
+<h3 id='windows'>Windows</h3>
+
+<p><a href='http://www.tidbits.com.br/desenvolvendo-css-de-forma-mais-produtiva-usando-sass'>Tutorial</a> explicando como instalar o <em>Ruby</em> e o <em>Sass</em> no Windows.</p>
+
+<h2 id='utilizando_o_sass'>Utilizando o SASS</h2>
 
 <p>Para utilizar o Sass:</p>
 
 <ol>
-<li>Crie as pastas sass e css no seu projeto;</li>
+<li>Crie as pastas <em>SASS</em> e <em>CSS</em> no seu projeto;</li>
 
-<li>Crie os arquivos principais de .scss (na pasta sass) e .css (na pasta css)</li>
+<li>Crie seus arquivos de estilo com a extensão <code>.scss</code> dentro da pasta <em>SASS</em> (no <a href='https://github.com/a2comunicacao/Grid-A2/tree/master/sass'>repositório do Grid A2</a>, deixamos por padrão alguns arquivos iniciais);</li>
 
-<li>No terminal, precisamos dizer pra ele entrar nessa pasta para &#8220;olhar os arquivos&#8221;, então digite: cd /caminhocompletodoprojeto (para copiar todo o caminho da pasta, basta que você copie a pasta pra dentro do terminal, e ele faz todo o caminho pra você, no meu caso, fica assim: cd /Users/vivian/Sites/pastadoprojeto</li>
+<li>Ainda dentro da pasta <em>SASS</em>, crie um arquivo que vai importar todos os arquivos de estilo (por padrão utilize <code>main.scss</code> ou <code>style.scss</code>): <code>
+@import &quot;normalize&quot;;
+@import &quot;base&quot;;
+@import &quot;typography&quot;;
+@import &quot;font-awesome&quot;;
+</code></li>
 
-<li>Agora eu preciso &#8220;falar&#8221; pro Sass, que todas as alterações que eu fizer no arquivo .scss, que ele mande para o arquivo .css, este comando se chama watch, e que seja feito de forma minificada e que não fique guardando cache (ele cria uns arquivos estranhos de cache dentro da pasta), pra isso digite no terminal: sass &#8211;watch sass/main.scss:css/main.css &#8211;style compreesed &#8211;no-cache. Traduzindo: Sass, fique de olhos nas alterações que eu fizer na pasta sass e o no meu arquivo principal .scss e transforme ele no arquivo .css que esta na pasta css, faça isso de modo que ele fique compressado e não guarde cache dos arquivos.</li>
+<li>Agora, utilizando o terminal, entramos na pasta do projeto: <code>
+cd nomedoprojeto
+</code></li>
 
-<li>Para que ele pare de &#8220;olhar&#8221; pasta digitar ctrl + c.</li>
+<li>Dentro da pasta do projeto, precisamos passar um comando para o <em>SASS</em> ficar vigiando nossos arquivos e compilar em um arquivo de saída: <code>
+sass --watch sass/main.scss:css/main.css --style compressed --no-cache
+</code> (resumidamente o comando acima pega o arquivo <code>main.scss</code> que contém todos os arquivos de estilo <em>SASS</em> e compila um arquivo minificado <code>main.css</code> dentro da pasta <em>CSS</em>.</li>
 
-<li>Para trocar de projeto, saia da pasta digitando: cd ../ e entre em outro projeto voltando ao passo 2.</li>
+<li>A qualquer momento, é só digitar <code>ctrl + c</code> que o <em>SASS</em> para de vigiar a pasta.</li>
 </ol>
 
-<p><em>Obs.: Existe uma forma simplificada de rodar esses comandos mas é preciso criar um arquivo numa extensão diferenciada e, não consegui fazer no meu. A Sandra pode ajudar nesse caso, pois ela conseguiu fazer de uma outra maneira.</em></p>
-
-<p>No Windows o arquito tem uma extensão que não funciona nos MAC&#8217;s.</p>
+<p>No Windows é possível deixar o comando automatizado através de um arquivo <code>.bat</code>.</p>
 
 <nav class="page-tools">
 <ol>
-  <li><a title="View the page history on GitHub" href="https://github.com/a2comunicacao/metodologia/commits/gh-pages/geral/sass_instalando-e-utilizando-sass.md">Histórico da página</a>
+  <li><a title="View the page history on GitHub" href="https://github.com/a2comunicacao/metodologia/commits/gh-pages/geral/sass_instalando-e-utilizando-sass.md">Page History</a>
   <li><a title="View and suggest changes to the page source on GitHub" href="https://github.com/a2comunicacao/metodologia/blob/gh-pages/geral/sass_instalando-e-utilizando-sass.md">Page source</a>
 </ol>
 </nav>
+
+
 
 
         </section>
