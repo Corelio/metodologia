@@ -5,3 +5,7 @@ subtitle:
 category: testes
 ---
 
+<<<<<<< HEAD
+=======
+*Frequência de verificações: Todas as segundas
+>>>>>>> Ajustando arquivos
