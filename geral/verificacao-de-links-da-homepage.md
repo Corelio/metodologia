@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Verificação de links da homapage
+title: Verificação de links da homepage
 subtitle: 
-category: 
+category: testes
 ---
 

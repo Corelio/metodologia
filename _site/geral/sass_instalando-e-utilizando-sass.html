@@ -56,27 +56,36 @@
 <p>Para utilizar o Sass:</p>
 
 <ol>
-<li>Crie as pastas <em>SASS</em> e <em>CSS</em> no seu projeto;</li>
+<li>
+<p>Crie as pastas <em>SASS</em> e <em>CSS</em> no seu projeto;</p>
+</li>
 
-<li>Crie seus arquivos de estilo com a extensão <code>.scss</code> dentro da pasta <em>SASS</em> (no <a href='https://github.com/a2comunicacao/Grid-A2/tree/master/sass'>repositório do Grid A2</a>, deixamos por padrão alguns arquivos iniciais);</li>
+<li>
+<p>Crie seus arquivos de estilo com a extensão <code>.scss</code> dentro da pasta <em>SASS</em> (no <a href='https://github.com/a2comunicacao/Grid-A2/tree/master/sass'>repositório do Grid A2</a>, deixamos por padrão alguns arquivos iniciais);</p>
+</li>
 
-<li>Ainda dentro da pasta <em>SASS</em>, crie um arquivo que vai importar todos os arquivos de estilo (por padrão utilize <code>main.scss</code> ou <code>style.scss</code>): <code>
-@import &quot;normalize&quot;;
-@import &quot;base&quot;;
-@import &quot;typography&quot;;
-@import &quot;font-awesome&quot;;
-</code></li>
+<li>
+<p>Ainda dentro da pasta <em>SASS</em>, crie um arquivo que vai importar todos os arquivos de estilo (por padrão utilize <code>main.scss</code> ou <code>style.scss</code>): <code>@import &quot;normalize&quot;;
+     @import &quot;base&quot;;
+     @import &quot;typography&quot;;
+     @import &quot;font-awesome&quot;;
+</code></p>
+</li>
 
-<li>Agora, utilizando o terminal, entramos na pasta do projeto: <code>
+<li>
+<p>Agora, utilizando o terminal, entramos na pasta do projeto: <code>
 cd nomedoprojeto
-</code></li>
+</code></p>
+</li>
 
-<li>Dentro da pasta do projeto, precisamos passar um comando para o <em>SASS</em> ficar vigiando nossos arquivos e compilar em um arquivo de saída: <code>
+<li>
+<p>Dentro da pasta do projeto, precisamos passar um comando para o <em>SASS</em> ficar vigiando nossos arquivos e compilar em um arquivo de saída: <code>
 sass --watch sass/main.scss:css/main.css --style compressed --no-cache
-</code> (resumidamente o comando acima pega o arquivo <code>main.scss</code> que contém todos os arquivos de estilo <em>SASS</em> e compila um arquivo minificado <code>main.css</code> dentro da pasta <em>CSS</em>.</li>
-
-<li>A qualquer momento, é só digitar <code>ctrl + c</code> que o <em>SASS</em> para de vigiar a pasta.</li>
+</code></p>
+</li>
 </ol>
+
+<p>(resumidamente o comando acima pega o arquivo <code>main.scss</code> que contém todos os arquivos de estilo <em>SASS</em> e compila um arquivo minificado <code>main.css</code> dentro da pasta <em>CSS</em>. 6. A qualquer momento, é só digitar <code>ctrl + c</code> que o <em>SASS</em> para de vigiar a pasta.</p>
 
 <p>No Windows é possível deixar o comando automatizado através de um arquivo <code>.bat</code>.</p>
 
