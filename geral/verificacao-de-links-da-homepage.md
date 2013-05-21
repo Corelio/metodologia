@@ -5,4 +5,3 @@ subtitle:
 category: testes
 ---
 
-*Frequência de verificações: Todas as segundas
