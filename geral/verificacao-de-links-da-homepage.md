@@ -5,4 +5,4 @@ subtitle:
 category: testes
 ---
 
-*Teste: Testando arquivo
+*Frequência de verificações: Todas as segundas
