@@ -1,12 +1,9 @@
-metodologia
-===========
+##[Metodologia A2](https://github.com/a2comunicacao/metodologia/wiki)
 
-Documentação do processo de criação e desenvolvimento web na A2 Comunicação
+Documentação de todos os processos de gestão, criação e desenvolvimento web da [A2 Comunicação](http://a2comunicacao.com.br). Como isso podemos transmitir o conhecimento para novos funcionários e discutir novas formas de trabalho. Dividimos a documentação da metodologia em artigos no tamanho e formato de posts de um blog.
 
-**Sobre a metodologia:** É uma tentativa de documentar todos os processos de desenvolvimento web dentro da A2. Como isso podemos transmitir o conhecimento para novos funcionários e discutir novas formas de trabalho. Dividimos a documentação da metodologia em artigos no tamanho e formato de posts de um blog.
+### Como colaborar? 
 
-## Como colaborar? 
+1. **Sugira um novo artigo:**  Inclua uma sugestão na [página inicial](https://github.com/a2comunicacao/metodologia/wiki) 
+2. **Escreva um artigo sugerido:** Acesse a [página inicial](https://github.com/a2comunicacao/metodologia/wiki) e clique em alguma sugestão de artigo (em vermelho).
 
-**1. Escreva um artigo sugerido:** Colocamos algumas sugestões de artigos que precisam ser escritos. Acesse https://github.com/a2comunicacao/metodologia/wiki, escolha um artigo.
-
-**2. Sugira um novo artigo:**  Inclua um novo tema na página inicial da Wiki https://github.com/a2comunicacao/metodologia/wiki 
