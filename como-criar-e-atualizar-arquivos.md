@@ -11,3 +11,4 @@ Para facilitar a escrita e a atualização (também evitar bugs da Wiki com as p
 
 
 ![Criar página](http://lab.a2comunicacao.com.br/metodologia/como-criar-e-atualizar-arquivos.png)
+-![Teste de imagem](http://lab.a2comunicacao.com.br/metodologia/teste.png)
