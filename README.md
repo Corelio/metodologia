@@ -54,7 +54,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * Youtube
 
 ### SEO e Marketing
-* [Análise de Keywords](https://github.com/a2comunicacao/metodologia/wiki/An%C3%A1lise-de-keywords)
+* [Análise de Keywords](https://github.com/a2comunicacao/metodologia/wiki/Ana%CC%81lise-de-keywords)
 * E-mail marketing
 * Google Analytics
 * Google Webmaster Tools
