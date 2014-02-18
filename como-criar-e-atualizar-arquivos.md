@@ -10,4 +10,6 @@ Para facilitar a escrita e a atualização (também evitar bugs da Wiki com as p
 * As imagens passarão a ficar hospedadas no A2Lab, na pasta _metodologia_. Para não criar várias pastas, basta renomear o arquivo com o assunto conforme o artigo e na sequência em que aparecem no texto, por exemplo: analise-de-keywords-01.jpg. Por fim, todas as chamadas de imagem terão a mesma estrutura: _http://lab.a2comunicacao.com.br/metodologia/nome-do-arquivo-01.jpg_.
 
 
+-![Teste de imagem](http://lab.a2comunicacao.com.br/metodologia/como-criar-e-atualizar-arquivos.png)
+
 -![Criar página](http://lab.a2comunicacao.com.br/metodologia/como-criar-e-atualizar-arquivos.png)
