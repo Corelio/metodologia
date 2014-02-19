@@ -8,4 +8,4 @@
 
 ###Referências
 
-* <a id="ref01"></a>[AP Stylebook Finally Changes “Web site” to “website”](http://mashable.com/2010/04/16/ap-stylebook-website/)
+1. <a id="ref01"></a>[AP Stylebook Finally Changes “Web site” to “website”](http://mashable.com/2010/04/16/ap-stylebook-website/)
