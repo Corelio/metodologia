@@ -15,8 +15,19 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 ## Índice
 
 ### A2lab
-* [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2boilerplate.md)
-* [A2lab]()
+* [A2lab](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md)
+  * Projetos ativos
+    * [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2boilerplate.md)
+    * [A2 Showcase](https://gimmebar.com/loves/a2showcase)
+    * [CD Framework](http://lab.a2comunicacao.com.br/cdframework/)
+    * [CSS3 Transition Snippets](http://raphaelfabeni.github.io/transitionSnippets/)
+    * [Font-Size](https://github.com/airton/Font-Size) 
+    * [jQuery Accordion](http://raphaelfabeni.github.io/accordion/) 
+    * [jQuery Editable](http://lab.a2comunicacao.com.br/jquery-editable/) 
+    * [Twitter API](http://lab.a2comunicacao.com.br/twitter-api/) 
+    * [Vídeo Destacado](http://wordpress.org/plugins/video-destacado/) 
+    * [WP Plugins](http://lab.a2comunicacao.com.br/wp-plugins/)
+    * [WP samples](http://raphaelfabeni.github.io/wp-samples/)
 * [Colóquios](https://github.com/a2comunicacao/metodologia/wiki/Col%C3%B3quios)
 
 ### Design
