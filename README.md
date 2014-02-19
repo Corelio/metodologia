@@ -1,4 +1,4 @@
-## Metodologia A2 Comunicação
+## Metodologia A2
 
 Documentação de todos os processos de gestão, criação e desenvolvimento web da [A2 Comunicação](http://a2comunicacao.com.br). Como isso podemos transmitir o conhecimento para novos funcionários e discutir novas formas de trabalho. Dividimos a documentação da metodologia em artigos no tamanho e formato de posts de um blog.
 
