@@ -14,8 +14,9 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 
 ## Índice
 
-### A2 Lab
-* [A2boilerplate](https://github.com/a2comunicacao/metodologia/wiki/A2boilerplate)
+### A2lab
+* [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2boilerplate.md)
+* [A2lab]()
 * [Colóquios](https://github.com/a2comunicacao/metodologia/wiki/Col%C3%B3quios)
 
 ### Design
