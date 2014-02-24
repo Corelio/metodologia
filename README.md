@@ -7,10 +7,10 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 1. **Sugira um novo artigo:**  Inclua no índice abaixo, uma sugestão conforme o tipo de assunto.
 2. **Escreva um artigo sugerido:** Crie uma página, escreva o artigo sugerido e linke-o no índice abaixo.
 
-### Sobre
+### Sobre a Metodologia
 
-* [Boas práticas sobre a documentação da Metodologia A2 ](https://github.com/a2comunicacao/metodologia/blob/master/boas-praticas.md)
-* [Como criar e atualizar arquivos](https://github.com/a2comunicacao/metodologia/blob/master/como-criar-e-atualizar-arquivos.md)
+* [Boas práticas sobre a documentação da Metodologia A2](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#boas-pr%C3%A1ticas-sobre-a-documenta%C3%A7%C3%A3o-da-metodologia-a2)
+* [Como criar e atualizar os arquivos](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#como-criar-e-atualizar-arquivos)
 
 # Índice
 
