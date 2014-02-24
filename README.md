@@ -11,6 +11,8 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 
 * [Boas práticas sobre a documentação da Metodologia A2](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#boas-pr%C3%A1ticas-sobre-a-documenta%C3%A7%C3%A3o-da-metodologia-a2)
 * [Como criar e atualizar os arquivos](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#como-criar-e-atualizar-arquivos)
+  * [Nova estrutura](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#nova-estrutura)
+  * [Padrão de escrita](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#padr%C3%A3o-de-escrita)
 
 # Índice
 
