@@ -46,7 +46,7 @@ O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um template
 ### <a id="wpplugins"></a> WP Plugins
 ### <a id="wpsamples"></a> WP Samples
 
-## <a id="comofunciona"></a>Como funciona?
+## Como funciona?
 
 Estamos utilizando 3 serviços para organizar os projetos:
 * [Trello](https://trello.com/b/3nFSgLdh/a2lab) - Para ter uma visão geral do laboratório, sugerir novas ideias e saber quem está trabalhando em cada projeto;
@@ -55,7 +55,7 @@ Estamos utilizando 3 serviços para organizar os projetos:
 
 Faremos reuniões semanais ou quinzenais para discutir o status dos projetos ou fazer apresentações.
 
-## <a id="comoparticipar"></a> Como participar?
+## Como participar?
 
 Ficou interessado em participar? Siga os passos:
 
@@ -69,7 +69,7 @@ Ficou interessado em participar? Siga os passos:
 
 **Importante:** O trabalho em um projeto experimental não deve ocupar mais do que 20% do seu dia e não pode interferir nas demandas normais de produção.
 
-## <a id="comoiniciar"></a>Como iniciar um projeto?
+## Como iniciar um projeto?
 
 Comece respondendo essas 3 perguntas:
 
@@ -86,7 +86,7 @@ E depois responda mais essas 4 perguntas:
 
 Fonte: [Em busca da Lean UX com Patricia De Cia, Gerente de UX da Locaweb](https://www.eventials.com/pt-br/locaweb/em-busca-da-lean-ux-ou-por-menos-entregaveis-e-mais-resultados-com-patricia-decia-gerente-de-ux-da-locaweb/)
 
-## <a id="outroslaboratorios"></a> Outros laboratórios
+## Outros laboratórios
 
 * [Huge Inc.](http://www.hugeinc.com/about/labs)
 * [Financial Times](http://labs.ft.com/)
@@ -98,7 +98,7 @@ Fonte: [Em busca da Lean UX com Patricia De Cia, Gerente de UX da Locaweb](https
 * [HubSpot](http://dev.hubspot.com/)
 * [AirBNB](http://nerds.airbnb.com/)
 
-## <a id="referencialaboratorios"></a>Referências
+## Referências
 
 * [Uma semana sabática na agência 352: nada de atender clientes, apenas projetos internos usando novas tecnologias. Two rules: you must do something that helps the company, a client, or your own profession, and you must do something that inspires you. ](http://www.352media.com/blog/the-race-to-352-one-week-15-projects/)
 * [Side Projects - A collection of side projects of designers and developers around the world](http://sideprojects.web3canvas.com/)
