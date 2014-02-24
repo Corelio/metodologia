@@ -17,7 +17,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 ### A2lab
 * [A2lab](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md)
   * Projetos ativos
-    * [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2boilerplate.md)
+    * [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#a2boilerplate)
     * [A2 Showcase](https://gimmebar.com/loves/a2showcase)
     * [CD Framework](http://lab.a2comunicacao.com.br/cdframework/)
     * [CSS3 Transition Snippets](http://raphaelfabeni.github.io/transitionSnippets/)
