@@ -35,7 +35,16 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
     * [WP samples](http://raphaelfabeni.github.io/wp-samples/)
   * [Outros laboratórios](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#outros-laborat%C3%B3rios)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#refer%C3%AAncias)
-* [Colóquios](https://github.com/a2comunicacao/metodologia/wiki/Col%C3%B3quios)
+* [Colóquios](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md)
+  * [Linguagens de programação](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#linguagens-de-programa%C3%A7%C3%A3o)
+  * [CMS](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#cms)
+  * [Front-end](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#front-end)
+  * [SEO](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#seo)
+  * [Gestão de projetos](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#gest%C3%A3o-de-projetos)
+  * [Design](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#design)
+  * [Outros](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#outros)
+  * [Escolas de treinamento online para desenvolvedores web](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#escolas-de-treinamento-online-para-desenvolvedores-web)
+  * [Formato](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#formato)
 
 ## Design
 * Arquitetura de informação
