@@ -23,20 +23,6 @@ Estamos utilizando 3 serviços para organizar os projetos:
 
 Faremos reuniões semanais ou quinzenais para discutir o status dos projetos ou fazer apresentações.
 
-## Como participar?
-
-Ficou interessado em participar? Siga os passos:
-
-1. Crie uma conta no [Trello](https://trello.com/) e envie seu username para adriano@a2comunicacao.com.br
-2. Aguarde a permissão e acesse o [board do A2 Lab](https://trello.com/board/a2-lab/50b763fe20f2026f70008a50)
-3. O funcionamento do nosso board é bem simples. Se você tiver alguma ideia de projeto é só criar um card na coluna "Ideias".
-4. Se você já estiver trabalhando em algum projeto do A2lab é só arrastar o card correspondente para a coluna "Fazendo" e colocar seu nome no card. 
-5. Quando um projeto for finalizado ele deve ser colocado na coluna "Feito".
-6. Se o seu projeto envolve código, crie um repositório no [Github da A2](https://github.com/a2comunicacao)
-7. Utilize o domínio lab.a2comunicacao.com.br/nomedoseuprojeto para publicar uma demonstração.
-
-**Importante:** O trabalho em um projeto experimental não deve ocupar mais do que 20% do seu dia e não pode interferir nas demandas normais de produção.
-
 ## Como iniciar um projeto?
 
 Comece respondendo essas 3 perguntas:
@@ -53,6 +39,21 @@ E depois responda mais essas 4 perguntas:
 4. Como vou comunicar meus achados
 
 Fonte: [Em busca da Lean UX com Patricia De Cia, Gerente de UX da Locaweb](https://www.eventials.com/pt-br/locaweb/em-busca-da-lean-ux-ou-por-menos-entregaveis-e-mais-resultados-com-patricia-decia-gerente-de-ux-da-locaweb/)
+
+## Como participar?
+
+Ficou interessado em participar? Siga os passos:
+
+1. Crie uma conta no [Trello](https://trello.com/) e envie seu username para adriano@a2comunicacao.com.br
+2. Aguarde a permissão e acesse o [board do A2 Lab](https://trello.com/board/a2-lab/50b763fe20f2026f70008a50)
+3. O funcionamento do nosso board é bem simples. Se você tiver alguma ideia de projeto é só criar um card na coluna "Ideias".
+4. Se você já estiver trabalhando em algum projeto do A2lab é só arrastar o card correspondente para a coluna "Fazendo" e colocar seu nome no card. 
+5. Quando um projeto for finalizado ele deve ser colocado na coluna "Feito".
+6. Se o seu projeto envolve código, crie um repositório no [Github da A2](https://github.com/a2comunicacao)
+7. Utilize o domínio lab.a2comunicacao.com.br/nomedoseuprojeto para publicar uma demonstração.
+
+**Importante:** O trabalho em um projeto experimental não deve ocupar mais do que 20% do seu dia e não pode interferir nas demandas normais de produção.
+
 
 ## Projetos ativos
 
