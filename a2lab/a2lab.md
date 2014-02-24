@@ -14,38 +14,6 @@ Aqui estão alguns artigos que nos inspiraram a criar o A2lab:
 
 Inicialmente o laboratório possui apenas projetos de Design e Programação, mas queremos abrir o leque para outras disciplinas. 
 
-## Projetos ativos
-
-* [A2boilerplate](#a2boilerplate)
-* [A2 Showcase](#a2showcase)
-* [CD Framework](#cdframework) 
-* [CSS3 Transition Snippets](#css3transitionsnippets) 
-* [Font-Size](#fontsize) 
-* [jQuery Accordion](#jqueryaccordion) 
-* [jQuery Editable](#jqueryeditable)
-* [Twitter API](#twitterapi)
-* [Vídeo Destacado](#videodestacado)
-* [WP Plugins](#wpplugins)
-* [WP samples](#wpsamples) 
-
-### <a id="a2boilerplate"></a>A2boilerplate
-O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um template para dar o 'pontapé inicial' em um projeto web com base no HTML5 Boilerplate e grids responsivos. Surgiu com a idéia de facilitar/auxiliar o início do desenvolvimento de um projeto web.
-
-* [Repositório GitHub](https://github.com/a2comunicacao/A2boilerplate)
-* [Releases](https://github.com/a2comunicacao/A2boilerplate/releases)
-* [Roadmap](https://github.com/a2comunicacao/A2boilerplate/issues/milestones)
-
-### <a id="a2showcase"></a>A2 Showcase
-### <a id="cdframework"></a>CD Framework
-### <a id="css3transitionsnippets"></a> CSS3 Transition Snippets
-### <a id="fontsize"></a> Font-Size
-### <a id="jqueryaccordion"></a> jQuery Accordion
-### <a id="jqueryeditable"></a> jQuery Editable
-### <a id="twitterapi"></a> Twitter API
-### <a id="videodestacado"></a> Vídeo Destacado
-### <a id="wpplugins"></a> WP Plugins
-### <a id="wpsamples"></a> WP Samples
-
 ## Como funciona?
 
 Estamos utilizando 3 serviços para organizar os projetos:
@@ -85,6 +53,39 @@ E depois responda mais essas 4 perguntas:
 4. Como vou comunicar meus achados
 
 Fonte: [Em busca da Lean UX com Patricia De Cia, Gerente de UX da Locaweb](https://www.eventials.com/pt-br/locaweb/em-busca-da-lean-ux-ou-por-menos-entregaveis-e-mais-resultados-com-patricia-decia-gerente-de-ux-da-locaweb/)
+
+## Projetos ativos
+
+* [A2boilerplate](#a2boilerplate)
+* [A2 Showcase](#a2showcase)
+* [CD Framework](#cdframework) 
+* [CSS3 Transition Snippets](#css3transitionsnippets) 
+* [Font-Size](#fontsize) 
+* [jQuery Accordion](#jqueryaccordion) 
+* [jQuery Editable](#jqueryeditable)
+* [Twitter API](#twitterapi)
+* [Vídeo Destacado](#videodestacado)
+* [WP Plugins](#wpplugins)
+* [WP samples](#wpsamples) 
+
+### <a id="a2boilerplate"></a>A2boilerplate
+O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um template para dar o 'pontapé inicial' em um projeto web com base no HTML5 Boilerplate e grids responsivos. Surgiu com a idéia de facilitar/auxiliar o início do desenvolvimento de um projeto web.
+
+* [Repositório GitHub](https://github.com/a2comunicacao/A2boilerplate)
+* [Releases](https://github.com/a2comunicacao/A2boilerplate/releases)
+* [Roadmap](https://github.com/a2comunicacao/A2boilerplate/issues/milestones)
+
+### <a id="a2showcase"></a>A2 Showcase
+### <a id="cdframework"></a>CD Framework
+### <a id="css3transitionsnippets"></a> CSS3 Transition Snippets
+### <a id="fontsize"></a> Font-Size
+### <a id="jqueryaccordion"></a> jQuery Accordion
+### <a id="jqueryeditable"></a> jQuery Editable
+### <a id="twitterapi"></a> Twitter API
+### <a id="videodestacado"></a> Vídeo Destacado
+### <a id="wpplugins"></a> WP Plugins
+### <a id="wpsamples"></a> WP Samples
+
 
 ## Outros laboratórios
 
