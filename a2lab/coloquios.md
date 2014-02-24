@@ -37,8 +37,8 @@
     * CSS3
       * Transition e Animation | [Transition e Animation - Como aplicar](http://www.slideshare.net/raphaelfabeni/transition-animation-22609313)
       * Design Responsivo | [Design Responsivo: o que é e algumas considerações](http://www.slideshare.net/raphaelfabeni/design-responsivo-27345593)
-				* PhoneGap
-				* jQuery mobile
+      * PhoneGap
+      * jQuery mobile
   * Pré-processadores
     * SASS
       * Compass
@@ -96,7 +96,7 @@
   * A2 Lab
     * A2boilerplate | [GridA2](http://www.slideshare.net/raphaelfabeni/a2boilerplate)
 
-## Escolas de treinamento online para desenvolvedores web:
+## Escolas de treinamento online para desenvolvedores web
 
 * http://www.lynda.com/
 * http://teamtreehouse.com/
