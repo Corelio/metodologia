@@ -1,22 +1,25 @@
-## Metodologia A2
+# Metodologia A2
 
 Documentação de todos os processos de gestão, criação e desenvolvimento web da [A2 Comunicação](http://a2comunicacao.com.br). Como isso podemos transmitir o conhecimento para novos funcionários e discutir novas formas de trabalho. Dividimos a documentação da metodologia em artigos no tamanho e formato de posts de um blog.
 
-#### Como colaborar? 
+### Como colaborar? 
 
 1. **Sugira um novo artigo:**  Inclua no índice abaixo, uma sugestão conforme o tipo de assunto.
 2. **Escreva um artigo sugerido:** Crie uma página, escreva o artigo sugerido e linke-o no índice abaixo.
 
-#### Sobre
+### Sobre
 
 * [Boas práticas sobre a documentação da Metodologia A2 ](https://github.com/a2comunicacao/metodologia/blob/master/boas-praticas.md)
 * [Como criar e atualizar arquivos](https://github.com/a2comunicacao/metodologia/blob/master/como-criar-e-atualizar-arquivos.md)
 
-## Índice
+# Índice
 
-### A2lab
+## A2lab
 * [A2lab](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md)
-  * Projetos ativos
+  * [Como funciona?](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#como-funciona)
+  * [Como iniciar um projeto](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#como-iniciar-um-projeto)
+  * [Como participar](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#como-participar)
+  * [Projetos ativos](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#projetos-ativos)
     * [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#a2boilerplate)
     * [A2 Showcase](https://gimmebar.com/loves/a2showcase)
     * [CD Framework](http://lab.a2comunicacao.com.br/cdframework/)
@@ -28,9 +31,11 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
     * [Vídeo Destacado](http://wordpress.org/plugins/video-destacado/) 
     * [WP Plugins](http://lab.a2comunicacao.com.br/wp-plugins/)
     * [WP samples](http://raphaelfabeni.github.io/wp-samples/)
+  * [Outros laboratórios](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#outros-laborat%C3%B3rios)
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#refer%C3%AAncias)
 * [Colóquios](https://github.com/a2comunicacao/metodologia/wiki/Col%C3%B3quios)
 
-### Design
+## Design
 * Arquitetura de informação
   * Análise heurística
   * Benchmark
@@ -50,7 +55,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * Visual
   * [Photoshop](https://github.com/a2comunicacao/metodologia/wiki/Photoshop)
 
-### Gestão de Projetos
+## Gestão de Projetos
 
 * [Basecamp](https://github.com/a2comunicacao/metodologia/wiki/Basecamp)
 * [Briefing](https://github.com/a2comunicacao/metodologia/wiki/Briefing)
@@ -60,13 +65,13 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * Reunião de retrospectiva
   * Reunião diária
   
-### Redes Sociais
+## Redes Sociais
 
 * [Facebook](https://github.com/a2comunicacao/metodologia/wiki/Facebook)
 * Twitter
 * Youtube
 
-### SEO e Marketing
+## SEO e Marketing
 * [Análise de Keywords](https://github.com/a2comunicacao/metodologia/wiki/Ana%CC%81lise-de-keywords)
 * E-mail marketing
 * Google Analytics
@@ -74,7 +79,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * [Meta Tags](https://github.com/a2comunicacao/metodologia/wiki/Meta-Tags)
 * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/wiki/Ranking-de-serp)
 
-### Tecnologia
+## Tecnologia
 * Back-end
   * CMS
     * A2siteBox
@@ -88,7 +93,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [SASS](https://github.com/a2comunicacao/metodologia/wiki/SASS)
 * [Newsletter](https://github.com/a2comunicacao/metodologia/wiki/Newsletter)
 
-### Testes
+## Testes
 * [Como configurar máquinas virtuais para testar no Internet Explorer](https://github.com/a2comunicacao/metodologia/wiki/Como-configurar-m%C3%A1quinas-virtuais-para-testar-no-Internet-Explorer)
 * [Como realizar um teste](https://github.com/a2comunicacao/metodologia/wiki/Como-realizar-um-teste)
 * [Device Lab](https://github.com/a2comunicacao/metodologia/wiki/Device-lab)
