@@ -1,4 +1,4 @@
-## A2lab
+# A2lab
 
 Criamos oficialmente um laboratório para desenvolvimento de projetos internos chamado [A2lab](http://lab.a2comunicacao.com.br/). Será um ambiente de desenvolvimento de iniciativas experimentais que não estão necessariamente ligadas a um cliente. O objetivo é fomentar inovação, criatividade e o uso de tecnologias que não possíveis no dia-a-dia de produção.
 
@@ -14,7 +14,7 @@ Aqui estão alguns artigos que nos inspiraram a criar o A2lab:
 
 Inicialmente o laboratório possui apenas projetos de Design e Programação, mas queremos abrir o leque para outras disciplinas. 
 
-### Projetos ativos
+## Projetos ativos
 
 * [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2boilerplate.md)
 * [A2 Showcase](https://gimmebar.com/loves/a2showcase)
@@ -28,7 +28,18 @@ Inicialmente o laboratório possui apenas projetos de Design e Programação, ma
 * [WP Plugins](http://lab.a2comunicacao.com.br/wp-plugins/)
 * [WP samples](http://raphaelfabeni.github.io/wp-samples/) 
 
-### Como funciona?
+### A2boilerplate
+
+#### O que é?
+O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um template para dar o 'pontapé inicial' em um projeto web com base no HTML5 Boilerplate e grids responsivos. Surgiu com a idéia de facilitar/auxiliar o início do desenvolvimento de um projeto web.
+
+#### Saiba mais
+* [Repositório GitHub](https://github.com/a2comunicacao/A2boilerplate)
+* [Releases](https://github.com/a2comunicacao/A2boilerplate/releases)
+* [Roadmap](https://github.com/a2comunicacao/A2boilerplate/issues/milestones)
+
+
+## Como funciona?
 
 Estamos utilizando 3 serviços para organizar os projetos:
 * [Trello](https://trello.com/b/3nFSgLdh/a2lab) - Para ter uma visão geral do laboratório, sugerir novas ideias e saber quem está trabalhando em cada projeto;
@@ -37,7 +48,7 @@ Estamos utilizando 3 serviços para organizar os projetos:
 
 Faremos reuniões semanais ou quinzenais para discutir o status dos projetos ou fazer apresentações.
 
-### Como participar?
+## Como participar?
 
 Ficou interessado em participar? Siga os passos:
 
@@ -51,7 +62,7 @@ Ficou interessado em participar? Siga os passos:
 
 **Importante:** O trabalho em um projeto experimental não deve ocupar mais do que 20% do seu dia e não pode interferir nas demandas normais de produção.
 
-### Como iniciar um projeto?
+## Como iniciar um projeto?
 
 Comece respondendo essas 3 perguntas:
 
@@ -68,7 +79,7 @@ E depois responda mais essas 4 perguntas:
 
 Fonte: [Em busca da Lean UX com Patricia De Cia, Gerente de UX da Locaweb](https://www.eventials.com/pt-br/locaweb/em-busca-da-lean-ux-ou-por-menos-entregaveis-e-mais-resultados-com-patricia-decia-gerente-de-ux-da-locaweb/)
 
-### Outros laboratórios
+## Outros laboratórios
 
 * [Huge Inc.](http://www.hugeinc.com/about/labs)
 * [Financial Times](http://labs.ft.com/)
@@ -80,7 +91,7 @@ Fonte: [Em busca da Lean UX com Patricia De Cia, Gerente de UX da Locaweb](https
 * [HubSpot](http://dev.hubspot.com/)
 * [AirBNB](http://nerds.airbnb.com/)
 
-### Referências
+## Referências
 
 * [Uma semana sabática na agência 352: nada de atender clientes, apenas projetos internos usando novas tecnologias. Two rules: you must do something that helps the company, a client, or your own profession, and you must do something that inspires you. ](http://www.352media.com/blog/the-race-to-352-one-week-15-projects/)
 * [Side Projects - A collection of side projects of designers and developers around the world](http://sideprojects.web3canvas.com/)
