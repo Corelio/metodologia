@@ -107,4 +107,7 @@ Ao reorganizar ou criar um sitemap, peça feedback para outros membros de sua eq
 
 ## <a id="testedeusabilidade"></a>Teste de usabilidade
 
+### Como realizar um teste
+1. Listar os cenários
+
 ## <a id="wireframes"></a>Wireframes
