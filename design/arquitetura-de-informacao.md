@@ -44,7 +44,7 @@ Deverá conter entre 1 a 3 itens. Mais do que isso indica que essa página em qu
 #### Importante
 Deve conter de 4 a 5 itens.
 
-### Secundário
+#### Secundário
 Deverá conter o restante.
 
 ### Vantagens da técnica
