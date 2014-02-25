@@ -80,7 +80,7 @@ A navegação de um website deve ser uma ponte entre as necessidades do público
 Utilize um dos modelos abaixo para organizar a navegação do website:
 * Esquema exato: alfabeto, tempo, localização ou sequência;
 * Esquema Ambíguo: assunto, tarefa, público-alvo, metáfora ou híbrido.
-* 
+
 #### 3. Padronize os rótulos
 A escolha dos rótulos (nomes das seções nos menus) é uma das etapas mais importantes.
 O rótulo é uma forma rápida e eficaz para representar uma informação ou comunicar um conceito. É através dele que o usuário entende a navegação e adapta-se ao sistema de organização e navegação do website. Um rótulo precisa ser claro e comunicar o conceito rapidamente.
