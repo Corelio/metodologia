@@ -38,14 +38,9 @@ Elemento é qualquer coisa que possa ir em uma página: menu, botões, formulár
 ### Priorizando a lista
 Uma vez que você tenha montado as duas listas - objetivos e elementos -, organize todos os itens em 3 grupos:
 
-#### Muito importante
-Deverá conter entre 1 a 3 itens. Mais do que isso indica que essa página em questão pode não ter um foco e o resultado não será efetivo.
-
-#### Importante
-Deve conter de 4 a 5 itens.
-
-#### Secundário
-Deverá conter o restante.
+* Muito importante:Deverá conter entre 1 a 3 itens. Mais do que isso indica que essa página em questão pode não ter um foco e o resultado não será efetivo;
+* Importante: Deve conter de 4 a 5 itens;
+* Secundário: Deverá conter o restante.
 
 ### Vantagens da técnica
 * Rápida e simples de fazer
