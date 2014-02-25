@@ -67,7 +67,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
     * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#softwares-recomendados)
     * [Leitura recomendada](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#leitura-recomendada)
   * Teste A/B
-  * [Teste de Usabilidade](https://github.com/a2comunicacao/metodologia/edit/master/design/arquitetura-de-informacao.md#teste-de-usabilidade)
+  * [Teste de Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#teste-de-usabilidade)
   * Wireframes
 * [Guias de estilo](https://github.com/a2comunicacao/metodologia/wiki/Guias-de-Estilo)
 * Visual
