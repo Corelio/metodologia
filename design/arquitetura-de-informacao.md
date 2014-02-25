@@ -98,6 +98,7 @@ Ao reorganizar ou criar um sitemap, peça feedback para outros membros de sua eq
 * [Mindnode Lite (Mac)](http://mindnode.com/)
 * Powerpoint
 
+
 ### Leitura recomendada
 * [Vocabulário visual de Jesse James Garret](http://www.jjg.net/ia/visvocab/)
 * [O uso de sitemaps nas reuniões com clientes](http://arquiteturadeinformacao.com/recursos/metodologia/o-uso-de-sitemaps-nas-reunioes-com-clientes/)
