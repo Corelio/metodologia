@@ -52,7 +52,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * Benchmark
   * Card Sorting
   * Heatmap
-  * [Inventário de conteúdo](https://github.com/a2comunicacao/metodologia/edit/master/design/arquitetura-de-informacao.md#invent%C3%A1rio-de-conte%C3%BAdo)
+  * [Inventário de conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#invent%C3%A1rio-de-conte%C3%BAdo)
   * [Lista de prioridades](https://github.com/a2comunicacao/metodologia/edit/master/design/arquitetura-de-informacao.md#lista-de-prioridades)
     * [Lista de objetivos](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#lista-de-objetivos)
     * [Lista de elementos](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#lista-de-elementos)
