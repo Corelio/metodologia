@@ -60,7 +60,7 @@ Ficou interessado em participar? Siga os passos:
 * [A2boilerplate](#a2boilerplate)
 * [A2 Showcase](#a2showcase)
 * [CD Framework](#cdframework) 
-* [CSS3 Transition Snippets](#css3transitionsnippets) 
+* [CSS3 Transition Snippets](#css3-transition-snippets) 
 * [Font-Size](#fontsize) 
 * [jQuery Accordion](#jqueryaccordion) 
 * [jQuery Editable](#jqueryeditable)
@@ -69,7 +69,7 @@ Ficou interessado em participar? Siga os passos:
 * [WP Plugins](#wpplugins)
 * [WP samples](#wpsamples) 
 
-### <a id="a2boilerplate"></a>A2boilerplate
+### A2boilerplate
 O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um template para dar o 'pontapé inicial' em um projeto web com base no HTML5 Boilerplate e grids responsivos. Surgiu com a idéia de facilitar/auxiliar o início do desenvolvimento de um projeto web.
 
 * [Repositório GitHub](https://github.com/a2comunicacao/A2boilerplate)
@@ -78,7 +78,7 @@ O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um template
 
 ### <a id="a2showcase"></a>A2 Showcase
 ### <a id="cdframework"></a>CD Framework
-### <a id="css3transitionsnippets"></a> CSS3 Transition Snippets
+### CSS3 Transition Snippets
 ### <a id="fontsize"></a> Font-Size
 ### <a id="jqueryaccordion"></a> jQuery Accordion
 ### <a id="jqueryeditable"></a> jQuery Editable
