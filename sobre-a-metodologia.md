@@ -21,7 +21,7 @@ Para facilitar a escrita e a atualização (também evitar bugs nas páginas da 
 
 * Serão criadas páginas apenas para tópicos principais. Ex. A2lab (página) - A2boilerplate (subitem dentro da página A2lab);
 * Cada página deverá estar dentro de uma pasta, com a categoria relacionada, ex. A2lab (pasta) > Colóquios (página principal);
-* Para criar uma nova página, clique no "+" ao lado do nome do repositório ![Incluindo página](http://lab.a2comunicacao.com.br/metodologia/como_criar.png) e, para inserí-lo dentro uma pasta, crie o arquivo com a seguinte estrutura: nome-da-pasta/nome-do-arquivo.md (não esqueça de acrescentar o .md, caso contrário, um outro tipo de arquivo será criado);
+* Para criar uma nova página, clique no "+" ao lado do nome do repositório ![Incluindo página](http://lab.a2comunicacao.com.br/metodologia/como_criar.png) e, para inserí-lo dentro uma pasta, crie o arquivo com a seguinte estrutura: nome-da-pasta/nome-do-arquivo.md) (não esqueça de acrescentar o .md, caso contrário, um outro tipo de arquivo será criado);
 * Todos os subitens de um artigo deverão ficar listados no índice;
 * Se houver mais de 3 subitens sobre um assunto, deverá existir uma lista com as âncoras para esses subitens;
 * As imagens passarão a ficar hospedadas no A2Lab, na pasta _metodologia_. Para não criar várias pastas, basta renomear o arquivo com o assunto conforme o artigo e na sequência em que aparecem no texto, por exemplo: analise(underline)01.jpg, assim todas as imagens terão a mesma estrutura.
