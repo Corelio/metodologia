@@ -58,19 +58,19 @@ Ficou interessado em participar? Siga os passos:
 ## Projetos ativos
 
 * [A2boilerplate](#a2boilerplate)
-* [A2 Showcase](#a2showcase)
-* [CD Framework](#cdframework) 
+* [A2 Showcase](#a2-showcase)
+* [CD Framework](#cd-framework) 
 * [CSS3 Transition Snippets](#css3-transition-snippets) 
-* [Font-Size](#fontsize) 
-* [jQuery Accordion](#jqueryaccordion) 
-* [jQuery Editable](#jqueryeditable)
-* [Twitter API](#twitterapi)
-* [Vídeo Destacado](#videodestacado)
-* [WP Plugins](#wpplugins)
-* [WP samples](#wpsamples) 
+* [Font-Size](#font-size) 
+* [jQuery Accordion](#jquery-accordion) 
+* [jQuery Editable](#jquery-editable)
+* [Twitter API](#twitter-api)
+* [Vídeo Destacado](#v%C3%ADdeo-destacado)
+* [WP Plugins](#wp-plugins)
+* [WP samples](#wp-samples) 
 
 ### A2boilerplate
-O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um template para dar o 'pontapé inicial' em um projeto web com base no HTML5 Boilerplate e grids responsivos. Surgiu com a idéia de facilitar/auxiliar o início do desenvolvimento de um projeto web.
+O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um _boilerplate_ para dar o 'pontapé inicial' em um projeto web. Utiliza o _Grunt_ como automatizador de tarefas e possui um _Guia de Estilo_ integrado. 
 
 * [Repositório GitHub](https://github.com/a2comunicacao/A2boilerplate)
 * [Releases](https://github.com/a2comunicacao/A2boilerplate/releases)
