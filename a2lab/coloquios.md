@@ -29,14 +29,17 @@
     * Instalação e criação de um tema
   * Joomla!
     * Instalação e criação de um tema
+  * A2siteBox
+    * _A2 Comunicação: o antes e o depois_ | [Slideshare](http://pt.slideshare.net/raphaelfabeni/a2-comunicacao) - [Online](http://raphaelfabeni.com.br/talks/a2comunicacao/#/)
     
 ### Front-end
   * HTML/CSS
     * HTML para e-mail marketing
     * HTML 5
     * CSS3
-      * Transition e Animation | [Transition e Animation - Como aplicar](http://www.slideshare.net/raphaelfabeni/transition-animation-22609313)
-      * Design Responsivo | [Design Responsivo: o que é e algumas considerações](http://www.slideshare.net/raphaelfabeni/design-responsivo-27345593)
+      * _Transition e Animation: Como aplicar_ | [Slideshare](http://www.slideshare.net/raphaelfabeni/transition-animation-22609313) - [Online](http://raphaelfabeni.com.br/talks/transition-animation/) 
+      * Design Responsivo
+        * _Design Responsivo: o que é e algumas considerações_ | [Slideshare](http://www.slideshare.net/raphaelfabeni/design-responsivo-27345593) - [Online](http://raphaelfabeni.com.br/talks/design-responsivo/#/design-responsivo)
       * PhoneGap
       * jQuery mobile
   * Pré-processadores
@@ -87,14 +90,16 @@
   * Visual
     * Photoshop
       * Manipulação de imagens  
-  * Guias de Estilo | [GDE - Educação SP](http://www.slideshare.net/raphaelfabeni/gde-educacaosp)
+  * Guia de Estilo
+    * _GDE - Educação SP_ | [Slideshare](http://www.slideshare.net/raphaelfabeni/gde-educacaosp) - [Online](http://raphaelfabeni.com.br/talks/gde-educacaosp/#/)
 
 ### Outros
   * Produtividade
   * OpenGraph
   * Desenvolvimento para Facebook
   * A2 Lab
-    * A2boilerplate | [GridA2](http://www.slideshare.net/raphaelfabeni/a2boilerplate)
+    * A2boilerplate
+      * _GridA2_ | [Slideshare](http://www.slideshare.net/raphaelfabeni/a2boilerplate) - [Online](http://raphaelfabeni.com.br/talks/grid-a2/)
 
 ## Escolas de treinamento online para desenvolvedores web
 
