@@ -73,8 +73,8 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Artigos](https://github.com/a2comunicacao/metodologia/blob/master/design/guias-de-estilo.md#artigos-em-ordem-cronol%C3%B3gica)
   * [Ferramentas](https://github.com/a2comunicacao/metodologia/blob/master/design/guias-de-estilo.md#ferramentas)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/design/guias-de-estilo.md#refer%C3%AAncias)
-* Visual
-  * [Photoshop](https://github.com/a2comunicacao/metodologia/wiki/Photoshop)
+* [Visual](https://github.com/a2comunicacao/metodologia/blob/master/design/visual.md#visual)
+  * [Photoshop](https://github.com/a2comunicacao/metodologia/blob/master/design/visual.md#photoshop)
 
 ## Gestão de Projetos
 
