@@ -98,18 +98,19 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/wiki/Ranking-de-serp)
 
 ## Tecnologia
-* Back-end
-  * CMS
-    * A2siteBox
-    * Wordpress
-  * [GIT](https://github.com/a2comunicacao/metodologia/wiki/GIT)
-* Deploy
-* Front-end
-  * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/wiki/Adobe-Edge-Inspect)
-  * [Disqus](https://github.com/a2comunicacao/metodologia/wiki/Disqus)
-  * [Github pages](https://github.com/a2comunicacao/metodologia/wiki/GitHub-Pages)
-  * [SASS](https://github.com/a2comunicacao/metodologia/wiki/SASS)
-* [Newsletter](https://github.com/a2comunicacao/metodologia/wiki/Newsletter)
+* [Back-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md)
+  * [CMS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#cms)
+    * [A2siteBox](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#a2sitebox)
+    * [Wordpress](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#wordpress)
+  * [GIT](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#git)
+    * [Clonagem de repositórios internos](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#clonagem-de-reposit%C3%B3rios-no-servidor-interno-doors) 
+    * [Github pages](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#github-pages) 
+* [Deploy](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/deploy.md)
+* [Front-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md)
+  * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#adobe-edge-inspect)
+  * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
+  * [SASS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#sass)
+* [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md)
 
 ## Testes
 * [Como configurar máquinas virtuais para testar no Internet Explorer](https://github.com/a2comunicacao/metodologia/wiki/Como-configurar-m%C3%A1quinas-virtuais-para-testar-no-Internet-Explorer)
