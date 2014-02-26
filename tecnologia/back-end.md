@@ -6,4 +6,4 @@
 
 ### WordPress
 
-### Git
+## Git
