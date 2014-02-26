@@ -78,7 +78,9 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 
 ## Gestão de Projetos
 
-* [Basecamp](https://github.com/a2comunicacao/metodologia/wiki/Basecamp)
+* [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/basecamp.md#basecamp)
+  * [Boas práticas](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/basecamp.md#boas-pr%C3%A1ticas)
+  * [Perguntas frequentes (FAQ)](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/basecamp.md#perguntas-frequentes-faq)
 * [Briefing](https://github.com/a2comunicacao/metodologia/wiki/Briefing)
 * [Metodologias ágeis](https://github.com/a2comunicacao/metodologia/wiki/Metodologias-%C3%81geis)
 * Reuniões  
