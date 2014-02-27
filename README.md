@@ -97,7 +97,11 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   
 ## Redes Sociais
 
-* [Facebook](https://github.com/a2comunicacao/metodologia/wiki/Facebook)
+* [Facebook](https://github.com/a2comunicacao/metodologia/blob/master/redes-sociais/facebook.md#facebook)
+  * Como usar as open graph meta tags do Facebook em um website
+  * [Criação de aplicativo no Facebook](https://github.com/a2comunicacao/metodologia/blob/master/redes-sociais/facebook.md#cria%C3%A7%C3%A3o-de-aplicativo-no-facebook)
+  * Integração do aplicativo do Facebook com o Wordpress
+  * [Referências de peças para o Facebook](https://github.com/a2comunicacao/metodologia/blob/master/redes-sociais/facebook.md#refer%C3%AAncias-de-pe%C3%A7as-para-o-facebook)
 * Twitter
 * Youtube
 
