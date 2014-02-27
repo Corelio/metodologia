@@ -47,7 +47,9 @@ _Obs.:_ Caso esqueça a tag `unsub` ou `rewards` o Mailchimp automaticamente i
 * Não esquecer de preencher a tag `<title>`;
 * Insira o atributo `outline: none` em todos os elementos `<a>`, evita que fique com a borda pontilhada ao clicar.
 
-## Como incluir elementos inline, com background e espaçamento interno
+## Dicas
+
+### Como incluir elementos inline, com background e espaçamento interno
 
 Exemplo:
 ![Elementos inline com background](img/newsletter_itens-inline.png)
