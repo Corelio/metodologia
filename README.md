@@ -88,7 +88,8 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#conte%C3%BAdo)
   * [Desenvolvimento](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#desenvolvimento)
   * [Design](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#design)
-* [Metodologias ágeis](https://github.com/a2comunicacao/metodologia/wiki/Metodologias-%C3%81geis)
+* [Metodologias ágeis](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/metodologias-ageis.md#metodologias-%C3%A1geis)
+  * [Scrum](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/metodologias-ageis.md#scrum)
 * Reuniões  
   * [Reunião de kickoff](https://github.com/a2comunicacao/metodologia/wiki/Reuni%C3%A3o-de-kickoff)
   * Reunião de retrospectiva
