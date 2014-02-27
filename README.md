@@ -106,7 +106,10 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * Youtube
 
 ## SEO e Marketing
-* [Análise de Keywords](https://github.com/a2comunicacao/metodologia/wiki/Ana%CC%81lise-de-keywords)
+* [Análise de Keywords](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#an%C3%A1lise-de-keywords)
+  * [Exportando dados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#exportando-dados)
+  * [Organizando dados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#organizando-dados)
+  * [Planilha dos 15 termos mais buscados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#planilha-dos-15-termos-mais-buscados)
 * E-mail marketing
 * Google Analytics
 * Google Webmaster Tools
@@ -123,7 +126,6 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
     * [Github pages](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#github-pages) 
 * [Deploy](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/deploy.md)
 * [Front-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md)
-  * [Grunt](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#grunt)
   * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#adobe-edge-inspect)
   * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
   * [SASS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#sass)
