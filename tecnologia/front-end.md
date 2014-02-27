@@ -1,5 +1,19 @@
 # Front-end
 
+## Grunt
+
+Basicamente o Grunt é um automatizador de tarefas. Utilizamos ele pra agilizar algumas tarefas comuns no desenvolvimento de um projeto e adotamos o uso dele no [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#a2boilerplate). Pra instalá-lo em sua máquina você precisa de [NodeJS](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/) e NPM. Na prática, você instala _plugins_ e configura tarefas que rodarão através de comandos. As tarefas que costumamos utilizar são:
+* _imagemin_: Reduz tamanho das imagens.
+* _svg2png_: Converte SVGs em PNGs para utilização em browsers que não tem suporte para SVG.
+* _copy_: Copia arquivos de uma pasta para outra.
+* _concat_: Concatena arquivos (utilizamos principalmente para arquivos JS).
+* _uglify_: Minifica arquivos JS.
+* _jshint_: Valida arquivos JS.
+* _sass_: Realiza tarefa do pré-processador SASS.
+* *browser_sync*: Levanta um servidor e sincroniza todos dispositivos que acessarem determinado IP (ótimo para testes _cross-device_).
+* _watch_: Atualiza a página automaticamente conforme arquivos são salvos (funciona em complemento com o plugin [LiveReload](http://livereload.com/)).
+
+
 ## Adobe Edge Inspect
 
 1. Primeiro precisamos fazer o [download](https://creative.adobe.com/inspect) do aplicativo do Edge Inspect. É necessário ter/criar uma conta na Creative Cloud.
@@ -59,12 +73,9 @@ Por padrão já vem com o Ruby instalado, basta que instalemos o Sass (que é um
 
 ### Utilização
 
-Para utilizar o Sass:
+As principais vantagens do SASS são você poder utilizar _mixins_ e funções para realizar cálculos, a possibilidade de criar vários arquivos de estilo melhorando assim a modularização e divisão, além de gerar apenas um arquivo de estilo.
 
-1. Crie as pastas *SASS* e *CSS* na raiz do seu projeto;
-2. Crie seus arquivos de estilo com a extensão `.scss` dentro da pasta *SASS* (no [repositório do Grid A2](https://github.com/a2comunicacao/Grid-A2/tree/master/sass), deixamos por padrão alguns arquivos iniciais);
-3. Ainda dentro da pasta *SASS*, crie um arquivo que vai importar todos os arquivos de estilo (por padrão utilize `main.scss` ou `style.scss`):
-Seu arquivo ficaria mais ou menos assim:
+A extensão dos arquivos é `.scss` e, em um arquivo específico você importa todos os arquivos SASS que criou. Seu arquivo ficaria mais ou menos assim:
 ```
 @import "normalize";
 @import "base";
@@ -72,18 +83,9 @@ Seu arquivo ficaria mais ou menos assim:
 @import "layout";
 ```
 
-4. Agora, utilizando o terminal, entramos na pasta do projeto: 
-  ```
-  cd nomedoprojeto
-  ```
-5. Dentro da pasta do projeto, precisamos passar um comando para o *SASS* ficar vigiando nossos arquivos e compilá-los em um único arquivo:
+Para rodar, você precisa abrir o termina na pasta do projeto e passar a seguinte instrução: 
 ```
-  sass --watch sass/main.scss:css/main.css --style compressed --no-cache
+  sass --watch diretorioSASS/arquivo.scss:diretorioCSS/arquivo.css --style compressed --no-cache
 ```
-> Resumidamente o comando acima pega o arquivo `main.scss` que contém todos os arquivos de estilo *SASS* e compila um arquivo minificado `main.css` dentro da pasta *CSS*.
-> 
-6. A qualquer momento, é só digitar `ctrl + c` que o *SASS* para de vigiar a pasta.
 
-Para facilitar, no Windows é possível deixar esse comando automatizado através de um arquivo `.bat` com as instruções.
-
-**Obs.** Fique a vontade para a criação das pastas *SASS* e *CSS*. Sugerimos dessa maneira, por já trabalharmos com essa estrutura de pastas em projetos anteriores.
+> Resumidamente o comando acima pega o arquivo principal que importa todos os arquivos `.scss` e compila em um arquivo CSS minificado.
