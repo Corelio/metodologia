@@ -127,6 +127,10 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
   * [SASS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#sass)
 * [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md)
+   * [Estrutura](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#estrutura)
+   * [Boas Práticas](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#boas-pr%C3%A1ticas)
+   * [Mailchimp](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#mailchimp)
+   * [Dicas](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#dicas)
 
 ## Testes
 * [Como configurar máquinas virtuais para testar no Internet Explorer](https://github.com/a2comunicacao/metodologia/wiki/Como-configurar-m%C3%A1quinas-virtuais-para-testar-no-Internet-Explorer)
