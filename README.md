@@ -123,6 +123,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
     * [Github pages](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#github-pages) 
 * [Deploy](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/deploy.md)
 * [Front-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md)
+  * [Grunt](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#grunt)
   * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#adobe-edge-inspect)
   * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
   * [SASS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#sass)
