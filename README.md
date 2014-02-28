@@ -139,9 +139,10 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
    * [Dicas](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#dicas)
 
 ## Testes
-* [Como configurar máquinas virtuais para testar no Internet Explorer](https://github.com/a2comunicacao/metodologia/wiki/Como-configurar-m%C3%A1quinas-virtuais-para-testar-no-Internet-Explorer)
 * [Como realizar um teste](https://github.com/a2comunicacao/metodologia/wiki/Como-realizar-um-teste)
 * [Device Lab](https://github.com/a2comunicacao/metodologia/wiki/Device-lab)
+* [Internet Explorer](https://github.com/a2comunicacao/metodologia/blob/master/testes/internet-explorer.md#internet-explorer)
+  * [Como configurar máquinas virtuais para testar o Internet Explorer?](https://github.com/a2comunicacao/metodologia/blob/master/testes/internet-explorer.md#como-configurar-m%C3%A1quinas-virtuais-para-testar-no-internet-explorer)
 * [Por que realizar um teste?](https://github.com/a2comunicacao/metodologia/wiki/Por-que-realizar-um-teste)
 * [Tipos de testes](https://github.com/a2comunicacao/metodologia/wiki/Tipos-de-testes)
   * [Acessibilidade](https://github.com/a2comunicacao/metodologia/wiki/Tipos-de-testes#wiki-acessibilidade)
