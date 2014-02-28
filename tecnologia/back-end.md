@@ -1,16 +1,14 @@
 # Back-end
 
-## CMS
+## A2siteBox
 
-### A2siteBox
-
-### WordPress
+## WordPress
 
 ## Git
 
-### Clonagem de repositórios no servidor interno Doors
+### Clonagem de repositórios no servidor interno Doors usando XAMPP no MAC
 
-1. Para clonar, no Source Tree aponte o caminho: www-data@192.168.0.201:/Dados/A2Projetos/nomedoprojeto/www . Aponte para a pasta onde serão instalados os websites, no MAC configurei o XAMPP para apontar para a pasta "Sites" e sempre os nomeio com o mesmo nome da Doors;
+1. Para clonar, no Source Tree aponte o caminho: www-data@192.168.0.241:/Dados/A2Projetos/nomedoprojeto/www . Aponte para a pasta onde serão instalados os websites, no MAC configurei o XAMPP para apontar para a pasta "Sites" e sempre os nomeio com o mesmo nome da Doors;
 
 2. Para criar o ambiente local, abra a pasta Xampp dentro de Aplicativos: Xampp > etc > extra > httpvhosts.conf e edite o arquivo inserindo o código apontando a pasta onde o site foi instalado (para facilitar, nomeio sempre como local.nomedoprojeto.a2 - pois para ver se tudo está ok na Doors, só retiro o termo local da url): 
 
@@ -38,15 +36,15 @@ Digite sua senha, e insita a url que você vai utilizar entre as linhas "127.0.0
 6. Reinicie o XAMPP.
 
 
-### GitHub pages
+## GitHub pages
 
 Ao criarmos um repositório no GitHub, temos a possibilidade de desenvolvermos uma 'GitHub page'. Geralmente, é utilizada para reunir as informações e documentação sobre o repositório.
 
-#### Por que?
+### Por que?
 
 Além de estar integrada ao repositório, um outro ponto positivo, é que ela é hospedada pelo próprio GitHub, sem a necessidade de utilizarmos nenhum upload via _FTP_.
 
-#### Como?
+### Como?
 
 1. No seu repositório, crie um **branch** novo chamado _gh-pages_. Pode ser diretamente pelo site do GitHub, ou via terminal:
 `git branch gh-pages`
