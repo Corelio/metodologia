@@ -19,5 +19,5 @@ As metatags oferecem informações sobre o website para os mecanismos de busca e
 * Procure e utilize as keywords que os concorrentes usam, para diminuir a força deles;
 * Não ultrapasse 30 keywords.
 
-## Title
+### Title
 O title não é necessariamente uma metatag, mas como é exibido nos resultados de pesquisa, é importante não esquecer de preenchê-lo.
