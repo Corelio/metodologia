@@ -131,6 +131,8 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#adobe-edge-inspect)
   * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
   * [SASS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#sass)
+* [Máquina Virtual](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/maquina-virtual.md)
+  * [Como criar uma pasta compartilhada com a Virtual Box no Mac](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/maquina-virtual.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box-no-mac)
 * [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md)
    * [Estrutura](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#estrutura)
    * [Boas Práticas](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#boas-pr%C3%A1ticas)
