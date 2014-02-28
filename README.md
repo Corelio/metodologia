@@ -113,7 +113,9 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * E-mail marketing
 * Google Analytics
 * Google Webmaster Tools
-* [Meta Tags](https://github.com/a2comunicacao/metodologia/wiki/Meta-Tags)
+* [Metatags](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/metatags.md#metatags)
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/metatags.md#refer%C3%AAncias)
+  * [Utilizando as metatags](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/metatags.md#utilizando-as-metatags)
 * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/wiki/Ranking-de-serp)
 
 ## Tecnologia
