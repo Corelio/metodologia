@@ -121,14 +121,12 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Análises feitas](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#an%C3%A1lises-feitas)
 
 ## Tecnologia
-* [Back-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md)
-  * [CMS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#cms)
-    * [A2siteBox](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#a2sitebox)
-    * [Wordpress](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#wordpress)
+* [Back-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#back-end)
+  * A2siteBox
+  * Wordpress
   * [GIT](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#git)
-    * [Clonagem de repositórios internos](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#clonagem-de-reposit%C3%B3rios-no-servidor-interno-doors) 
-    * [Github pages](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#github-pages) 
-* [Deploy](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/deploy.md)
+  * [Github pages](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#github-pages) 
+* Deploy
 * [Front-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md)
   * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#adobe-edge-inspect)
   * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
@@ -137,6 +135,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
    * [Estrutura](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#estrutura)
    * [Boas Práticas](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#boas-pr%C3%A1ticas)
    * [Mailchimp](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#mailchimp)
+   * [Testes](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#testes)
    * [Dicas](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#dicas)
 
 ## Testes
