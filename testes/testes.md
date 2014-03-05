@@ -19,14 +19,14 @@
 Os tipos de testes manuais (não automatizados) realizados em um website ou aplicativo web são:
 
 1. [Acessibilidade](#acessibilidade)
+1. [CMS](#cms)
 1. [Compatibilidade](#compatibilidade)
 1. [Conteúdo](#conteudo)
 1. [Funcional](#funcional)
+1. [Newsletter](#newsletter)
 1. [Performance](#performance)
 1. [Segurança](#seguranca)
 1. [SEO e Marketing](#seo)
-1. [CMS](#cms)
-1. [Newsletter](#newsletter)
 1. [Usabilidade](#usabilidade)
 
 ### <a id="acessibilidade"></a>Acessibilidade
@@ -65,6 +65,23 @@ Estima-se que 20% da população mundial possue algum tipo de deficiência [[12]
 * <a id="nota09"></a>[W3C - ARIA2: Identifying required fields with the aria-required property](http://www.w3.org/TR/WCAG20-TECHS/ARIA2.html)
 * <a id="nota10"></a>[WebAIM - Usable and Accessible Form Validation and Error Recovery](http://webaim.org/techniques/formvalidation/#error)
 * <a id="nota11"></a>[WebAIM - Web Captioning Overview](http://webaim.org/techniques/captions/)
+
+--
+
+### <a id="cms"></a>CMS
+
+* Incluir uma página
+* Editar uma página existente
+* Apagar uma página
+* ...
+
+#### Wordpress
+
+* Incluir testes específicos para WP
+
+#### A2siteBox
+
+* Incluir testes específicos para A2siteBox
 
 --
 
@@ -183,6 +200,25 @@ Testes funcionais estão relacionadas a entrada e saída de dados. Clicar em lin
 
 --
 
+### <a id="newsletter"></a>Newsletter
+
+* Verificar formatação da newsletter no MS Outlook;
+* Verificar formatação da newsletter no Hotmail;
+* Verificar formatação da newsletter no Yahoo! Mail;
+* Verificar formatação da newsletter no Gmail;
+* Verificar se todas as imagens `<img>` possuem os atributos _display:block_ e _alt_;
+* Verificar se todos os links `<a>` possuem o atributo _outline:none_;
+* Utilizar sempre o atributo _valign=top_ nas `<td>`;
+* As imagens devem possuir URL absoluta;
+* Verificar o preenchimento da tag `<title>`;
+
+#### Referências
+
+* <a id="nota03"></a>[Campaign Monitor - Email Client Popularity](http://www.campaignmonitor.com/resources/will-it-work/email-clients/)
+* [Newsletter](Newsletter)
+
+--
+
 ### <a id="performance"></a>Performance
 
 *Capacidade de resposta e estabilidade do website.*
@@ -296,42 +332,6 @@ Testes de usabilidade tem por objetivo verificar a facilidade que o software ou 
 * Verificar o estado das telas em branco;
 * Feedback para o usuário;
 * http://www.webdesignerdepot.com/2013/06/how-to-approach-usability-testing/
-
---
-
-### <a id="cms"></a>CMS
-
-* Incluir uma página
-* Editar uma página existente
-* Apagar uma página
-* ...
-
-#### Wordpress
-
-* Incluir testes específicos para WP
-
-#### A2siteBox
-
-* Incluir testes específicos para A2siteBox
-
---
-
-### <a id="newsletter"></a>Newsletter
-
-* Verificar formatação da newsletter no MS Outlook;
-* Verificar formatação da newsletter no Hotmail;
-* Verificar formatação da newsletter no Yahoo! Mail;
-* Verificar formatação da newsletter no Gmail;
-* Verificar se todas as imagens `<img>` possuem os atributos _display:block_ e _alt_;
-* Verificar se todos os links `<a>` possuem o atributo _outline:none_;
-* Utilizar sempre o atributo _valign=top_ nas `<td>`;
-* As imagens devem possuir URL absoluta;
-* Verificar o preenchimento da tag `<title>`;
-
-#### Referências
-
-* <a id="nota03"></a>[Campaign Monitor - Email Client Popularity](http://www.campaignmonitor.com/resources/will-it-work/email-clients/)
-* [Newsletter](Newsletter)
 
 --
 
