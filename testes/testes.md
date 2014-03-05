@@ -342,7 +342,7 @@ Testes de usabilidade tem por objetivo verificar a facilidade que o software ou 
 * Abrangência: Somente na homepage
 * Software utilizado: Extensão para Firefox chamado [LinkChecker](https://addons.mozilla.org/pt-br/firefox/addon/linkchecker/)
 
-##Instalação e como usar
+#### Instalação e como usar
 Após adicionar a extensão ao Firefox, um ícone de "certo" aparecerá no Browser. 
 Para fazer a verificação dos links, abra o site que deseja verificar, clique no ícone e aguarde enquanto a extensão roda. Não é possível rodar em mais de um site por vez. 
 Os links ficarão marcados com cores:
