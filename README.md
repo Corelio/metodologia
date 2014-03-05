@@ -159,8 +159,9 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
     * [Segurança](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#seguran%C3%A7a)
     * [SEO e Marketing](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#seo-e-marketing)
     * [Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#usabilidade)
+    * [Verificação de links](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#-verifica%C3%A7%C3%A3o-de-links)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#refer%C3%AAncias-7)
-* [Verificação de Links](https://github.com/a2comunicacao/metodologia/wiki/Verifica%C3%A7%C3%A3o-de-links)
+
 
 
 
