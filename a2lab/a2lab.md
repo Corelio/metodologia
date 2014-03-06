@@ -17,9 +17,8 @@ Inicialmente o laboratório possui apenas projetos de Design e Programação, ma
 ## Como funciona?
 
 Estamos utilizando 3 serviços para organizar os projetos:
-* [Trello](https://trello.com/b/3nFSgLdh/a2lab) - Para ter uma visão geral do laboratório, sugerir novas ideias e saber quem está trabalhando em cada projeto;
+* [Basecamp](https://basecamp.com/1923503/projects/3053688-a2lab) - Cada projeto fica agrupado em uma lista de tarefas. Na descrição da lista fica listado as pessoas que estão diretamente envolvidas com aquele projeto;
 * [Github da A2](https://github.com/a2comunicacao) - Para repositório de código (dê preferência para repositórios públicos);
-* [Projeto A2 Internas no Basecamp](https://a2comunicacao.basecamphq.com/projects/6308130-a2internas/todo_lists) (opcional) - Para cadastro de horas (se necessário) e inclusão de senhas que não podem ficar abertas ao público.
 
 Faremos reuniões semanais ou quinzenais para discutir o status dos projetos ou fazer apresentações.
 
