@@ -74,6 +74,7 @@ Estima-se que 20% da população mundial possue algum tipo de deficiência [[12]
 * Incluir uma página
 * Editar uma página existente
 * Apagar uma página
+* Verificar se o CMS faz o corte correto das imagens
 * ...
 
 #### Wordpress
