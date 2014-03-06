@@ -117,6 +117,8 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * [Metatags](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/metatags.md#metatags)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/metatags.md#refer%C3%AAncias)
   * [Utilizando as metatags](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/metatags.md#utilizando-as-metatags)
+* [Plugins](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/plugins.md#plugins)
+  * [Wordpress SEO by Yoast](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/plugins.md#wordpress-seo-by-yoast)
 * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#ranking-de-serp)
   * [Ferramentas para análise](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#ferramenta-para-an%C3%A1lise)
   * [Análises feitas](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#an%C3%A1lises-feitas)
