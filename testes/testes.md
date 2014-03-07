@@ -30,7 +30,7 @@ Os tipos de testes manuais (não automatizados) realizados em um website ou apli
 1. [Usabilidade](#usabilidade)
 1. [Verificação de links](#verificacaodelinks)
 
-### <a id="acessibilidade"></a>Acessibilidade
+### <a name="acessibilidade"></a>Acessibilidade
 
 *Garantia de acesso para pessoas com deficiência (20% da população mundial).*
 
@@ -55,21 +55,21 @@ Estima-se que 20% da população mundial possue algum tipo de deficiência [[12]
 
 #### Referências
 
-* <a id="nota12"></a>[WebAIM - People with Disabilities on the Web](http://webaim.org/intro/#people)
-* <a id="nota01"></a>[Issue #3: Acessibilidade - Qual norma e validador devemos utilizar?](https://github.com/a2comunicacao/metodologia/issues/3)
+* <a name="nota12"></a>[WebAIM - People with Disabilities on the Web](http://webaim.org/intro/#people)
+* <a name="nota01"></a>[Issue #3: Acessibilidade - Qual norma e validador devemos utilizar?](https://github.com/a2comunicacao/metodologia/issues/3)
 * [Acessibilidade na Web: Principais problemas e Soluções - FISL14](http://www.slideshare.net/julianafrost/acessibilidade-na-web-principais-problemas-e-solues)
-* <a id="nota04"></a>[WebAIM - "Skip Navigation" Links](http://webaim.org/techniques/skipnav/)
-* <a id="nota06"></a>[WebAIM - Screen reader users often navigate from link to link, skipping the text in between](http://webaim.org/techniques/hypertext/#link_to_link)
-* <a id="nota39"></a>[Why Your Links Should Never Say “Click Here”](http://uxdesign.smashingmagazine.com/2012/06/20/links-should-never-say-click-here/)
-* <a id="nota07"></a>[WebAIM - Creating Accessible Forms](http://webaim.org/techniques/forms/controls)
-* <a id="nota08"></a>[WebAIM - Presenting Document Structure](http://webaim.org/techniques/aria/#structure)
-* <a id="nota09"></a>[W3C - ARIA2: Identifying required fields with the aria-required property](http://www.w3.org/TR/WCAG20-TECHS/ARIA2.html)
-* <a id="nota10"></a>[WebAIM - Usable and Accessible Form Validation and Error Recovery](http://webaim.org/techniques/formvalidation/#error)
-* <a id="nota11"></a>[WebAIM - Web Captioning Overview](http://webaim.org/techniques/captions/)
+* <a name="nota04"></a>[WebAIM - "Skip Navigation" Links](http://webaim.org/techniques/skipnav/)
+* <a name="nota06"></a>[WebAIM - Screen reader users often navigate from link to link, skipping the text in between](http://webaim.org/techniques/hypertext/#link_to_link)
+* <a name="nota39"></a>[Why Your Links Should Never Say “Click Here”](http://uxdesign.smashingmagazine.com/2012/06/20/links-should-never-say-click-here/)
+* <a name="nota07"></a>[WebAIM - Creating Accessible Forms](http://webaim.org/techniques/forms/controls)
+* <a name="nota08"></a>[WebAIM - Presenting Document Structure](http://webaim.org/techniques/aria/#structure)
+* <a name="nota09"></a>[W3C - ARIA2: Identifying required fields with the aria-required property](http://www.w3.org/TR/WCAG20-TECHS/ARIA2.html)
+* <a name="nota10"></a>[WebAIM - Usable and Accessible Form Validation and Error Recovery](http://webaim.org/techniques/formvalidation/#error)
+* <a name="nota11"></a>[WebAIM - Web Captioning Overview](http://webaim.org/techniques/captions/)
 
 --
 
-### <a id="cms"></a>CMS
+### <a name="cms"></a>CMS
 
 * Incluir uma página
 * Editar uma página existente
@@ -87,7 +87,7 @@ Estima-se que 20% da população mundial possue algum tipo de deficiência [[12]
 
 --
 
-### <a id="compatibilidade"></a>Compatibilidade (Cross-browser)
+### <a name="compatibilidade"></a>Compatibilidade (Cross-browser)
 
 *Funcionamento em diferentes browsers, sistemas operacionais e servidores.*
 
@@ -123,17 +123,17 @@ Uma causa comum de falhas em websites é a falta de compatibilidade entre browse
 
 #### Referências
 
-* <a id="nota13"></a>[W3Counter - Global Web Stats](http://www.w3counter.com/globalstats.php)
-* <a id="nota14"></a>[Issue #6: Compatibilidade - O que deve ser observado em um teste cross-browser?](https://github.com/a2comunicacao/metodologia/issues/6)
+* <a name="nota13"></a>[W3Counter - Global Web Stats](http://www.w3counter.com/globalstats.php)
+* <a name="nota14"></a>[Issue #6: Compatibilidade - O que deve ser observado em um teste cross-browser?](https://github.com/a2comunicacao/metodologia/issues/6)
 * [Codrops - UI Design guidelines for Responsive Design](http://tympanus.net/codrops/2013/01/21/ui-design-guidelines-for-responsive-design/)
 * [Smashing Magazine - Review Of Cross-Browser Testing Tools](http://www.smashingmagazine.com/2011/08/07/a-dozen-cross-browser-testing-tools/)
 * [Techniques for mobile and responsive cross-browser testing: An Envato case study](http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/)
-* <a id="nota38"></a>[Dive Into HTML5 - Uma forma de loucura](http://diveintohtml5.com.br/forms.html)
+* <a name="nota38"></a>[Dive Into HTML5 - Uma forma de loucura](http://diveintohtml5.com.br/forms.html)
 
 
 --
 
-### <a id="conteudo"></a>Conteúdo
+### <a name="conteudo"></a>Conteúdo
 
 *Revisão dos textos, links externos, imagens, vídeos e áudios.*
 
@@ -157,11 +157,11 @@ O conteúdo é a parte mais importante de um website. Além de revisão ortográ
 
 #### Referências
 
-* <a id="nota15">15.</a> [Smashing Magazine - Five Ways To Prevent Bad Microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/)
+* <a name="nota15">15.</a> [Smashing Magazine - Five Ways To Prevent Bad Microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/)
 
 --
 
-### <a id="funcional"></a>Funcional
+### <a name="funcional"></a>Funcional
 
 *Entrada e saída de dados.*
 
@@ -202,7 +202,7 @@ Testes funcionais estão relacionadas a entrada e saída de dados. Clicar em lin
 
 --
 
-### <a id="newsletter"></a>Newsletter
+### <a name="newsletter"></a>Newsletter
 
 * Verificar formatação da newsletter no MS Outlook;
 * Verificar formatação da newsletter no Hotmail;
@@ -216,12 +216,12 @@ Testes funcionais estão relacionadas a entrada e saída de dados. Clicar em lin
 
 #### Referências
 
-* <a id="nota03"></a>[Campaign Monitor - Email Client Popularity](http://www.campaignmonitor.com/resources/will-it-work/email-clients/)
+* <a name="nota03"></a>[Campaign Monitor - Email Client Popularity](http://www.campaignmonitor.com/resources/will-it-work/email-clients/)
 * [Newsletter](Newsletter)
 
 --
 
-### <a id="performance"></a>Performance
+### <a name="performance"></a>Performance
 
 *Capacidade de resposta e estabilidade do website.*
 
@@ -248,29 +248,29 @@ Testes de performace são realizados para determinar como um sistema roda em ter
 
 #### Referências
 
-* <a id="nota22">[Browser Diet - Evite código inline/incorporado no HTML](http://browserdiet.com/pt/#avoid-inline)
-* <a id="nota23">[Browser Diet - Estilos no topo, scripts no rodapé](http://browserdiet.com/pt/#css-on-top-js-on-bottom)
-* <a id="nota24">[Browser Diet - Combine vários arquivos CSS em um só](http://browserdiet.com/pt/#combine-css)
-* <a id="nota25">[Browser Diet - Prefira <link> a @import](http://browserdiet.com/pt/#prefer-link-over-import)
-* <a id="nota26">[Browser Diet - Carregue código de terceiros de forma assíncrona](http://browserdiet.com/pt/#3rd-party-async)
-* <a id="nota27">[Browser Diet - Evite document.write](http://browserdiet.com/pt/#documentwrite)
-* <a id="nota28">[Browser Diet - Combine vários arquivos js em um só](http://browserdiet.com/pt/#combine-js)
-* <a id="nota29">[Browser Diet - Use CSS Sprites](http://browserdiet.com/pt/#sprites)
-* <a id="nota30">[Browser Diet - Não escale imagens direto no código](http://browserdiet.com/pt/#scale)
-* <a id="nota31">[Browser Diet - Otimize suas imagens](http://browserdiet.com/pt/#optimize)
-* <a id="nota32">[Browser Diet - Habilite o cache dos arquivos](http://browserdiet.com/pt/#cache)
-* <a id="nota33">[Browser Diet - GZIP](http://browserdiet.com/pt/#gzip)
-* <a id="nota34">[YSlow - Use a Content Delivery Network](http://developer.yahoo.com/performance/rules.html#cdn)
+* <a name="nota22">[Browser Diet - Evite código inline/incorporado no HTML](http://browserdiet.com/pt/#avoid-inline)
+* <a name="nota23">[Browser Diet - Estilos no topo, scripts no rodapé](http://browserdiet.com/pt/#css-on-top-js-on-bottom)
+* <a name="nota24">[Browser Diet - Combine vários arquivos CSS em um só](http://browserdiet.com/pt/#combine-css)
+* <a name="nota25">[Browser Diet - Prefira <link> a @import](http://browserdiet.com/pt/#prefer-link-over-import)
+* <a name="nota26">[Browser Diet - Carregue código de terceiros de forma assíncrona](http://browserdiet.com/pt/#3rd-party-async)
+* <a name="nota27">[Browser Diet - Evite document.write](http://browserdiet.com/pt/#documentwrite)
+* <a name="nota28">[Browser Diet - Combine vários arquivos js em um só](http://browserdiet.com/pt/#combine-js)
+* <a name="nota29">[Browser Diet - Use CSS Sprites](http://browserdiet.com/pt/#sprites)
+* <a name="nota30">[Browser Diet - Não escale imagens direto no código](http://browserdiet.com/pt/#scale)
+* <a name="nota31">[Browser Diet - Otimize suas imagens](http://browserdiet.com/pt/#optimize)
+* <a name="nota32">[Browser Diet - Habilite o cache dos arquivos](http://browserdiet.com/pt/#cache)
+* <a name="nota33">[Browser Diet - GZIP](http://browserdiet.com/pt/#gzip)
+* <a name="nota34">[YSlow - Use a Content Delivery Network](http://developer.yahoo.com/performance/rules.html#cdn)
 * [Smashing Magazine - Writing Fast, Memory-Efficient JavaScript](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
 * [Superhero.js - Uma coleção de artigos, vídeos e apresentações sobre criação, teste e manutenção de código Javascript.]( http://superherojs.com/)
-* <a id="nota02"></a>[Issue #2: CSS - Por que validar e qual validador devemos utilizar?](https://github.com/a2comunicacao/metodologia/issues/2)
-* <a id="nota05"></a>[Issue #4: Javascript - Por que validar e qual validador devemos utilizar?](https://github.com/a2comunicacao/metodologia/issues/4)
+* <a name="nota02"></a>[Issue #2: CSS - Por que validar e qual validador devemos utilizar?](https://github.com/a2comunicacao/metodologia/issues/2)
+* <a name="nota05"></a>[Issue #4: Javascript - Por que validar e qual validador devemos utilizar?](https://github.com/a2comunicacao/metodologia/issues/4)
 * [My Performance Audit Workflow](http://aerotwist.com/blog/my-performance-audit-workflow/)
 
 
 --
 
-### <a id="seguranca"></a>Segurança
+### <a name="seguranca"></a>Segurança
 
 *Armazenamento de dados confidenciais, possibilidade de invasão do sistema e rotina de backup.*
 
@@ -287,11 +287,11 @@ Testes de segurança são essenciais para verificar se dados confidenciais estã
 
 #### Referências
 
-* <a id="nota35"></a>[Google Webmasters - Bloquear ou remover páginas usando um arquivo robots.txt](https://support.google.com/webmasters/answer/156449?hl=pt-BR)
+* <a name="nota35"></a>[Google Webmasters - Bloquear ou remover páginas usando um arquivo robots.txt](https://support.google.com/webmasters/answer/156449?hl=pt-BR)
 
 --
 
-### <a id="seo"></a>SEO e Marketing
+### <a name="seo"></a>SEO e Marketing
 
 *Boas práticas de código e conteúdo para garantir visibilidade nos mecanismos de busca.*
 
@@ -311,19 +311,19 @@ Testes de segurança são essenciais para verificar se dados confidenciais estã
 
 #### Referências
 
-* <a id="nota19"></a>[Moz - Meta Description](http://moz.com/learn/seo/meta-description)
-* <a id="nota16"></a>[Matt Cutts - SEO advice: url canonicalization](http://www.mattcutts.com/blog/seo-advice-url-canonicalization/)
-* <a id="nota17"></a>[Webdesigntuts+ - How to Create an SEO-Friendly URL Structure](http://webdesign.tutsplus.com/articles/seo-articles/seo-friendly-url-structure/)
+* <a name="nota19"></a>[Moz - Meta Description](http://moz.com/learn/seo/meta-description)
+* <a name="nota16"></a>[Matt Cutts - SEO advice: url canonicalization](http://www.mattcutts.com/blog/seo-advice-url-canonicalization/)
+* <a name="nota17"></a>[Webdesigntuts+ - How to Create an SEO-Friendly URL Structure](http://webdesign.tutsplus.com/articles/seo-articles/seo-friendly-url-structure/)
 http://www.google.com/analytics/learn/setupchecklist.html
-* <a id="nota18"></a>[Google Analytics - Aproveite ao máximo seus relatórios](http://www.google.com/analytics/learn/setupchecklist.html)
-*  <a id="nota20">[Issue #7: SEO - Uso do arquivo human.txt?](https://github.com/a2comunicacao/metodologia/issues/7)
-* <a id="nota21">[Google Webmasters - Buscar como o Google](https://support.google.com/webmasters/answer/158587?hl=pt-BR)
-* <a id="nota36">[Issue #10](https://github.com/a2comunicacao/metodologia/issues/10)
-* <a id="nota37">[Define an Open Graph object](https://developers.facebook.com/docs/web/tutorials/scrumptious/open-graph-object/)
+* <a name="nota18"></a>[Google Analytics - Aproveite ao máximo seus relatórios](http://www.google.com/analytics/learn/setupchecklist.html)
+*  <a name="nota20">[Issue #7: SEO - Uso do arquivo human.txt?](https://github.com/a2comunicacao/metodologia/issues/7)
+* <a name="nota21">[Google Webmasters - Buscar como o Google](https://support.google.com/webmasters/answer/158587?hl=pt-BR)
+* <a name="nota36">[Issue #10](https://github.com/a2comunicacao/metodologia/issues/10)
+* <a name="nota37">[Define an Open Graph object](https://developers.facebook.com/docs/web/tutorials/scrumptious/open-graph-object/)
 
 --
 
-### <a id="usabilidade"></a>Usabilidade
+### <a name="usabilidade"></a>Usabilidade
 
 *Facilidade do website de ser compreendido e manipulado pelo usuário.*
 
@@ -339,7 +339,7 @@ Testes de usabilidade tem por objetivo verificar a facilidade que o software ou 
 
 --
 
-### <a id="verificacaodelinks"></a> Verificação de links
+### <a name="verificacaodelinks"></a> Verificação de links
 
 * Frequência de verificações: Todas as segundas
 * Abrangência: Somente na homepage
