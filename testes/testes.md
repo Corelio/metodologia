@@ -265,6 +265,8 @@ Testes de performace são realizados para determinar como um sistema roda em ter
 * [Superhero.js - Uma coleção de artigos, vídeos e apresentações sobre criação, teste e manutenção de código Javascript.]( http://superherojs.com/)
 * <a id="nota02"></a>[Issue #2: CSS - Por que validar e qual validador devemos utilizar?](https://github.com/a2comunicacao/metodologia/issues/2)
 * <a id="nota05"></a>[Issue #4: Javascript - Por que validar e qual validador devemos utilizar?](https://github.com/a2comunicacao/metodologia/issues/4)
+* [My Performance Audit Workflow](http://aerotwist.com/blog/my-performance-audit-workflow/)
+
 
 --
 
