@@ -16,7 +16,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 6. Não deixe de cadastrar as horas trabalhadas no dia seguinte, crie o hábito de fazer isso no final do dia;
 7. Se duas ou mais pessoas são responsáveis pela mesma tarefa, é preciso dividí-la:
 ![Se duas ou mais pessoas são responsáveis pela mesma tarefa é preciso dividí-la](http://lab.a2comunicacao.com.br/metodologia/basecamp_03.png);
-8. Não tenha receito de copiar muitas pessoas em um comentário. Além de copiar os envolvidos diretamente na tarefa, incluia a equipe de atendimento, os gerentes das áreas e outras pessoas que possam se beneficiar com a informação. Na dúvida, copie todos! Se a pessoa não deseja receber comentários, ela pode desativar essa opção ou mesmo se desligar daquele projeto;
+8. Não tenha receio de copiar muitas pessoas em um comentário. Além de copiar os envolvidos diretamente na tarefa, inclua a equipe de atendimento, os gerentes das áreas e outras pessoas que possam se beneficiar com a informação. Na dúvida, copie todos! Se a pessoa não deseja receber comentários, ela pode desativar essa opção ou mesmo se desligar daquele projeto;
 9. Ao criar um novo projeto, de preferência por utilizar um modelo já existente ou crie um novo modelo caso seja necessário. ([Veja um exemplo](https://a2comunicacao.basecamphq.com/project_templates)).
 
 ### Perguntas frequentes (FAQ)
@@ -32,7 +32,7 @@ Sim. Veja como na [página de ajuda do Basecamp (em inglês)](http://help.37sign
 Evite reabrir o projeto quando surgir uma tarefa após ele ser arquivado. Caso não existe nenhum contrato/projeto de manutenção relacionado, cadastre a tarefa em uma lista dentro do projeto interno da empresa (A2 Internas).
 
 #### Quem pode criar um novo projeto e quando ele deve ser criado?
-Apenas os administradores podem criar novos projetos e devem ser criados após a aprovação do projeto.
+Apenas os administradores podem criar novos projetos e devem ser criados após a aprovação do mesmo.
 
 ## GIT
 
