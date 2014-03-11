@@ -61,3 +61,10 @@ Além de estar integrada ao repositório, um outro ponto positivo, é que ela é
 5. Feito isso, a _gh-page_ é automaticamente pubilicada no endereço:
 _usuario.github.io/repositorio_
 
+### Workflow
+
+São 2 os *workflows* utilizados em projetos na A2 Comunicação.
+
+Em projetos antigos (até o início do segundo semestre de 2013) o workflow utilizado era o *Centralized Workflow*, onde somente o *branch master* é utilizado e concentra todas as atualizações do projeto.
+
+Nos projetos iniciados após esse período são utilizados o *[Gitflow Workflow](https://www.atlassian.com/git/workflows#!workflow-gitflow)* para projetos complexos e que necessitam de maior controle como o A2siteBox, por exemplo. E o *[Feature Branch Workflow](https://www.atlassian.com/git/workflows#!workflow-feature-branch)* para projetos com menor complexidade.
