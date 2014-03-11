@@ -2,6 +2,12 @@
 
 ## A2siteBox
 
+O A2siteBox é um gerenciador de conteúdo (CMS) criado e mantido pela A2 Comunicação que tem como objetivo auxiliar na criação, edição e gestão de conteúdos para websites e aplicativos web de forma personalizada.
+
+O desenvolvimento do projeto pode ser acompanhado no Github da A2Comunicação: <code>https://github.com/a2comunicacao/A2SiteBox</code>
+
+Todos os passos para instalação e contribuição com o projeto estão concentrados no repositório.
+
 ## WordPress
 
 ## Git
