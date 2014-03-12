@@ -1,20 +1,23 @@
 # Metodologia A2
+Documentação de todos os processos de gestão, criação e desenvolvimento web da [A2 Comunicação](http://www.a2comunicacao.com.br). Com isso, podemos transmitir o conhecimento para novos funcionários e discutir novas formas de trabalho.
 
-Documentação de todos os processos de gestão, criação e desenvolvimento web da [A2 Comunicação](http://a2comunicacao.com.br). Como isso podemos transmitir o conhecimento para novos funcionários e discutir novas formas de trabalho. Dividimos a documentação da metodologia em artigos no tamanho e formato de posts de um blog.
-
-### Como colaborar? 
-
-1. **Sugira um novo artigo:**  Inclua no índice abaixo, uma sugestão conforme o tipo de assunto.
-2. **Escreva um artigo sugerido:** Crie uma página, escreva o artigo sugerido e linke-o no índice abaixo.
-
-### Sobre a Metodologia
-
-* [Boas práticas sobre a documentação da Metodologia A2](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#boas-pr%C3%A1ticas-sobre-a-documenta%C3%A7%C3%A3o-da-metodologia-a2)
-* [Como criar e atualizar os arquivos](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#como-criar-e-atualizar-arquivos)
-  * [Nova estrutura](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#nova-estrutura)
-  * [Padrão de escrita](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#padr%C3%A3o-de-escrita)
 
 # Índice
+
+## Projeto Web
+
+### [Proposta comercial](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial.md#proposta-comercial)
+Tudo o que acontece antes do projeto ser aprovado
+* [Briefing](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial.md#briefing)
+
+### [Setup](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md)
+O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
+* A2boilerplate
+* [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#basecamp)
+
+
+
+# Índice antigo
 
 ## A2lab
 * [A2lab](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md)
