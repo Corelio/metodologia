@@ -2,7 +2,7 @@
 Documentação de todos os processos de gestão, criação e desenvolvimento web da [A2 Comunicação](http://www.a2comunicacao.com.br). Com isso, podemos transmitir o conhecimento para novos funcionários e discutir novas formas de trabalho.
 
 
-# Índice
+
 
 ## Projeto Web
 
