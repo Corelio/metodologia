@@ -86,16 +86,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 
 ## Gestão de Projetos
 
-* [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/basecamp.md#basecamp)
-  * [Boas práticas](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/basecamp.md#boas-pr%C3%A1ticas)
-  * [Perguntas frequentes (FAQ)](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/basecamp.md#perguntas-frequentes-faq)
-* [Briefing](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#briefing)
-  * [Sobre o cliente](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#sobre-o-cliente)
-  * [Sobre o projeto](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#sobre-o-projeto)
-  * [Funcionalidades](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#funcionalidades)
-  * [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#conte%C3%BAdo)
-  * [Desenvolvimento](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#desenvolvimento)
-  * [Design](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/briefing.md#design)
+
 * [Metodologias ágeis](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/metodologias-ageis.md#metodologias-%C3%A1geis)
   * [Scrum](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/metodologias-ageis.md#scrum)
 * [Reuniões](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/reunioes.md#reuni%C3%B5es)
