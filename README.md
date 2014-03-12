@@ -14,6 +14,11 @@ Tudo o que acontece antes do projeto ser aprovado
 O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
 * A2boilerplate
 * [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#basecamp)
+* [GIT](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#git)
+  * [Clonagem de repositórios](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#clonagem-de-reposit%C3%B3rios)
+  * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#softwares-recomendados)
+* MAC OS X
+* SASS
 
 
 
