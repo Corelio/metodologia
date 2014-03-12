@@ -22,6 +22,13 @@
 ## <a id="cardsorting"></a>Card Sorting
 
 ## <a id="heatmap"></a>Heatmap
+Mapa de calor é uma representação gráfica de dados individuais (ex.: cliques em textos, botões, banners, menus, imagens, etc) em que as intensidades das cores fornecem valores para análise e comparação. Geralmente, as cores mais utilizadas são vermelho para áreas quentes (intensidade máxima) e azul para áreas frias (intensidade mínima).
+
+### Softwares recomendados
+* [CrazyEgg](http://www.crazyegg.com/)
+* [ClickTale](http://www.clicktale.com/)
+* [heatmap.js](http://www.patrick-wied.at/static/heatmapjs/index.html)
+
 
 ## <a id="inventariodeconteudo"></a>Inventário de Conteúdo
 * [Modelo atual](https://docs.google.com/a/a2comunicacao.com.br/spreadsheet/ccc?key=0Aggni3b2jqIVdEp1ZXJCQk44YXNkOVBGMGZoYTFrV0E#gid=0)
