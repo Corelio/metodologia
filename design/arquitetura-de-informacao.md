@@ -65,38 +65,25 @@ Sitemap - um dos entregáveis de Arquitetura de Informação - é um diagrama qu
 * Ajudar editores/redatores a definir os requisitos de conteúdo do website;
 * Informar programadores/analistas a definirem os requisitos técnicos do projeto.
 
-Na maioria das vezes, o projeto aprovado pelo cliente já possui uma ideia de sitemap. Recomenda-se que esse entregável seja ajustado e revisado no decorrer do tempo de projeto.
+## Boas Práticas
 
-### Boas práticas
-#### 1. Avalie os objetivos de negócio x objetvos de público alvo
-A navegação de um website deve ser uma ponte entre as necessidades do público-alvo e também os objetivos de negócio do cliente. O UX Designer deve ser o mediador dessas duas forças para que ambas as necessidades sejam atendidas com êxito.
+* Avaliar sempre os objetivos de negócio e objetivos do público-alvo
+* Organizar e categorizar as seções por esquemas exatos (alfabeto, tempo, localização, sequência) ou por esqumas ambiguos (assuntos, tarefa, público-alvo, metáfora)
+* Padronizar os rótulos (nomes das seções), sendo consistente com grafia, plural 
 
-#### 2. Organize e categorize
-Utilize um dos modelos abaixo para organizar a navegação do website:
-* Esquema exato: alfabeto, tempo, localização ou sequência;
-* Esquema Ambíguo: assunto, tarefa, público-alvo, metáfora ou híbrido.
-
-#### 3. Padronize os rótulos
-A escolha dos rótulos (nomes das seções nos menus) é uma das etapas mais importantes.
-O rótulo é uma forma rápida e eficaz para representar uma informação ou comunicar um conceito. É através dele que o usuário entende a navegação e adapta-se ao sistema de organização e navegação do website. Um rótulo precisa ser claro e comunicar o conceito rapidamente.
-* Tente conseguir "falar a linguagem" do usuário;
-* Seja consistente: padronize o estilo, a sintaxe, a audiência e a completude (por exemplo, se a interface possui comandos do tipo "frente", "trás" e "direita", o usuário irá procurar o comando "esquerda";
-* Estreite o escopo: Foque na rotulação levando em consideração o público-alvo, o contexto e o conteúdo;
-* Elimine possíveis dúvidas dos visitantes;
-* Faça uma análise de benchmarking para inspiração em processos de rotulação;
-* Utilize rótulos padrões: notícias, novidades, últimas notícias, etc.
-
-#### 4. Peça feedback
-Ao reorganizar ou criar um sitemap, peça feedback para outros membros de sua equipe. Esta ação permite revisar termos, rótulos, tirar dúvidas ou refinar um possível conceito criativo. Isso ajudará o time a manter o foco nas funcionalidades que o projeto deverá ter e visa atingir os objetivos de comunicação do projeto.
+Na maioria das vezes, o projeto aprovado pelo cliente já possui uma ideia de sitemap. Recomenda-se que esse entregável seja ajustado e revisado no decorrer do projeto. 
 
 ### Softwares recomendados
 * [Mindnode Lite (Mac)](http://mindnode.com/)
+* [Draw.io](http://draw.io/)
 * Powerpoint
+* Illustrator (Para Licitações)
 
 
 ### Leitura recomendada
 * [Vocabulário visual de Jesse James Garret](http://www.jjg.net/ia/visvocab/)
 * [O uso de sitemaps nas reuniões com clientes](http://arquiteturadeinformacao.com/recursos/metodologia/o-uso-de-sitemaps-nas-reunioes-com-clientes/)
+* [Designing Web Navigation -  Optimizing the User Experience por James Kalbach](http://shop.oreilly.com/product/9780596528102.do)
 
 ## <a id="testeab"></a>Teste A/B
 
