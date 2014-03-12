@@ -135,7 +135,6 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 * [Back-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#back-end)
   * [A2siteBox](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#a2sitebox)
   * Wordpress
-  * [GIT](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#git)
   * [Github pages](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#github-pages) 
 * Deploy
 * [Front-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md)
