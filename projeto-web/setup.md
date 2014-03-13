@@ -70,7 +70,17 @@ Obs.: Após essas configurações, inicie ou reinicie seu XAMPP. Caso encontre p
 * [Source Tree - MAC OS X](http://www.sourcetreeapp.com/)
 
 
-## MAC OS X
+## Mac OS X
+
+### Como compartilhar uma pasta com a máquina virtual 
+
+#### Virtual Box
+
+1. Abra a Virtual Box e selecione no menu superior: _devices > insert guest additions_, selecione o .exe indicado e instale com suas configurações básicas;
+2. Crie uma pasta no Mac com os arquivos que deseja transferir para a máquina virtual;
+3. Volte na Virtual Box, e no menu superior selecione: _devices > share folder settings_;
+4. Clique no botão “+”, selecione “Other” e aponte a pasta criada no Mac e seus arquivos ficarão acessíveis também na máquina virtual.
+
 
 ## SASS
 
