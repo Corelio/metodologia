@@ -29,9 +29,9 @@ OBS: Para documentar essas informações, use o Google Drive.
 Etapa 1
 
 1. Criar uma conta no Google Analytics;
-2. Crie uma propriedade com o nome do website;
-3. Crie duas visualizacões: _Unfiltered View_ - `3 - www.nomedowebsite.com.br - unfiltered view` e _Test View_ `2 - www.nomedowebsite.com.br - test view`
-4. Instalar o snippet do Google Analytics no website
+2. Criar uma propriedade com o nome do website;
+3. Criar duas visualizacões: _Unfiltered View_ - `3 - www.nomedowebsite.com.br - unfiltered view` e _Test View_ `2 - www.nomedowebsite.com.br - test view`
+4. Instalar o snippet (código de rastreamento) do Google Analytics no website
 
 Etapa 2
 
