@@ -111,7 +111,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
   * [Organizando dados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#organizando-dados)
   * [Planilha dos 15 termos mais buscados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#planilha-dos-15-termos-mais-buscados)
 * E-mail marketing
-* Google Analytics
+* [Google Analytics](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/google-analytics.md)
 * Google Webmaster Tools
 * [Metatags](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/metatags.md#metatags)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/metatags.md#refer%C3%AAncias)
