@@ -8,10 +8,12 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 
 ### [Proposta comercial](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial.md#proposta-comercial)
 Tudo o que acontece antes do projeto ser aprovado
+
 * [Briefing](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial.md#briefing)
 
 ### [Setup](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md)
 O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
+
 * A2boilerplate
 * [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#basecamp)
 * [GIT](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#git)
@@ -20,6 +22,12 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 * Mac OS X
   * [Como compartilhar uma pasta com a máquina virtual](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-compartilhar-uma-pasta-com-a-m%C3%A1quina-virtual)
 * SASS
+
+### [Planejamento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#planejamento)
+Uma boa parte da arquitetura de informação, configurações de servidor, plano de métricas etc.
+
+
+
 
 
 
