@@ -93,7 +93,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
   * [Reunião de kickoff](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/reunioes.md#reuni%C3%A3o-de-kickoff)
   * Reunião de retrospectiva
   * Reunião diária
-* [Criando uma conta padrão para serviços ligados a um website](https://github.com/a2comunicacao/metodologia/issues/14)
+* [Criando uma conta padrão para serviços ligados a um website](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/conta-padrao.md)
   
 ## Redes Sociais
 
