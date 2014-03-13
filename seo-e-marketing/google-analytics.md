@@ -4,10 +4,10 @@
 
 Passos para definir o plano de mensuração:
 
-1. Documentar o(s) objetivo(s) de negócio(s)
-2. Identificar as estratégias e táticas
-3. Definir os KPI's (Key Performance Indicators)
-4. Definir os segmentos
+1. Documentar o(s) objetivo(s) de negócio(s);
+2. Identificar as estratégias e táticas;
+3. Definir os KPI's (Key Performance Indicators);
+4. Definir os segmentos;
 
 OBS: Para documentar essas informações, use o Google Drive. 
 
@@ -26,22 +26,27 @@ OBS: Para documentar essas informações, use o Google Drive.
 
 ## Plano de Implementação
 
-Fase 1
+Etapa 1
 
-1. Criar uma conta no Google Analytics
-2. Crie uma propriedade com o nome do website
-3. Crie duas visualizacões: Unfiltered View (ex.: www.nomedowebsite.com.br - unfiltered view) e Test View (ex.: www.nomedowebsite.com.br - test view)
+1. Criar uma conta no Google Analytics;
+2. Crie uma propriedade com o nome do website;
+3. Crie duas visualizacões: _Unfiltered View_ - `3 - www.nomedowebsite.com.br - unfiltered view` e _Test View_ `2 - www.nomedowebsite.com.br - test view`
 4. Instalar o snippet do Google Analytics no website
 
-Fase 2
+Etapa 2
 
-Na visualização Test View, configure:
+Na visualização _Test View_, configure:
 
-1. Filtros
-2. Goals (Metas)
-3. Painel de Controle Personalizado / Relatórios Customizados
+1. Filtros;
+2. Goals (Metas);
+3. Painel de Controle Personalizado / Relatórios Customizados.
 
-OBS: Uma vez que as configurações surtirem efeito, copie a visualização Test View e de o nome de Master View (ex.: www.nomedocliente.com.br - master view)
+Etapa 3
+
+Uma vez que as configurações implementadas na visualização _Test View_ surtirem efeito, faça uma cópia dela dando o nome de _Master View_ `1 - www.nomedowebsite.com.br - master view`. 
+
+OBS 1: Toda e qualquer ajuste das metas e filtros devem ser feitos primeito na visualização _Test View_ e depois repassados a visualização _Master View_. 
+OBS 2: Não exclua a visualização _Unfiltered View_. Ela tem a função de mensurar os dados brutos do website e possui o caráter de ser sempre um backup. 
 
 ### Mais informações
 
