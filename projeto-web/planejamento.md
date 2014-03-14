@@ -1,8 +1,13 @@
 # Planejamento
 Uma boa parte da arquitetura de informação, configurações de servidor, plano de métricas etc.
 
+* [Arquitetura de informação](#arquiteturadeinformacao)
+* [Reunião de kickoff](#reuniaodekickoff)
+* [Contas padrão para serviços ligados a um website](#contaspadrao)
+* [Digital analytics](#digitalanalytics)
 
-## Arquitetura de Informação
+
+## <a name="arquiteturadeinformacao"></a>Arquitetura de Informação
 * [Análise heurística](#analiseheuristica)
 * [Benchmark](#benchmark)
 * [Card sorting](#cardsorting)
@@ -123,3 +128,17 @@ Após esse processo, a próxima etapa é criar os conceitos na fase de sketch.
 =
 
 ### <a name="wireframes"></a>Wireframes
+
+=
+
+## Reunião de kickoff
+
+* [How to get your web development projects off to a good start - Six Revisions](http://sixrevisions.com/project-management/web-development-kickoff-meeting/)
+
+= 
+
+## <a name="contaspadrao"></a>Contas padrão para serviços ligados a um website
+
+=
+
+## <a name="digitalanalytics"></a>Digital analytics
