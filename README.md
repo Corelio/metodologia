@@ -30,6 +30,19 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * Benchmark
   * Card sorting
   * [Heatmap](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#heatmap)
+  * [Inventário de conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#invent%C3%A1rio-de-conte%C3%BAdo)
+  * [Lista de prioridades](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#lista-de-prioridades)
+  * Mood boards
+  * Personas
+  * Pesquisa quantitativa
+  * Protótipo navegável
+  * [Sitemap](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#sitemap)
+  * Teste A/B
+  * [Teste de usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#teste-de-usabilidade)
+  * Wireframes
+ 
+
+=
 
 
 
@@ -68,28 +81,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Formato](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#formato)
 
 ## Design
-* [Arquitetura de informação](https://github.com/a2comunicacao/metodologia/edit/master/design/arquitetura-de-informacao.md#arquitetura-de-informa%C3%A7%C3%A3o)
-  * Análise heurística
-  * Benchmark
-  * Card Sorting
-  * [Heatmap](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#heatmap)
-  * [Inventário de conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#invent%C3%A1rio-de-conte%C3%BAdo)
-  * [Lista de prioridades](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#lista-de-prioridades)
-    * [Lista de objetivos](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#lista-de-objetivos)
-    * [Lista de elementos](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#lista-de-elementos)
-    * [Priorizando a lista](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#priorizando-a-lista)
-    * [Vantagens da técnica](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#vantagens-da-t%C3%A9cnica)
-  * Mood Boards
-  * Personas
-  * Pesquisa Quantitativa
-  * Protótipo Navegável
-  * [Sitemap](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#sitemap)
-    * [Boas práticas](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#boas-pr%C3%A1ticas)
-    * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#softwares-recomendados)
-    * [Leitura recomendada](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#leitura-recomendada)
-  * Teste A/B
-  * [Teste de Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/design/arquitetura-de-informacao.md#teste-de-usabilidade)
-  * Wireframes
+
 * [Guias de estilo](https://github.com/a2comunicacao/metodologia/blob/master/design/guias-de-estilo.md#guias-de-estilo)
   * [Artigos](https://github.com/a2comunicacao/metodologia/blob/master/design/guias-de-estilo.md#artigos-em-ordem-cronol%C3%B3gica)
   * [Ferramentas](https://github.com/a2comunicacao/metodologia/blob/master/design/guias-de-estilo.md#ferramentas)
