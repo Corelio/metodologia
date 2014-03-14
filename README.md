@@ -40,7 +40,9 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * Teste A/B
   * [Teste de usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#teste-de-usabilidade)
   * Wireframes
- 
+* [Reunião de kickoff](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#reuni%C3%A3o-de-kickoff)
+* [Contas padrão para serviços ligados a um website](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#contas-padr%C3%A3o-para-servi%C3%A7os-ligados-a-um-website)
+* [Digital Analytics](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#digital-analytics)
 
 =
 
