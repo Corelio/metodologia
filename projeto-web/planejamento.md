@@ -3,16 +3,31 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 
 ## Arquitetura de Informação
+* [Análise heurística](#analiseheuristica)
+* [Benchmark](#benchmark)
+* [Card sorting](#cardsorting)
+* [Heatmap](#heatmap)
+* [Inventário de conteúdo](#inventariodeconteudo)
+* [Lista de prioridades](#listadeprioridades)
+* [Mood boards](#moodboards)
+* [Personas](#personas)
+* [Pesquisa quantitativa](#pesquisaquantitativa)
+* [Protótipo navegável](#prototiponavegavel)
+* [Sitemap](#sitemap)
+* [Teste A/B](#testeab)
+* [Teste de usabilidade](#testedeusabilidade)
+* [Wireframes](#wireframes)
 
-### Análise heurística
 
-### Benchmark
+### <a name="analiseheuristica"></a>Análise heurística
 
-### Card sorting
+### <a name="benchmark"></a>Benchmark
+
+### <a name="cardsorting"></a>Card sorting
 
 =
 
-### Heatmap
+### <a name="heatmap"></a>Heatmap
 
 Mapa de calor é uma reprodução gráfica de dados individuais, (Ex.: cliques em botões, banners, menus, imagens, textos etc.) em que as intensidades das cores fornecem valores para análises e comparação. Geralmente, as cores mais utilizadas são vermelho para áreas quentes - de mais intensidade - e azul para áreas frias - intensidade mínima.
 
@@ -24,13 +39,13 @@ Mapa de calor é uma reprodução gráfica de dados individuais, (Ex.: cliques e
 
 =
 
-### Inventário de conteúdo
+### <a name="inventariodeconteudo"></a>Inventário de conteúdo
 
 * [Modelo atual](https://docs.google.com/a/a2comunicacao.com.br/spreadsheet/ccc?key=0Aggni3b2jqIVdEp1ZXJCQk44YXNkOVBGMGZoYTFrV0E#gid=0)
 
 =
 
-### Lista de prioridades
+### <a name="listadeprioridades"></a>Lista de prioridades
 
 Lista de prioridades é uma técnica simples e rápida que tem como função melhorar o entendimento de um projeto e auxiliar a construção de um website na fase de concepção (_skecth > wireframe > layout > código_). Para cada página do website, é importante criar uma lista de objetivos e outra de elementos.
 
@@ -55,17 +70,17 @@ Após esse processo, a próxima etapa é criar os conceitos na fase de sketch.
 
 =
 
-### Mood boards
+### <a name="moodboards"></a>Mood boards
 
-### Personas
+### <a name="personas"></a>Personas
 
-### Pesquisa quantitativa
+### <a name="pesquisaquantitativa"></a>Pesquisa quantitativa
 
-### Protótipo navegável
+### <a name="prototiponavegavel"></a>Protótipo navegável
 
 =
 
-### Sitemap
+### <a name="sitemap"></a>Sitemap
 
 É um diagrama que representa a organização hierárquica de um website. Deve conter todas as páginas de conteúdo e, em alguns casos, mostrar o fluxo de interação e transação de navegação entre conteúdos. A função de um sitemap compreende:
 
@@ -95,11 +110,11 @@ Após esse processo, a próxima etapa é criar os conceitos na fase de sketch.
 
 =
 
-### Teste A/B
+### <a name="testeab"></a>Teste A/B
 
 =
 
-### Teste de usabilidade
+### <a name="testedeusabilidade"></a>Teste de usabilidade
 
 #### Como realizar um teste
 
@@ -107,4 +122,4 @@ Após esse processo, a próxima etapa é criar os conceitos na fase de sketch.
 
 =
 
-### Wireframes
+### <a name="wireframes"></a>Wireframes
