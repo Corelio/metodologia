@@ -43,6 +43,10 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 * [Reunião de kickoff](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#reuni%C3%A3o-de-kickoff)
 * [Contas padrão para serviços ligados a um website](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#contas-padr%C3%A3o-para-servi%C3%A7os-ligados-a-um-website)
 * [Digital Analytics](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#digital-analytics)
+  * [Plano de métricas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#plano-de-m%C3%A9tricas)
+  * Google Analytics
+  * Análise de keywords
+  
 
 =
 
