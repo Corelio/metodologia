@@ -127,12 +127,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 ## Gestão de Projetos
 
 
-* [Metodologias ágeis](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/metodologias-ageis.md#metodologias-%C3%A1geis)
-  * [Scrum](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/metodologias-ageis.md#scrum)
-* [Reuniões](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/reunioes.md#reuni%C3%B5es)
-  * [Reunião de kickoff](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/reunioes.md#reuni%C3%A3o-de-kickoff)
-  * Reunião de retrospectiva
-  * Reunião diária
+
 * [Criando uma conta padrão para serviços ligados a um website](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/conta-padrao.md)
   
 ## Redes Sociais
