@@ -54,11 +54,12 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 =
   
 ### [Desenvolvimento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#desenvolvimento)
-* Metodologia ágil
+* [Metodologia ágil](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#metodologia-%C3%A1gil)
   * Sprint
   * Hotfix
   * Backlog
   * Reuniões
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#metodologia-%C3%A1gil)
 * Deploy
 * Guias de estilo
 * Design visual
