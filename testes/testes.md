@@ -301,7 +301,7 @@ Testes de segurança são essenciais para verificar se dados confidenciais estã
 * Verificar existência, relevância e tamanho (entre 150 a 160 caracteres [[19](#nota19)]) das metas descriptions utilizando a extensão [Meta SEO Inspector (Chrome)](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef/);
 * Verificar configuração de URL canônica no servidor [[16](#nota16)];
 * Verificar formatação e estruturação das URL amigáveis [[17](#nota17)];
-* Verificar marcação e semântica do código HTML [[36](#nota36)];
+* Verificar a padronização e hierarquia dos cabeçalhos no conteúdo usando a extensão Web Developer  [[36](#nota36)];
 * Verificar funcionamento dos links de compartilhamento e como estão sendo exibidos nas redes sociais [[37](#nota36)];
 * Verificar existência de arquivo XML Sitemap com permissão de escrita;
 * Verificar configuração do [Google Webmaster Tools](https://www.google.com/webmasters/) e [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster);
