@@ -45,7 +45,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 * [Digital Analytics](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#digital-analytics)
   * [Plano de métricas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#plano-de-m%C3%A9tricas)
   * Google Analytics
-  * Análise de keywords
+  * [Análise de keywords](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/planejamento.md#an%C3%A1lise-de-keywords)
   
 
 =
