@@ -10,6 +10,8 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 Tudo o que acontece antes do projeto ser aprovado
 
 * [Briefing](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial.md#briefing)
+ 
+=
 
 ### [Setup](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md)
 O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
@@ -22,6 +24,8 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 * Mac OS X
   * [Como compartilhar uma pasta com a máquina virtual](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-compartilhar-uma-pasta-com-a-m%C3%A1quina-virtual)
 * SASS
+
+=
 
 ### [Planejamento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#planejamento)
 Uma boa parte da arquitetura de informação, configurações de servidor, plano de métricas etc.
@@ -46,6 +50,30 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Plano de métricas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#plano-de-m%C3%A9tricas)
   * Google Analytics
   * [Análise de keywords](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/planejamento.md#an%C3%A1lise-de-keywords)
+
+=
+  
+### [Desenvolvimento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#desenvolvimento)
+* Metodologia ágil
+  * Sprint
+  * Hotfix
+  * Backlog
+  * Reuniões
+* Deploy
+* Guias de estilo
+* Design visual
+  * Photoshop
+  * Peças gráficas para redes sociais
+* Redes sociais
+  * Facebook
+  * Twitter
+  * Youtube
+  * Google+
+  * Disqus
+* SEO 
+  * Metatags
+  * Ranking de SERP
+  * Wordpress SEO by Yoast
   
 
 =
