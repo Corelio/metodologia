@@ -18,6 +18,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 ![Se duas ou mais pessoas são responsáveis pela mesma tarefa é preciso dividí-la](http://lab.a2comunicacao.com.br/metodologia/basecamp_03.png);
 8. Não tenha receio de copiar muitas pessoas em um comentário. Além de copiar os envolvidos diretamente na tarefa, inclua a equipe de atendimento, os gerentes das áreas e outras pessoas que possam se beneficiar com a informação. Na dúvida, copie todos! Se a pessoa não deseja receber comentários, ela pode desativar essa opção ou mesmo se desligar daquele projeto;
 9. Ao criar um novo projeto, de preferência por utilizar um modelo já existente ou crie um novo modelo caso seja necessário. ([Veja um exemplo](https://a2comunicacao.basecamphq.com/project_templates)).
+10. Primeiro cadastre no Basecamp e depois execute a tarefa, não o contrário.
 
 ### Perguntas frequentes (FAQ)
 
