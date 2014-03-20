@@ -137,7 +137,7 @@ Uma causa comum de falhas em websites é a falta de compatibilidade entre browse
 
 *Revisão dos textos, links externos, imagens, vídeos e áudios.*
 
-O conteúdo é a parte mais importante de um website. Além de revisão ortográfica, deve-se avaliar o contexto e os pequenos trechos de texto ([*microcopy* [[15](#nota15)]) presentes na interface.
+O conteúdo é a parte mais importante de um website. Além de revisão ortográfica, deve-se avaliar o contexto e os [*microtextos* [[15](#nota15)] presentes na interface.
 
 #### Checklist
 
@@ -158,6 +158,7 @@ O conteúdo é a parte mais importante de um website. Além de revisão ortográ
 #### Referências
 
 * <a name="nota15">15.</a> [Smashing Magazine - Five Ways To Prevent Bad Microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/)
+* <a name="nota40">40.</a> [BlogdeAI - Usando os microtextos a favor da experiência do usuário](http://arquiteturadeinformacao.com/user-experience/usando-os-microtextos-a-favor-da-experiencia-do-usuario/)
 
 --
 
