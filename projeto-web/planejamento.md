@@ -183,6 +183,7 @@ Informações básicas para a documentaão da insfraestrutura/TI:
 * Existem páginas que possuem eventos em Flash ou Ajax?;
 * O website possui subdomínios? Eles serão analisados?
 * O website é responsível? Quais são os breakpoints?
+* Quais events tracking implementados? E como foram implementados?
 
 #### Plano de implementação
 
@@ -216,6 +217,7 @@ Uma vez que as configurações implementadas na visualização **Test view** sur
 * [Configurando filtros básicos](https://www.youtube.com/watch?v=dzwRzUEc_tA)
 * [Configurando os goals (metas) no Google Analytics](https://www.youtube.com/watch?v=tisVDXFgapU)
 * [Como criar propriedades/visualizações](https://www.youtube.com/watch?v=OyixJ7A9phg)
+* [Implementação de Event Tracking](https://developers.google.com/analytics/devguides/collection/analyticsjs/events?hl=pt-BR#implementation)
 
 = 
 
