@@ -63,7 +63,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 * Deploy
 * [Guias de estilo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#guias-de-estilo)
 * Design visual
-  * Photoshop
+  * [Photoshop](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#photoshop)
   * Peças gráficas para redes sociais
 * Redes sociais
   * Facebook
@@ -115,10 +115,6 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Escolas de treinamento online para desenvolvedores web](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#escolas-de-treinamento-online-para-desenvolvedores-web)
   * [Formato](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#formato)
 
-## Design
-
-* [Visual](https://github.com/a2comunicacao/metodologia/blob/master/design/visual.md#visual)
-  * [Photoshop](https://github.com/a2comunicacao/metodologia/blob/master/design/visual.md#photoshop)
 
 ## Gestão de Projetos
 
