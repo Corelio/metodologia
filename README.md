@@ -64,7 +64,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 * [Guias de estilo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#guias-de-estilo)
 * Design visual
   * [Photoshop](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#photoshop)
-  * Peças gráficas para redes sociais
+  * [Peças gráficas para redes sociais](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#pe%C3%A7as-gr%C3%A1ficas-para-redes-sociais)
 * Redes sociais
   * Facebook
   * Twitter
