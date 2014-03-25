@@ -206,11 +206,11 @@ Veja mais exemplos de peças ["Vaga"](http://pinterest.com/a2com/facebook-vaga/)
 ## Redes sociais
 ### Facebook
 
-#### Como usar as open graph meta tags do Facebook em um website
+#### Como usar OpenGraph metatags
 
 =
 
-#### Criação de aplicativo no Facebook
+#### Criação de aplicativo 
 Para a criação do aplicativo, é necessário uma conta de desenvolvedor (autenticada por código enviado via SMS ou número de cartão de crédito). [Temos uma conta genérica para esse fim - Dados na Wiki](http://wiki.a2/index.php/Senhas_da_A2_em_sites_e_aplicativos)
 
 1. Acesse o [Facebook Developers](https://developers.facebook.com/) e clique em _App_ no menu superior;
