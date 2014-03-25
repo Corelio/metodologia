@@ -67,6 +67,9 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Peças gráficas para redes sociais](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#pe%C3%A7as-gr%C3%A1ficas-para-redes-sociais)
 * Redes sociais
   * Facebook
+    * Como usar OpenGraph metatags
+    * [Criação de aplicativo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#cria%C3%A7%C3%A3o-de-aplicativo-no-facebook)
+    * Integração do aplicativo com o Wordpress
   * Twitter
   * Youtube
   * Google+
@@ -116,21 +119,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Formato](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#formato)
 
 
-## Gestão de Projetos
 
-
-
-* [Criando uma conta padrão para serviços ligados a um website](https://github.com/a2comunicacao/metodologia/blob/master/gestao-de-projetos/conta-padrao.md)
-  
-## Redes Sociais
-
-* [Facebook](https://github.com/a2comunicacao/metodologia/blob/master/redes-sociais/facebook.md#facebook)
-  * Como usar as open graph meta tags do Facebook em um website
-  * [Criação de aplicativo no Facebook](https://github.com/a2comunicacao/metodologia/blob/master/redes-sociais/facebook.md#cria%C3%A7%C3%A3o-de-aplicativo-no-facebook)
-  * Integração do aplicativo do Facebook com o Wordpress
-  * [Referências de peças para o Facebook](https://github.com/a2comunicacao/metodologia/blob/master/redes-sociais/facebook.md#refer%C3%AAncias-de-pe%C3%A7as-para-o-facebook)
-* Twitter
-* Youtube
 
 ## SEO e Marketing
 * [Análise de Keywords](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#an%C3%A1lise-de-keywords)
