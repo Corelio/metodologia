@@ -76,7 +76,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * Disqus
 * SEO 
   * [Metatags](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#metatags)
-  * Ranking de SERP
+  * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#ranking-de-serp)
   * Wordpress SEO by Yoast
   
 
@@ -131,7 +131,6 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 * [Plugins](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/plugins.md#plugins)
   * [Wordpress SEO by Yoast](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/plugins.md#wordpress-seo-by-yoast)
-* [Ranking de SERP](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#ranking-de-serp)
   * [Ferramentas para análise](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#ferramenta-para-an%C3%A1lise)
   * [Análises feitas](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#an%C3%A1lises-feitas)
 
