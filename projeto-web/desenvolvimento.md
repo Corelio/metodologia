@@ -208,8 +208,6 @@ Veja mais exemplos de peças ["Vaga"](http://pinterest.com/a2com/facebook-vaga/)
 
 #### Como usar OpenGraph metatags
 
-=
-
 #### Criação de aplicativo 
 Para a criação do aplicativo, é necessário uma conta de desenvolvedor (autenticada por código enviado via SMS ou número de cartão de crédito). [Temos uma conta genérica para esse fim - Dados na Wiki](http://wiki.a2/index.php/Senhas_da_A2_em_sites_e_aplicativos)
 
@@ -224,8 +222,6 @@ Para a criação do aplicativo, é necessário uma conta de desenvolvedor (auten
 9. Clique em _Open graph > Tipos_;
 10. Clique em _Adicionar um novo tipo ação_ e selecione uma ação (read / News, por exemplo) e clique em _Enviar_;
 11. Por último, ações poderão ser definidas (recomendadas: like, listen, read, watch - os objetos serão automaticamente incluídos).
-
-=
 
 #### Integração do aplicativo com Wordpress
 
@@ -248,6 +244,17 @@ As metatags oferecem informações sobre o website para os mecanismos de busca e
 
 ##### Title
 O title não é necessariamente uma metatag, mas como é exibido nos resultados de pesquisa, é importante não esquecer de preenchê-lo.
+
+=
+
+### Ranking de SERP
+
+#### Ferramenta para análise
+[Whats my SERP](http://www.whatsmyserp.com/)
+#### Análises feitas
+[Rodoanel](https://a2comunicacao.basecamphq.com/projects/9257684-2012-02-saopaulosp-equipe/todo_items/159233699/comments)
+
+=
 
 #### Referências
 [Metatags - Ferramentas do Gogle para webmasters](https://support.google.com/webmasters/answer/79812?hl=pt-BR)
