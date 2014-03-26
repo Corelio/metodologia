@@ -245,6 +245,9 @@ As metatags oferecem informações sobre o website para os mecanismos de busca e
 ##### Title
 O title não é necessariamente uma metatag, mas como é exibido nos resultados de pesquisa, é importante não esquecer de preenchê-lo.
 
+#### Referências
+[Metatags - Ferramentas do Gogle para webmasters](https://support.google.com/webmasters/answer/79812?hl=pt-BR)
+
 =
 
 ### Ranking de SERP
@@ -256,6 +259,5 @@ O title não é necessariamente uma metatag, mas como é exibido nos resultados 
 
 =
 
-#### Referências
-[Metatags - Ferramentas do Gogle para webmasters](https://support.google.com/webmasters/answer/79812?hl=pt-BR)
+
 
