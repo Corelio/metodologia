@@ -77,7 +77,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 * SEO 
   * [Metatags](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#metatags)
   * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#ranking-de-serp)
-  * Wordpress SEO by Yoast
+  * [Wordpress SEO by Yoast](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#wordpress-seo-by-yoast)
   
 
 =
@@ -129,10 +129,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 * E-mail marketing
 * Google Webmaster Tools
 
-* [Plugins](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/plugins.md#plugins)
-  * [Wordpress SEO by Yoast](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/plugins.md#wordpress-seo-by-yoast)
-  * [Ferramentas para análise](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#ferramenta-para-an%C3%A1lise)
-  * [Análises feitas](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/ranking-de-serp.md#an%C3%A1lises-feitas)
+
 
 ## Tecnologia
 * [Back-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#back-end)
