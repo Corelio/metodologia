@@ -14,18 +14,6 @@ Basicamente o Grunt é um automatizador de tarefas. Utilizamos ele pra agilizar 
 * _watch_: Atualiza a página automaticamente conforme arquivos são salvos (funciona em complemento com o plugin [LiveReload](http://livereload.com/)).
 
 
-## Adobe Edge Inspect
-
-1. Primeiro precisamos fazer o [download](https://creative.adobe.com/inspect) do aplicativo do Edge Inspect. É necessário ter/criar uma conta na Creative Cloud.
-2. Depois é necessário fazermos o [download](https://chrome.google.com/webstore/detail/adobe-edge-inspect/ijoeapleklopieoejahbpdnhkjjgddem) da extensão para o Google Chrome.
-3. Agora, precisamos escolher os dispositivos que vamos sincronizar com o PC e, fazer o download da app para a plataforma [Android](https://play.google.com/store/apps/details?id=com.adobe.shadow.android&hl=pt_BR) ou [IOS](https://itunes.apple.com/br/app/adobe-edge-inspect/id498621426?mt=8).
-4. Feito isso, executamos o aplicativo da Adobe Edge Inspect no PC. Provavelmente será necessário logarmos com a nossa conta da Creative Cloud.
-5. Agora precisamos abrir a extensão do Chrome que instalamos e ativá-la, clicando em um botão no canto superior direito.
-6. O próximo passo é abrir o aplicativo no dispositivo que queremos sincronizar. Ao abrir, precisamos *Adicionar uma conexão*, clicando no ícone de **+** no canto superior direito e, inserir o *IP* do PC.
-7. Após inserirmos o *IP*, um código será gerado na app. Devemos inseri-lo na extensão do Google Chrome que provavelmente irá abrir automaticamente.
-8. Pronto! Tente acessar uma outra URL e automaticamente o dispositivo que sincronizamos com o PC irá atualizar automaticamente.
-
-> A versão gratuita permite apenas a conexão de um dispositivo.
 
 ## Disqus
 
