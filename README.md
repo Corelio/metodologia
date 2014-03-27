@@ -82,8 +82,11 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 =
 
+### [Treinamento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/treinamento.md#treinamento)
 
+=
 
+### [Testes](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#testes)
 
 
 # Índice antigo
