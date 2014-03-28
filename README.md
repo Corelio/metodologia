@@ -61,6 +61,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * Reuniões
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#metodologia-%C3%A1gil)
 * Deploy
+* [GIT](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#git)
 * [Guias de estilo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#guias-de-estilo)
 * Design visual
   * [Photoshop](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#photoshop)
