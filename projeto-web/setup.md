@@ -82,6 +82,3 @@ Obs.: Após essas configurações, inicie ou reinicie seu XAMPP. Caso encontre p
 3. Volte na Virtual Box, e no menu superior selecione: _devices > share folder settings_;
 4. Clique no botão “+”, selecione “Other” e aponte a pasta criada no Mac e seus arquivos ficarão acessíveis também na máquina virtual.
 
-
-## SASS
-
