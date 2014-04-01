@@ -30,7 +30,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 ### [Planejamento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#planejamento)
 Uma boa parte da arquitetura de informação, configurações de servidor, plano de métricas etc.
 * Arquitetura de informação
-  * Análise heurística
+  * [Análise heurística](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#analiseheuristica)
   * Benchmark
   * Card sorting
   * [Heatmap](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#heatmap)
