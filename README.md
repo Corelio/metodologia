@@ -89,6 +89,8 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 ### [Testes](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#testes)
 * [Device Lab](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#device-lab)
+* [Como realizar um teste?](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#como-realizar-um-teste)
+* Por que realizar um teste?
 
 
 # Índice antigo
@@ -159,8 +161,7 @@ b/master/tecnologia/maquina-virtual.md#como-criar-uma-pasta-compartilhada-com-a-
 * [Internet Explorer](https://github.com/a2comunicacao/metodologia/blob/master/testes/internet-explorer.md#internet-explorer)
   * [Como configurar máquinas virtuais para testar o Internet Explorer?](https://github.com/a2comunicacao/metodologia/blob/master/testes/internet-explorer.md#como-configurar-m%C3%A1quinas-virtuais-para-testar-no-internet-explorer)
 * [Testes](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#testes)
-  * [Como realizar um teste?](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#como-realizar-um-teste)
-  * Por que realizar um teste?
+
   * [Tipos de testes](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#tipos-de-testes)
     * [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#acessibilidade)
     * [CMS](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#cms)
