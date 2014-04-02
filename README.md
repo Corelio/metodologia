@@ -77,6 +77,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * Disqus
 * SEO 
   * [Metatags](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#metatags)
+  * [Padrões de Código | A2idiomatic](https://github.com/a2comunicacao/metodologia/tree/master/projeto-web/desenvolvimento/A2idiomatic#a2-idiomatic)
   * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#ranking-de-serp)
   * [Wordpress SEO by Yoast](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#wordpress-seo-by-yoast)
   
@@ -102,6 +103,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Como participar](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#como-participar)
   * [Projetos ativos](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#projetos-ativos)
     * [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#a2boilerplate)
+    * [A2idiomatic](https://github.com/a2comunicacao/metodologia/tree/master/projeto-web/desenvolvimento/A2idiomatic#a2-idiomatic)
     * [A2 Showcase](https://gimmebar.com/loves/a2showcase)
     * [CD Framework](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#cd-framework)
     * [CSS3 Transition Snippets](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#css3-transition-snippets)
