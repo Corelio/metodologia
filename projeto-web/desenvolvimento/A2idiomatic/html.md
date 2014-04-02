@@ -1,6 +1,6 @@
 # HTML | A2 Idiomatic
 
-* [Sobre](https://github.com/a2comunicacao/metodologia/tree/master/projeto-web/desenvolvimento/A2idiomatic#sobre)
+* [Sobre](https://github.com/a2comunicacao/metodologia/tree/master/projeto-web/desenvolvimento/A2idiomatic)
 * [Padrões](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/A2idiomatic/padroes.md)
 * [HTML](#html)
     * [Sintaxe](#sintaxe)

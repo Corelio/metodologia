@@ -1,7 +1,7 @@
 # Padrões de Código | A2 Idiomatic
 
-* [Sobre](https://github.com/a2comunicacao/metodologia/tree/master/projeto-web/desenvolvimento/A2idiomatic#sobre)
-* [Padrões](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/A2idiomatic/padroes.md)
+* [Sobre](https://github.com/a2comunicacao/metodologia/tree/master/projeto-web/desenvolvimento/A2idiomatic)
+* [Padrões](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/A2idiomatic/padroes.md#padr%C3%B5es)
     * [Comentários](#coment%C3%A1rios)
     * [Espaçamento](#espa%C3%A7amento)
     * [Arquivos](#arquivos)
