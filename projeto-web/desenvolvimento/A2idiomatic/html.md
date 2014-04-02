@@ -1,13 +1,13 @@
-# HTML | Padrões de Código | A2 Idiomatic
+# HTML | A2 Idiomatic
 
-* [Sobre](https://github.com/a2comunicacao/A2idiomatic#sobre)
-* [Padrões](https://github.com/a2comunicacao/A2idiomatic/blob/master/padroes.md#padr%C3%B5es)
+* [Sobre](https://github.com/a2comunicacao/metodologia/tree/master/projeto-web/desenvolvimento/A2idiomatic#sobre)
+* [Padrões](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/A2idiomatic/padroes.md)
 * [HTML](#html)
     * [Sintaxe](#sintaxe)
     * [Atributos](#atributos)
     * [Comentários](#coment%C3%A1rios)
 * PHP - _em breve!_
-* [CSS](https://github.com/a2comunicacao/A2idiomatic/blob/master/css.md#css)
+* [CSS](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/A2idiomatic/css.md)
 * JS - _em breve!_
 
 ## HTML

@@ -1,8 +1,8 @@
-# CSS | Padrões de Código | A2 Idiomatic
+# CSS | A2 Idiomatic
 
-* [Sobre](#sobre)
-* [Padrões](#padr%C3%B5es)
-* [HTML](#html)
+* [Sobre](https://github.com/a2comunicacao/metodologia/tree/master/projeto-web/desenvolvimento/A2idiomatic#sobre)
+* [Padrões](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/A2idiomatic/padroes.md)
+* [HTML](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/A2idiomatic/html.md)
 * PHP - _em breve!_
 * [CSS](#css)
     * [Sintaxe](#sintaxe)
