@@ -46,6 +46,11 @@ Na fase de manutenção, os _commits_ deverão seguir o padrão abaixo com o obj
    * pages _(ajustes gerais de CSS/HTML/JS nas páginas do projeto)_
    * posts _(semelhante ao anterior, porém apenas aplicado em post/notícias)_
 
+Um exemplo de utilização:
+
+Bugfix - [**performance**][**media**] - Removing unused thumbnail creation call
+
+Obs: Lembre-se sempre de colocar o "Bugfix" no início.
 
 
 ## Guias de Estilo
