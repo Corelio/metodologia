@@ -309,3 +309,11 @@ Testes de usabilidade tem por objetivo verificar a facilidade que o software ou 
 
 #### Referências
 * [Webdesigner Depot - How to approach usability testing](http://www.webdesignerdepot.com/2013/06/how-to-approach-usability-testing/)
+
+=
+
+## Referências
+
+* [HTML5 Boilerplate documentation](https://github.com/h5bp/html5-boilerplate/blob/v4.2.0/doc/TOC.md)
+* [Wikipedia - Software testing](http://en.wikipedia.org/wiki/Software_testing)
+* [Re-lauching the ultimate website launch checklist](http://www.boxuk.com/blog/relaunching-the-ultimate-website-launch-checklist/)
