@@ -156,7 +156,7 @@ O conteúdo é a parte mais importante de um website. Além de revisão ortográ
 * Em caso de migração ou redesign, verificar se todo o conteúdo está sendo considerado (notícias, imagens, vídeos, áudios, posts, comentários, etc.).
 
 #### Referências
-* [<a name="conteudo1"></a>1] [Smashing Magazine - Five ways to prevent bad microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/);
-* [BlogdeAI - Usando os microtextos a favor da experiência do usuário](http://arquiteturadeinformacao.com/user-experience/usando-os-microtextos-a-favor-da-experiencia-do-usuario/). 
+* [<a name="conteudo1"></a>1] [Smashing Magazine - Five ways to prevent bad microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/)
+* [BlogdeAI - Usando os microtextos a favor da experiência do usuário](http://arquiteturadeinformacao.com/user-experience/usando-os-microtextos-a-favor-da-experiencia-do-usuario/)
 
 =
