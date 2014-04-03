@@ -21,8 +21,3 @@ Quando os ícones estiverem amarelos/vermelhos, abra-o em uma nova aba e veja se
 
 --
 
-## Referências
-
-* [HTML5 Boilerplate documentation](https://github.com/h5bp/html5-boilerplate/blob/v4.2.0/doc/TOC.md)
-* [Wikipedia - Software testing](http://en.wikipedia.org/wiki/Software_testing)
-* [Re-launching The Ultimate Website Launch Checklist](http://www.boxuk.com/blog/relaunching-the-ultimate-website-launch-checklist/)
