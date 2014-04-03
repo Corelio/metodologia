@@ -49,7 +49,7 @@
 
 Os tipos de testes manuais (não automatizados) realizados em um website ou aplicativo web são:
 
-1. [Acessibilidade](#acessbilidade)
+1. [Acessibilidade](#acessibilidade)
 2. [CMS](#cms)
 3. [Compatibilidade](#compatibilidade)
 4. [Conteúdo](#conteudo)
@@ -99,7 +99,7 @@ Estima-se que 20% da população mundial possue algum tipo de deficiência [[1]]
 
 =
 
-### Compatibilidade (Cross-browser)
+### <a name="compatibilidade"></a>Compatibilidade (Cross-browser)
 Funcionamento em diferentes browsers, sistemas operacionais e servidores. Atualmente o teste deve ser feito nos principais browsers (Chrome, Internet Explorer, Firefox, Safari e Opera), entre sistemas operacionais (PC e Mac) e entre dispositivos (Smartphone, Tablet e Desktop).
 
 #### O que deve ser observado em um teste cross-browser? [[1]](#compatibilidade1)
