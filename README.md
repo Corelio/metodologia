@@ -105,6 +105,73 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#usabilidade)
 * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#refer%C3%AAncias-8)
 
+=
+
+### Lançamento
+
+=
+
+### Pós-lançamento
+
+* Google Webmaster Tools
+* Newsletter
+  * Estrutura
+  * Boas práticas
+  * Mailchimp
+  * Testes
+  * Dicas
+
+= 
+
+## Manutenção evolutiva
+
+* Verificação de links
+* A2projetos
+  * 2013.04.a2comunicacao
+    * URL
+    * CMS
+    * Hospedagem
+    * FTP
+    * Repositório GIT
+    * Dependências
+* A2Lab
+  * Como funciona?
+  * Como iniciar um projeto?
+  * Como participar?
+  * Projetos ativos
+    * A2boilerplate
+    * A2 Showcase
+    * CD Framework
+    * CSS3 Transition Snippets
+    * Font-size
+    * jQuery Accordion
+    * jQuery Editable
+    * Twitter API
+    * Video destacado
+    * WP Plugins
+    * WP Samples
+  * Outros laboratórios
+  * Referências
+* Colóquios
+  * Linguagens de programação
+  * CMS
+  * Front-end
+  * SEO
+  * Gestão de projetos
+  * Design
+  * Outros
+  * Escolas de treinamento online para desenvolvedores web
+  * Formato
+
+
+
+
+
+
+
+
+
+
 
 # Índice antigo
 
