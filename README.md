@@ -92,6 +92,18 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 * [Device Lab](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#device-lab)
 * [Como realizar um teste?](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#como-realizar-um-teste)
 * Por que realizar um teste?
+* [Tipos de testes](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#tipos-de-testes)
+  * [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#acessibilidade)
+  * CMS
+  * [Compatibilidade - Cross-browser](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#compatibilidade-cross-browser)
+  * [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#conte%C3%BAdo)
+  * [Funcional](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#funcional)
+  * [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#newsletter)
+  * [Performance](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#performance)
+  * [Segurança](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#seguran%C3%A7a)
+  * [SEO e Marketing](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#seo-e-marketing)
+  * [Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#usabilidade)
+* [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes.md#refer%C3%AAncias-8)
 
 
 # Índice antigo
@@ -162,21 +174,7 @@ b/master/tecnologia/maquina-virtual.md#como-criar-uma-pasta-compartilhada-com-a-
 
 * [Internet Explorer](https://github.com/a2comunicacao/metodologia/blob/master/testes/internet-explorer.md#internet-explorer)
   * [Como configurar máquinas virtuais para testar o Internet Explorer?](https://github.com/a2comunicacao/metodologia/blob/master/testes/internet-explorer.md#como-configurar-m%C3%A1quinas-virtuais-para-testar-no-internet-explorer)
-* [Testes](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#testes)
 
-  * [Tipos de testes](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#tipos-de-testes)
-    * [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#acessibilidade)
-    * [CMS](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#cms)
-    * [Compatibilidade - Cross-browser](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#compatibilidade-cross-browser)
-    * [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#conte%C3%BAdo)
-    * [Funcional](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#funcional)
-    * [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#newsletter)
-    * [Performance](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#performance)
-    * [Segurança](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#seguran%C3%A7a)
-    * [SEO e Marketing](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#seo-e-marketing)
-    * [Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#usabilidade)
-    * [Verificação de links](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#-verifica%C3%A7%C3%A3o-de-links)
-  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/testes/testes.md#refer%C3%AAncias-7)
 
 
 
