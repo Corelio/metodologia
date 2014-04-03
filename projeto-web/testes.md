@@ -284,7 +284,7 @@ Testes de segurança são essenciais para verificar se dados confidenciais estã
 
 #### Checklist
 * Verificar existência e relevância de keywords nos títulos das página;
-* Verificar existência, relevância e tamanho (entre 150 a 160 caracteres [[1]](#seo1) das metas descriptions utilizando a extensão [Meta SEO Inspector (Chrome)](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef/);
+* Verificar existência, relevância e tamanho (entre 150 a 160 caracteres [[1]](#seo1) das [metas descriptions](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento.md#meta-description) utilizando a extensão [Meta SEO Inspector (Chrome)](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef/);
 * Verificar configuração de URL canônica no servidor [[2]](#seo2);
 * Verificar formatação e estruturação das URL amigáveis [[3]](#seo3);
 * Verificar a padronização e hierarquia dos cabeçalhos no conteúdo usando a extensão Web Developer [[4]](#seo4);
