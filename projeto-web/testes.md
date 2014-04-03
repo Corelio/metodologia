@@ -294,3 +294,18 @@ Testes de segurança são essenciais para verificar se dados confidenciais estã
 * Verificar funcionamento da ferramenta de monitoramento de acessos (Ex.: [Configuração de metas no Google Analytics](http://www.google.com/analytics/)) [[5]](#seo5);
 * Em caso de migração ou redesign, verificar se as URLs alteradas estão sendo redirecionadas através do código de status HTTP 301;
 * Verificar aparência do website nas páginas de resultado de busca (SERPs) [[6]](#seo6).
+
+=
+
+### <a name="usabilidade"></a>Usabilidade
+
+Testes de usabilidade tem por objetivo verificar a facilidade que o software ou website possui de ser claramente compreendido e manipulado pelo usuário.
+
+#### Checklist
+* Realizar testes de usabilidade com usuários reais;
+* Realizar análise heurística de usabilidade;
+* Verificar o estado das telas em branco;
+* Feedback para o usuário;
+
+#### Referências
+* [Webdesigner Depot - How to approach usability testing](http://www.webdesignerdepot.com/2013/06/how-to-approach-usability-testing/)
