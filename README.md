@@ -111,7 +111,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 =
 
-### Pós-lançamento
+### [Pós-lançamento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento.md#p%C3%B3s-lan%C3%A7amento)
 
 * Google Webmaster Tools
 * Newsletter
