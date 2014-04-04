@@ -30,3 +30,9 @@ Porque padrões são sempre bons.
 ### Aonde?
 
 A princípio nas linguagens mais utilizadas: *HTML*, *CSS*, *JS* e *PHP*. 
+
+### Referências
+
+* [SitePoint - Title CSS: A Simple Approach to CSS Class Naming](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
+* [CSS Wizardry - Naming UI components in OOCSS](http://csswizardry.com/2014/03/naming-ui-components-in-oocss/)
+* [Metodologia BEM](http://bem.info/method/)
