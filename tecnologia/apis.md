@@ -59,3 +59,8 @@ No entanto com a API do Twitter se tem acesso a tweets de usuários, timeline de
 
 As chaves de usuário são necessárias tanto para aplicações backend quando aplicações frontend, e podem ser obtidas ao cadastrar um aplicativo na [central de aplicativos](https://apps.twitter.com/).
 
+1. Faça login na central de aplicativos
+2. Clique no link `Create New App`
+3. Preencha os dados da aplicação e clique no botão `Create your Twitter application`
+4. Modifique as permissões do app se necessário clicando no link `modify app permissions`
+5. Utilize a `API key` para realizar a autenticação nos aplicativos
