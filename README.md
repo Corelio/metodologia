@@ -115,11 +115,11 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 * Google Webmaster Tools
 * Newsletter
-  * Estrutura
-  * Boas práticas
-  * Mailchimp
-  * Testes
-  * Dicas
+  * [Boas práticas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento.md#boas-pr%C3%A1ticas)
+  * [Dicas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento.md#dicas)
+  * [Estrutura](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento.md#estrutura)
+  * [Mailchimp](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento.md#mailchimp)
+  * [Testes](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento.md#testes)
 
 = 
 
@@ -215,7 +215,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Organizando dados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#organizando-dados)
   * [Planilha dos 15 termos mais buscados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#planilha-dos-15-termos-mais-buscados)
 * E-mail marketing
-* Google Webmaster Tools
+
 
 
 
@@ -230,12 +230,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
   * [SASS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#sass)
 b/master/tecnologia/maquina-virtual.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box-no-mac)
-* [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md)
-   * [Estrutura](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#estrutura)
-   * [Boas Práticas](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#boas-pr%C3%A1ticas)
-   * [Mailchimp](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#mailchimp)
-   * [Testes](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#testes)
-   * [Dicas](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/newsletter.md#dicas)
+
 
 ## Testes
 
