@@ -29,13 +29,17 @@ O que fazemos após o website ser lançado?
 ### Dicas
 
 #### Como incluir elementos inline, com background e espaçamento interno
+
 Exemplo: 
+
 ![Elementos inline com background](http://lab.a2comunicacao.com.br/metodologia/newsletter_01.png)
 
 * Dentro da tabela principal do conteúdo, insira uma `<tr>` com a quantidade de `<td>` desejadas;
 * Dentro de cada `<td>` inclua uma nova tabela, com uma nova `<tr>` e `<td>` dentro;
 * Insira a cor na tabela com o atributo `brcolor` e o espaçamento interno com o atributo `cellpadding`;
 * Para alinhar o conteúdo, coloque o atributo de alinhamento na `<td>`.
+
+=
 
 ### Estrutura
 
