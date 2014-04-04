@@ -16,6 +16,10 @@ APIs utilizadas:
 
 A API do Google Custom Search permite que nossos meios de busca obtenham resultados tão relevantes quando a busca do Google, dispensando na maioria dos casos processamento bruto de dados para retornar os resultados.
 
+A busca pode ser utilizada apenas em client-side ou server-side utilizando a sua API. Para cadastrar os dados da busca, é necessário registrar um novo método de busca no [Google CSE](http://google.com/cse), obtendo assim o embed para utilização client-side e o CX para utilização server-side.
+
+Em utilização server-side com o Symfony Framework é possível configurar facilmente a busca com o [Google CSE Bundle](https://github.com/williancarminato/GoogleCseBundle), criado pelo [Willian Carminato](https://twitter.com/willcampideli).
+
 ### Youtube
 
 A API do Youtube permite que criemos listagens de vídeos dos canais de nossos clientes ou de playlists que eles criarem.
@@ -23,6 +27,9 @@ A API do Youtube permite que criemos listagens de vídeos dos canais de nossos c
 ### Google Maps
 
 Utilizamos a API do Google Maps tanto para realizar busca de coordenadas para endereços, quanto para exibir mapas interativos e personalizados nos sites de clientes. A API permite a personalização e manipulação de mapas, tendo todas as funcionalidades de navegação presente no Google Maps.
+
+### Google+
+Utilizamos para fazer autenticação em duas etapas, validando pela conta do Google um usuário cadastrado no sistema, permitindo assim o seu acesso à áreas administrativas. A API pode ser utilizada para diversas funcionalidades do Google+, como realizar postagens, ler feeds entre outros.
 
 ### Criando API keys
 
@@ -41,6 +48,7 @@ A criação de uma chave é simples, sendo realizada a partir dos passos abaixo:
  * `Android key` para aplicações Android
  * `iOS key` para aplicações iOS
 8. Indique os hosts ou IPs que podem utilizar a chave
+9. Utilize a `API key` para realizar a autenticação das APIs
 
 ## Twitter
 
@@ -50,3 +58,4 @@ No entanto com a API do Twitter se tem acesso a tweets de usuários, timeline de
 ### Criando API keys no Twitter
 
 As chaves de usuário são necessárias tanto para aplicações backend quando aplicações frontend, e podem ser obtidas ao cadastrar um aplicativo na [central de aplicativos](https://apps.twitter.com/).
+
