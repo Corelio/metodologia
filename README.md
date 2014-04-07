@@ -134,6 +134,9 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
     * FTP
     * Repositório GIT
     * Dependências
+    
+## A2 Lab
+
 * A2Lab
   * Como funciona?
   * Como iniciar um projeto?
