@@ -165,7 +165,7 @@ O conteúdo é a parte mais importante de um website. Além de revisão ortográ
 Testes funcionais estão relacionados a entrada e saída de dados. Clicar em links, preencher um cadastro e realizar uma busca são entrada de dados feitas pelos usuários na expectativa de obter uma resposta satisfatória do software.
 
 #### Checklist
-* Verificar links quebrados na barra de navegação e no corpo do texto usando a extensão [Link Checker](https://addons.mozilla.org/pt-br/firefox/addon/linkchecker/) (Firefox) ou [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/) (Chrome);
+* [Verificar links quebrados](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/manutencao-evolutiva.md#verifica%C3%A7%C3%A3o-de-links) na barra de navegação e no corpo do texto usando a extensão [Link Checker](https://addons.mozilla.org/pt-br/firefox/addon/linkchecker/) (Firefox) ou [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/) (Chrome);
 * Verificar preenchimento dos formulários (validação, envio e recebimento):
 	* Existe alguma validação nos campos de preenchimento?;
 	* Os campos marcados como obrigatórios estão sendo validados?;
