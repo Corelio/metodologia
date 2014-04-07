@@ -107,7 +107,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 =
 
-### Lançamento
+### [Lançamento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/lancamento.md#lan%C3%A7amento)
 
 =
 
