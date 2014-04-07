@@ -30,7 +30,7 @@ Obs.: Ás vezes um link quebrado pode representar apenas uma página com instabi
 * URL: http://a2comunicacao.com.br/;
 * CMS: A2siteBox - http://a2comunicacao.com.br/a2sitebox/login/;
 * Hospedagem: Hostgator - https://financeiro.hostgator.com.br/;
-* <a name=”projetos1”></a>Repositório GIT: `192.168.0.241:/Dados/A2Projetos/2013.04.a2comunicacao/www`;
+* <a name="projetos1"></a>Repositório GIT: `192.168.0.241:/Dados/A2Projetos/2013.04.a2comunicacao/www`;
 * FTP:
 	* a2comunicacao.com.br;
 	* Login: `a2com691`;
