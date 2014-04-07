@@ -127,13 +127,8 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 * [Verificação de links](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/manutencao-evolutiva.md#verifica%C3%A7%C3%A3o-de-links)
 * A2projetos
-  * 2013.04.a2comunicacao
-    * URL
-    * CMS
-    * Hospedagem
-    * FTP
-    * Repositório GIT
-    * Dependências
+  * [2013.04.a2comunicacao](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/manutencao-evolutiva.md#201304a2comunicacao)
+    
     
 ## A2 Lab
 
