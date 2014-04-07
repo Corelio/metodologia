@@ -64,3 +64,7 @@ As chaves de usuário são necessárias tanto para aplicações backend quando a
 3. Preencha os dados da aplicação e clique no botão `Create your Twitter application`
 4. Modifique as permissões do app se necessário clicando no link `modify app permissions`
 5. Utilize a `API key` para realizar a autenticação nos aplicativos
+
+## Referências
+
+* [Padrão para criar uma API JSON](http://jsonapi.org/)
