@@ -207,14 +207,6 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 
 
-## SEO e Marketing
-* [Análise de Keywords](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#an%C3%A1lise-de-keywords)
-  * [Exportando dados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#exportando-dados)
-  * [Organizando dados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#organizando-dados)
-  * [Planilha dos 15 termos mais buscados](https://github.com/a2comunicacao/metodologia/blob/master/seo-e-marketing/analise-de-keywords.md#planilha-dos-15-termos-mais-buscados)
-* E-mail marketing
-
-
 
 
 ## Tecnologia
