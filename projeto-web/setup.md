@@ -73,9 +73,7 @@ Obs.: Após essas configurações, inicie ou reinicie seu XAMPP. Caso encontre p
 
 ## Mac OS X
 
-### Como compartilhar uma pasta com a máquina virtual 
-
-#### Virtual Box
+### Como criar uma pasta compartilhada com a Virtual Box
 
 1. Abra a Virtual Box e selecione no menu superior: _devices > insert guest additions_, selecione o .exe indicado e instale com suas configurações básicas;
 2. Crie uma pasta no Mac com os arquivos que deseja transferir para a máquina virtual;
