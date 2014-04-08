@@ -22,7 +22,8 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
   * [Clonagem de repositórios](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#clonagem-de-reposit%C3%B3rios)
   * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#softwares-recomendados)
 * Mac OS X
-  * [Como compartilhar uma pasta com a máquina virtual](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-compartilhar-uma-pasta-com-a-m%C3%A1quina-virtual)
+  * [Como configurar máquinas virtuais com Windows](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-configurar-m%C3%A1quinas-virtuais-com-windows)
+  * [Como criar uma pasta compartilhada com a Virtual Box](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box)
 * SASS
 
 =
@@ -222,10 +223,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 b/master/tecnologia/maquina-virtual.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box-no-mac)
 
 
-## Testes
 
-* [Internet Explorer](https://github.com/a2comunicacao/metodologia/blob/master/testes/internet-explorer.md#internet-explorer)
-  * [Como configurar máquinas virtuais para testar o Internet Explorer?](https://github.com/a2comunicacao/metodologia/blob/master/testes/internet-explorer.md#como-configurar-m%C3%A1quinas-virtuais-para-testar-no-internet-explorer)
 
 
 
