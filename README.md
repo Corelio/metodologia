@@ -124,7 +124,7 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 = 
 
-## [Manutenção evolutiva](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/manutencao-evolutiva.md#manuten%C3%A7%C3%A3o-evolutiva)
+## Manutenção evolutiva
 
 * [Verificação de links](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/manutencao-evolutiva.md#verifica%C3%A7%C3%A3o-de-links)
 * A2projetos
