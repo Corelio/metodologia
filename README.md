@@ -23,6 +23,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
   * [Clonagem de repositórios](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#clonagem-de-reposit%C3%B3rios)
   * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#softwares-recomendados)
 * [GitHub Pages](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#github-pages)
+* [Grunt](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#grunt)
 * Mac OS X
   * [Como configurar máquinas virtuais com Windows](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-configurar-m%C3%A1quinas-virtuais-com-windows)
   * [Como criar uma pasta compartilhada com a Virtual Box](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box)
@@ -165,26 +166,6 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [Outros](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#outros)
   * [Escolas de treinamento online para desenvolvedores web](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#escolas-de-treinamento-online-para-desenvolvedores-web)
   * [Formato](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/coloquios.md#formato)
-
-
-
-
-
-
-
-
-
-
-
-# Índice antigo
-
-
-* [Front-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md)
-  * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#adobe-edge-inspect)
-  * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
-  * [SASS](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#sass)
-b/master/tecnologia/maquina-virtual.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box-no-mac)
-
 
 
 
