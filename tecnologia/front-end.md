@@ -1,44 +1,4 @@
-# Front-end
 
-## Grunt
-
-Basicamente o Grunt é um automatizador de tarefas. Utilizamos ele pra agilizar algumas tarefas comuns no desenvolvimento de um projeto e adotamos o uso dele no [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#a2boilerplate). Pra instalá-lo em sua máquina você precisa de [NodeJS](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/) e NPM. Na prática, você instala _plugins_ e configura tarefas que rodarão através de comandos. As tarefas que costumamos utilizar são:
-* _imagemin_: Reduz tamanho das imagens.
-* _svg2png_: Converte SVGs em PNGs para utilização em browsers que não tem suporte para SVG.
-* _copy_: Copia arquivos de uma pasta para outra.
-* _concat_: Concatena arquivos (utilizamos principalmente para arquivos JS).
-* _uglify_: Minifica arquivos JS.
-* _jshint_: Valida arquivos JS.
-* _sass_: Realiza tarefa do pré-processador SASS.
-* *browser_sync*: Levanta um servidor e sincroniza todos dispositivos que acessarem determinado IP (ótimo para testes _cross-device_).
-* _watch_: Atualiza a página automaticamente conforme arquivos são salvos (funciona em complemento com o plugin [LiveReload](http://livereload.com/)).
-
-
-
-## Disqus
-
-### Instalação
-
-1. Criar uma conta para poder usar o serviço: [Criar a conta](https://disqus.com/profile/signup/)
-2. Logar e clicar em [Dashboard](http://disqus.com/dashboard/)
-3. Em **_Your Sites_** clicar em [Add](https://disqus.com/admin/signup/) para adicionar o site que vai receber o plugin
-
-### Wordpress
-
-1. No painel esquerdo do seu administrador Wordpress, selecione **Plugins > Adicionar Novo**
-2. Procure por "Disqus Comment System"
-3. Selecione **Instalar Agora > Ativar Plugin**
-3. Clique em **Configure** e logue com usuário e senha que você criou
-4. Selecione o site que você configurou no Disqus
-
-**Obs:** Se já existir comentários nos posts e você quiser exporta-los para o disqus, clique em **Plugin Settings** no canto superior direito da tela, role a tela até "Import and Export" e clique em **Export Comments**.
-
-### Universal Code
-
-1. Clique em **Dashboard**
-2. Em _**Your Sites**_ clique no site que você criou
-3. Clique em **Settings** > **Install** > **Universal Code**
-4. E siga os procedimentos informados
 
 ## SASS
 
