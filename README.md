@@ -27,6 +27,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
   * [Como configurar máquinas virtuais com Windows](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-configurar-m%C3%A1quinas-virtuais-com-windows)
   * [Como criar uma pasta compartilhada com a Virtual Box](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box)
 * SASS
+* Wordpress
 
 =
 
