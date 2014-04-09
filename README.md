@@ -131,50 +131,8 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * [2013.04.a2comunicacao](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/manutencao-evolutiva.md#201304a2comunicacao)
     
     
-## A2 Lab
-
-* A2Lab
-  * Como funciona?
-  * Como iniciar um projeto?
-  * Como participar?
-  * Projetos ativos
-    * A2boilerplate
-    * A2 Showcase
-    * CD Framework
-    * CSS3 Transition Snippets
-    * Font-size
-    * jQuery Accordion
-    * jQuery Editable
-    * Twitter API
-    * Video destacado
-    * WP Plugins
-    * WP Samples
-  * Outros laboratórios
-  * Referências
-* Colóquios
-  * Linguagens de programação
-  * CMS
-  * Front-end
-  * SEO
-  * Gestão de projetos
-  * Design
-  * Outros
-  * Escolas de treinamento online para desenvolvedores web
-  * Formato
-
-
-
-
-
-
-
-
-
-
-
-# Índice antigo
-
 ## A2lab
+
 * [A2lab](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md)
   * [Como funciona?](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#como-funciona)
   * [Como iniciar um projeto](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#como-iniciar-um-projeto)
@@ -207,6 +165,15 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 
 
 
+
+
+
+
+
+
+
+
+# Índice antigo
 
 
 
