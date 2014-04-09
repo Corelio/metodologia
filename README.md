@@ -17,10 +17,12 @@ Tudo o que acontece antes do projeto ser aprovado
 O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
 
 * A2boilerplate
+* [A2siteBox](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#a2sitebox)
 * [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#basecamp)
 * [GIT](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#git)
   * [Clonagem de repositórios](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#clonagem-de-reposit%C3%B3rios)
   * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#softwares-recomendados)
+* [GitHub Pages](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#github-pages)
 * Mac OS X
   * [Como configurar máquinas virtuais com Windows](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-configurar-m%C3%A1quinas-virtuais-com-windows)
   * [Como criar uma pasta compartilhada com a Virtual Box](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box)
@@ -176,13 +178,6 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 # Índice antigo
 
 
-
-## Tecnologia
-* [Back-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#back-end)
-  * [A2siteBox](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#a2sitebox)
-  * Wordpress
-  * [Github pages](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/back-end.md#github-pages) 
-* Deploy
 * [Front-end](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md)
   * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#adobe-edge-inspect)
   * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/tecnologia/front-end.md#disqus)
