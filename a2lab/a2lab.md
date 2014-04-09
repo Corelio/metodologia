@@ -82,10 +82,10 @@ O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um _boilerp
 =
 
 ### CSS3 Transition Snippets
-Esse [projeto](http://raphaelfabeni.github.io/transitionSnippets/) surgiu como da idéia de estudo das novas propriedades do CSS3, mais precisamente das propriedades _transition_ e _transform_. Possui alguns exemplos com _snippets_ de código para rápida utilização.
+Esse [projeto](http://raphaelfabeni.github.io/transitionSnippets/) surgiu com a ideia de estudo das novas propriedades do CSS3, mais precisamente das propriedades _transition_ e _transform_. Possui alguns exemplos de _snippets_ de código para rápida utilização.
 
-* [Repositório GitHub](https://github.com/raphaelfabeni/transitionSnippets)
-* [Demo](http://raphaelfabeni.github.io/transitionSnippets/)
+* [Repositório Github](https://github.com/raphaelfabeni/transitionSnippets);
+* [Demo](http://raphaelfabeni.github.io/transitionSnippets/).
 
 =
 
