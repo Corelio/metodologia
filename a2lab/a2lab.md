@@ -71,8 +71,15 @@ O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um _boilerp
 * [Releases](https://github.com/a2comunicacao/A2boilerplate/releases)
 * [Roadmap](https://github.com/a2comunicacao/A2boilerplate/issues/milestones)
 
+=
+
 ### A2 Showcase
+
+=
+
 ### CD Framework
+
+=
 
 ### CSS3 Transition Snippets
 Esse [projeto](http://raphaelfabeni.github.io/transitionSnippets/) surgiu como da idéia de estudo das novas propriedades do CSS3, mais precisamente das propriedades _transition_ e _transform_. Possui alguns exemplos com _snippets_ de código para rápida utilização.
@@ -80,12 +87,15 @@ Esse [projeto](http://raphaelfabeni.github.io/transitionSnippets/) surgiu como d
 * [Repositório GitHub](https://github.com/raphaelfabeni/transitionSnippets)
 * [Demo](http://raphaelfabeni.github.io/transitionSnippets/)
 
+=
+
 ### Font-Size
 Trata-se de um plugin jQuery que facilita o processo de criação dos botões _A+_ e _A-_, que alteram o tamanho da fonte de textos e títulos em websites.
 
 * [Repositório GitHub](https://github.com/airton/font-size)
 * [Demo](http://airton.github.io/font-size/)
 
+=
 
 ### jQuery Accordion
 Plugin jQuery para mostrar conteúdo com o efeito _accordion_.
@@ -93,11 +103,15 @@ Plugin jQuery para mostrar conteúdo com o efeito _accordion_.
 * [Repositório GitHub](https://github.com/raphaelfabeni/accordion)
 * [Demo](http://raphaelfabeni.github.io/accordion/)
 
+=
+
 ### jQuery Editable
 Plugin jQuery que possibilita a edição de blocos de conteúdo de uma página.
 
 * [Repositório GitHub](https://github.com/williancarminato/jquery-editable)
 * [Demo](http://lab.a2comunicacao.com.br/jquery-editable/)
+
+=
 
 ### Twitter API
 Plugin do Twitter para mostrar os últimos tweets de uma conta, utilizando a nova API.
@@ -105,11 +119,15 @@ Plugin do Twitter para mostrar os últimos tweets de uma conta, utilizando a nov
 * [Repositório GitHub](https://github.com/airton/twitter-api)
 * [Demo](http://lab.a2comunicacao.com.br/twitter-api/)
 
+=
+
 ### Vídeo Destacado
 Plugin para WordPress onde você pode escolher um vídeo do Youtube para destaque em páginas e posts.
 
 * [Repositório GitHub](https://github.com/airton/video-destacado)
 * [Demo](http://wordpress.org/plugins/video-destacado/)
+
+=
 
 ### WP Plugins
 Plugins de WordPress mais utilizados pela equipe de front-end da A2 Comunicação.
@@ -117,12 +135,15 @@ Plugins de WordPress mais utilizados pela equipe de front-end da A2 Comunicaçã
 * [Repositório GitHub](https://github.com/a2comunicacao/wp-plugins)
 * [Demo](http://lab.a2comunicacao.com.br/wp-plugins/)
 
+=
+
 ### WP Samples
 Coletânea de snippets para utilização em projetos que utilizem WordPress.
 
 * [Repositório GitHub](https://github.com/raphaelfabeni/wp-samples)
 * [Demo](http://raphaelfabeni.github.io/wp-samples/)
 
+=
 
 ## Outros laboratórios
 
