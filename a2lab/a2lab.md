@@ -52,19 +52,19 @@ Ficou interessado em participar? Siga esses passos:
 
 ## Projetos ativos
 
-* [A2boilerplate](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#a2boilerplate)
-* [A2 Showcase](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#a2-showcase)
-* [CD Framework](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#cd-framework)
-* [CSS3 Transition Snippets](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#css3-transition-snippets)
-* [Font-size](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#font-size)
-* [jQuery Accordion](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#jquery-accordion)
-* [jQuery Editable](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#jquery-editable)
-* [Twitter API](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#twitter-api)
-* [Vídeo Destacado](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#v%C3%ADdeo-destacado)
-* [WP Plugins](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#wp-plugins)
-* [WP Samples](https://github.com/a2comunicacao/metodologia/blob/master/a2lab/a2lab.md#wp-samples)
+* [A2boilerplate](#a2boilerplate)
+* [A2 Showcase](#a2showcase)
+* [CD Framework](#cdframework)
+* [CSS3 Transition Snippets](#css3transitionsnippets)
+* [Font-size](#fontsize)
+* [jQuery Accordion](#jqueryaccordion)
+* [jQuery Editable](#jqueryeditable)
+* [Twitter API](#twitterapi)
+* [Vídeo Destacado](#videodestacado)
+* [WP Plugins](#wpplugins)
+* [WP Samples](#wpsamples)
 
-### A2boilerplate
+### <a name="a2boilerplate"></a>A2boilerplate
 
 O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um _boilerplate_ para dar o pontapé inicial em um projeto web. Utiliza o Grunt como automatizador de tarefas e possui um Guia de Estilo integrado.
 
@@ -74,14 +74,14 @@ O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um _boilerp
 
 =
 
-### A2 Showcase
+### <a name="a2showcase"></a>A2 Showcase
 
 =
-### CD Framework
+### <a name="cdframework"></a>CD Framework
 
 =
 
-### CSS3 Transition Snippets
+### <a name="css3transitionsnippets"></a>CSS3 Transition Snippets
 Esse [projeto](http://raphaelfabeni.github.io/transitionSnippets/) surgiu com a ideia de estudo das novas propriedades do CSS3, mais precisamente das propriedades _transition_ e _transform_. Possui alguns exemplos de _snippets_ de código para rápida utilização.
 
 * [Repositório Github](https://github.com/raphaelfabeni/transitionSnippets);
@@ -89,7 +89,7 @@ Esse [projeto](http://raphaelfabeni.github.io/transitionSnippets/) surgiu com a 
 
 =
 
-### Font-size
+### <a name="fontsize"></a>Font-size
 Trata-se de um plugin jQuery que facilita o processo de criação dos botões _A+_ e _A-_, que alteram o tamanho da fonte de textos e títulos em websites.
 
 * [Repositório Github](https://github.com/airton/font-size);
@@ -97,7 +97,7 @@ Trata-se de um plugin jQuery que facilita o processo de criação dos botões _A
 
 =
 
-### jQuery Accordion
+### <a name="jqueryaccordion"></a>jQuery Accordion
 Plugin jQuery para mostrar conteúdo com efeito _accordion_.
 
 * [Repositório Github](https://github.com/raphaelfabeni/accordion);
@@ -105,7 +105,7 @@ Plugin jQuery para mostrar conteúdo com efeito _accordion_.
 
 =
 
-### jQuery Editable
+### <a name="jqueryeditable"></a>jQuery Editable
 Plugin jQuery que possibilita a edição de blocos de conteúdo de uma página.
 
 * [Repositório Github](https://github.com/williancarminato/jquery-editable);
@@ -113,14 +113,14 @@ Plugin jQuery que possibilita a edição de blocos de conteúdo de uma página.
 
 =
 
-### Twitter API
+### <a name="twitterapi"></a>Twitter API
 Plugin do Twitter para mostrar os últimos tweets de uma conta, utilizando a nova API.
 * [Repositório Github](https://github.com/airton/twitter-api);
 * [Demo](http://lab.a2comunicacao.com.br/twitter-api/).
 
 =
 
-### Vídeo Destacado
+### <a name="videodestacado"></a>Vídeo Destacado
 Plugin para Wordpress onde você pode escolher um vídeo do Youtube para destaque em páginas e posts.
 
 * [Repositório Github](https://github.com/airton/video-destacado);
@@ -128,7 +128,7 @@ Plugin para Wordpress onde você pode escolher um vídeo do Youtube para destaqu
 
 =
 
-### WP Plugins
+### <a name="wpplugins"></a>WP Plugins
 Plugins de Wordpress mais utilizados pela equipe de front-end da A2 Comunicação.
 
 * [Repositório Github](https://github.com/a2comunicacao/wp-plugins);
@@ -136,7 +136,7 @@ Plugins de Wordpress mais utilizados pela equipe de front-end da A2 Comunicaçã
 
 =
 
-### WP Samples
+### <a name="wpsamples"></a>WP Samples
 Coletânea de snippets para utilização em projetos que utilizem Wordpress.
 
 * [Repositório Github](https://github.com/raphaelfabeni/wp-samples);
