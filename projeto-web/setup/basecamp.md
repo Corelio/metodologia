@@ -39,7 +39,7 @@
 
 ### <a name="basecamp4"></a>É possível mover uma tarefa de um projeto para outro?
 Sim. Veja como na [página de ajuda do Basecamp (em inglês)](http://help.37signals.com/basecamp/questions/340-can-i-move-items-from-one-basecamp-project-to-another).
-#### O que fazer quando surgir uma tarefa de manutenção de um projeto que já foi entregue e arquivado?
+### O que fazer quando surgir uma tarefa de manutenção de um projeto que já foi entregue e arquivado?
 Evite reabrir o projeto quando surgir uma tarefa após ele ser arquivado. Caso não existe nenhum contrato/projeto de manutenção relacionado, cadastre a tarefa em uma lista dentro do projeto interno da empresa (A2 Internas).
 
 ### <a name="basecamp5"></a>Quem pode criar um novo projeto e quando ele deve ser criado?
