@@ -26,6 +26,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 * [APIs](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/apis.md#apis)
   * [Google APIs](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/apis.md#google-apis)
   * [Twitter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/apis.md#twitter)
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/apis.md#refer%C3%AAncias)
 * A2siteBox
 * Basecamp
   * Boas práticas
