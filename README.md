@@ -28,9 +28,9 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
   * [Twitter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/apis.md#twitter)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/apis.md#refer%C3%AAncias)
 * [A2siteBox](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/a2sitebox.md#a2sitebox)
-* Basecamp
-  * Boas práticas
-  * Perguntas frequentes (FAQ)
+* [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/basecamp.md#basecamp)
+  * [Boas práticas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/basecamp.md#-boas-pr%C3%A1ticas)
+  * [Perguntas frequentes (FAQ)](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/basecamp.md#perguntas-frequentes-faq)
 * Clonagem de repositórios
   * Softwares recomendados
 * GitHub Pages
