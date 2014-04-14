@@ -7,54 +7,6 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
 * [Digital analytics](#digitalanalytics)
 
 
-## <a name="arquiteturadeinformacao"></a>Arquitetura de Informação
-* [Análise heurística](#analiseheuristica)
-* [Benchmark](#benchmark)
-* [Card sorting](#cardsorting)
-* [Heatmap](#heatmap)
-* [Inventário de conteúdo](#inventariodeconteudo)
-* [Lista de prioridades](#listadeprioridades)
-* [Mood boards](#moodboards)
-* [Personas](#personas)
-* [Pesquisa quantitativa](#pesquisaquantitativa)
-* [Protótipo navegável](#prototiponavegavel)
-* [Sitemap](#sitemap)
-* [Teste A/B](#testeab)
-* [Teste de usabilidade](#testedeusabilidade)
-* [Wireframes](#wireframes)
-
-
-### <a name="analiseheuristica"></a>Análise heurística
-
-Uma análise completa de um produto que destaca boas e más práticas, usando princípios de design de interação conhecidos como diretrizes. Ajuda a observar o estado atual do produto em termos de usabilidade, eficiência e eficácia da experiência.
-
-####Referências:
-* [UXDesign.cc](https://gibbon.co/UXdesign/ux-heuristic-analysis)
-
-### <a name="benchmark"></a>Benchmark
-
-### <a name="cardsorting"></a>Card sorting
-
-=
-
-### <a name="heatmap"></a>Heatmap
-
-Mapa de calor é uma reprodução gráfica de dados individuais, (Ex.: cliques em botões, banners, menus, imagens, textos etc.) em que as intensidades das cores fornecem valores para análises e comparação. Geralmente, as cores mais utilizadas são vermelho para áreas quentes - de mais intensidade - e azul para áreas frias - intensidade mínima.
-
-#### Softwares recomendados
-
-* [CrazzyEgg](http://www.crazyegg.com/) - [Dados de acesso](http://wiki.a2/index.php/A2_Comunica%C3%A7%C3%A3o)
-* [ClickTale](http://www.clicktale.com/)
-* [heatmap.js](http://www.patrick-wied.at/static/heatmapjs/index.html)
-
-=
-
-### <a name="inventariodeconteudo"></a>Inventário de conteúdo
-
-* [Modelo atual](https://docs.google.com/a/a2comunicacao.com.br/spreadsheet/ccc?key=0Aggni3b2jqIVdEp1ZXJCQk44YXNkOVBGMGZoYTFrV0E#gid=0)
-
-=
-
 ### <a name="listadeprioridades"></a>Lista de prioridades
 
 Lista de prioridades é uma técnica simples e rápida que tem como função melhorar o entendimento de um projeto e auxiliar a construção de um website na fase de concepção (_skecth > wireframe > layout > código_). Para cada página do website, é importante criar uma lista de objetivos e outra de elementos.
