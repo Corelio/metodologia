@@ -37,7 +37,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 * [GitHub Pages](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/github-pages.md#github-pages)
   * [Como usar?](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/github-pages.md#como-usar)
   * [Workflow](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/github-pages.md#workflow)
-* Grunt
+* [Grunt](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/grunt.md#grunt)
 * MAC OS X
   * Como configurar máquinas virtuais com Windows
   * Como criar uma pasta compartilhada com a Virtual Box
