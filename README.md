@@ -19,6 +19,30 @@ Tudo o que acontece antes do projeto ser aprovado
  
 =
 
+### Setup
+O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
+
+* A2boilerplate
+* APIs
+  * Google APIs
+  * Twitter
+* A2siteBox
+* Basecamp
+  * Boas práticas
+  * Perguntas frequentes (FAQ)
+* Clonagem de repositórios
+  * Softwares recomendados
+* GitHub Pages
+  * Como usar
+  * Workflow
+* Grunt
+* MAC OS X
+  * Como configurar máquinas virtuais com Windows
+  * Como criar uma pasta compartilhada com a Virtual Box
+* SASS
+* Wordpress
+
+
 
 
 
