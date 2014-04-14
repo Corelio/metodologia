@@ -2,11 +2,11 @@
 
 **Índice**
 * [Sobre o cliente](#briefing1)
-* [Sobre o projeto](#briefing2]
-* [Funcionalidades](#briefing3]
+* [Sobre o projeto](#briefing2)
+* [Funcionalidades](#briefing3)
 * [Conteúdo](#briefing4)
-* [Desenvolvimento](#briefing5]
-* [Design](#briefing6]
+* [Desenvolvimento](#briefing5)
+* [Design](#briefing6)
 
 =
 
