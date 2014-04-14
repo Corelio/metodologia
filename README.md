@@ -34,9 +34,9 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 * [Clonagem de repositórios](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/clonagem-de-repositorios.md#clonagem-de-reposit%C3%B3rios)
   * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/clonagem-de-repositorios.md#softwares-recomendados)
   * [Configurando ambiente local](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/clonagem-de-repositorios.md#configurando-ambiente-local)
-* GitHub Pages
-  * Como usar
-  * Workflow
+* [GitHub Pages](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/github-pages.md#github-pages)
+  * [Como usar?](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/github-pages.md#como-usar)
+  * [Workflow](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/github-pages.md#workflow)
 * Grunt
 * MAC OS X
   * Como configurar máquinas virtuais com Windows
