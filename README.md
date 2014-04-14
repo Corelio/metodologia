@@ -67,26 +67,6 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 ##Índice em atualização
 
 
-### [Setup](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md)
-O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
-
-* A2boilerplate
-* [APIs](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#apis)
-  * [Google APIs](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#google-apis)
-  * [Twitter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#twitter)
-* [A2siteBox](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#a2sitebox)
-* [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#basecamp)
-* [GIT](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#git)
-  * [Clonagem de repositórios](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#clonagem-de-reposit%C3%B3rios)
-  * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#softwares-recomendados)
-* [GitHub Pages](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#github-pages)
-* [Grunt](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#grunt)
-* Mac OS X
-  * [Como configurar máquinas virtuais com Windows](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-configurar-m%C3%A1quinas-virtuais-com-windows)
-  * [Como criar uma pasta compartilhada com a Virtual Box](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box)
-* SASS
-* Wordpress
-
 =
 
 ### [Planejamento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento.md#planejamento)
