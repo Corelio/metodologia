@@ -73,6 +73,28 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * Google Analytics
   * [Análise de keywords](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/digital-analytics/analise-de-keywords.md#an%C3%A1lise-de-keywords)
 
+=
+
+### Desenvolvimento
+
+> Tudo o que acontece durante os sprints
+
+* [Metodologia ágil](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/metodologia-agil.md#metodologia-%C3%A1gil)
+  * Sprint
+  * Hotfix
+  * Backlog
+  * Reuniões
+    * Reunião diária
+    * Reunião de planejamento
+    * Reunião de revisão
+    * Reunião de retrospectiva
+* Deploy
+* [Guias de estilo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/guias-de-estilo.md#guias-de-estilo)
+  * [Artigos](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/guias-de-estilo.md#artigos-em-ordem-cronol%C3%B3gica)
+  * [Ferramentas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/guias-de-estilo.md#ferramentas)
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/guias-de-estilo.md#refer%C3%AAncias)
+
+
 
 
 
