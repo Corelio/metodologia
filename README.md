@@ -64,6 +64,14 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * Teste A/B
   * [Teste de usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/arquitetura-de-informacao/teste-de-usabilidade.md#teste-de-usabilidade)
   * Wireframes
+* [Reunião de kickoff](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/reuniao-de-kickoff.md#reuni%C3%A3o-de-kickoff)
+* [Contas padrão para serviços ligados a um website](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/contas-website.md#contas-padr%C3%A3o-para-servi%C3%A7os-ligados-a-um-website)
+  * [Tipos de serviço que utilizam esse e-mail](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/contas-website.md#tipos-de-servi%C3%A7os-que-utilizam-esse-e-mail)
+  * [Redes sociais](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/contas-website.md#redes-sociais)
+* Digital Analytics
+  * [Plano de métricas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/digital-analytics/plano-de-metricas.md#plano-de-m%C3%A9tricas)
+  * Google Analytics
+  * [Análise de keywords](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/digital-analytics/analise-de-keywords.md#an%C3%A1lise-de-keywords)
 
 
 
