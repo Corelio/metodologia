@@ -19,3 +19,11 @@
 * [Draw.io](http://www.draw.io/)
 * Powerpoint
 * Illustrator (para licitações)
+
+
+## Leitura recomendada
+
+* [Vocabulário visual de Jesse James Garret](http://www.jjg.net/ia/visvocab/)
+* [O uso de sitemaps nas reuniões com clientes](http://arquiteturadeinformacao.com/recursos/metodologia/o-uso-de-sitemaps-nas-reunioes-com-clientes/)
+* [Designing web navigation - Optimizing the user experience por James Kalbach](http://shop.oreilly.com/product/9780596528102.do)
+
