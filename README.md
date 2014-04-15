@@ -55,6 +55,15 @@ Uma boa parte da arquitetura de informação, configurações de servidor, plano
   * Card sorting
   * [Heatmap](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/arquitetura-de-informacao/heatmap.md#heatmap)
   * [Inventário de conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/arquitetura-de-informacao/inventario-de-conteudo.md#invent%C3%A1rio-de-conte%C3%BAdo)
+  * [Lista de prioridades](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/arquitetura-de-informacao/lista-de-prioridades.md#lista-de-prioridades)
+  * Mood boards
+  * Personas
+  * Pesquisa quantitativa
+  * Protótipo navegável
+  * [Sitemap](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/arquitetura-de-informacao/sitemap.md#sitemap)
+  * Teste A/B
+  * [Teste de usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/arquitetura-de-informacao/teste-de-usabilidade.md#teste-de-usabilidade)
+  * Wireframes
 
 
 
