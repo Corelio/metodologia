@@ -93,6 +93,22 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Artigos](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/guias-de-estilo.md#artigos-em-ordem-cronol%C3%B3gica)
   * [Ferramentas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/guias-de-estilo.md#ferramentas)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/guias-de-estilo.md#refer%C3%AAncias)
+* Design Visual
+  * [Photoshop](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/design-visual/photoshop.md#photoshop)
+  * [Peças gráficas para redes sociais](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/design-visual/pecas-graficas.md#pe%C3%A7as-gr%C3%A1ficas-para-redes-sociais)
+* Redes sociais
+  * Facebook
+    * Como usar Open Graph metatags
+    * [Criação de aplicativo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/redes-sociais/facebook.md#cria%C3%A7%C3%A3o-de-aplicativo)
+    * Integração do aplicativo com o Wordpress
+  * Twitter
+  * Youtube
+  * Google +
+  * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/redes-sociais/disqus.md#disqus)
+* SEO
+  * [Metatags](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/seo/metatags.md#metatags)
+  * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/seo/ranking-de-serp.md#ranking-de-serp)
+  * [Wordpress SEO by Yoast](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/seo/wordpress-seo.md#wordpress-seo-by-yoast)
 
 
 
