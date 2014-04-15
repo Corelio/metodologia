@@ -7,7 +7,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 ## Projeto Web
 
 ### Proposta comercial
-Tudo o que acontece antes do projeto ser aprovado
+> Tudo o que acontece antes do projeto ser aprovado
 
 * [Briefing](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#briefing)
   * [Sobre o cliente](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#sobre-o-cliente)
@@ -20,7 +20,7 @@ Tudo o que acontece antes do projeto ser aprovado
 =
 
 ### Setup
-O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
+> O que é preciso para iniciar um projeto? Configurações de máquina, criação do projeto no Basecamp, frameworks etc.
 
 * A2boilerplate
 * [APIs](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/apis.md#apis)
@@ -47,7 +47,7 @@ O que é preciso para iniciar um projeto? Configurações de máquina, criação
 =
 
 ### Planejamento
-Uma boa parte da arquitetura de informação, configurações de servidor, plano de métricas etc.
+> Uma boa parte da arquitetura de informação, configurações de servidor, plano de métricas etc.
 
 * Arquitetura de informação
   * [Análise heurística](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/arquitetura-de-informacao/analise-heuristica.md#an%C3%A1lise-heur%C3%ADstica)
