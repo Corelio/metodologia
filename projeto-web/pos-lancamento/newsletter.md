@@ -16,21 +16,6 @@
 
 =
 
-## Dicas
-
-### Como incluir elementos inline, com background e espaçamento interno
-
-Exemplo: 
-
-![Elementos inline com background](http://lab.a2comunicacao.com.br/metodologia/newsletter_01.png)
-
-* Dentro da tabela principal do conteúdo, insira uma `<tr>` com a quantidade de `<td>` desejadas;
-* Dentro de cada `<td>` inclua uma nova tabela, com uma nova `<tr>` e `<td>` dentro;
-* Insira a cor na tabela com o atributo `brcolor` e o espaçamento interno com o atributo `cellpadding`;
-* Para alinhar o conteúdo, coloque o atributo de alinhamento na `<td>`.
-
-=
-
 ## Estrutura
 
 * Tabela: `<table>`;
@@ -50,11 +35,18 @@ Obs.: Caso esqueça a tag `unsub` ou `rewards`, o Mailchimp automaticamente inse
 
 =
 
-## Referências
-* [<a name="newsletter1"></a>1] - [The ultimate Guide to CSS](http://www.campaignmonitor.com/css/)
-* [Boas práticas para e-mail marketing](http://tableless.com.br/boas-praticas-para-e-mail-marketing/#.UgEIxlOAFFR)
-* [Which doctype should I use in HTML e-mail?](http://www.campaignmonitor.com/blog/post/3317/correct-doctype-to-use-in-html-email/)
-* [What you should know about HTML e-mail](http://hub.tutsplus.com/tutorials/what-you-should-know-about-html-email--webdesign-12908)
+## Dicas
+
+### Como incluir elementos inline, com background e espaçamento interno
+
+Exemplo: 
+
+![Elementos inline com background](http://lab.a2comunicacao.com.br/metodologia/newsletter_01.png)
+
+* Dentro da tabela principal do conteúdo, insira uma `<tr>` com a quantidade de `<td>` desejadas;
+* Dentro de cada `<td>` inclua uma nova tabela, com uma nova `<tr>` e `<td>` dentro;
+* Insira a cor na tabela com o atributo `brcolor` e o espaçamento interno com o atributo `cellpadding`;
+* Para alinhar o conteúdo, coloque o atributo de alinhamento na `<td>`.
 
 =
 
@@ -68,3 +60,14 @@ Os testes são feitos nos principais leitores: Gmail, Hotmail e Outlook. É impo
 * Utilize o atributo `alt` nas imagens;
 * Não esqueça de preencher a tag `<title>`;
 * Insira o atributo `outline:none` em todos os elementos `<a>`, evita que fique com uma borda pontilhada ao clicar.
+
+=
+
+## Referências
+* [<a name="newsletter1"></a>1] - [The ultimate Guide to CSS](http://www.campaignmonitor.com/css/)
+* [Boas práticas para e-mail marketing](http://tableless.com.br/boas-praticas-para-e-mail-marketing/#.UgEIxlOAFFR)
+* [Which doctype should I use in HTML e-mail?](http://www.campaignmonitor.com/blog/post/3317/correct-doctype-to-use-in-html-email/)
+* [What you should know about HTML e-mail](http://hub.tutsplus.com/tutorials/what-you-should-know-about-html-email--webdesign-12908)
+
+
+
