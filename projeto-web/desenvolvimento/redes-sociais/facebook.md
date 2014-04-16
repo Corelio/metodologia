@@ -17,9 +17,7 @@ Para a criação do aplicativo, é necessário uma conta de desenvolvedor (auten
 
 ##Como usar as Open Graph meta tags
 #### 1) Crie um aplicativo no Facebook
-Opcional. Porém altamente recomendado, principalmente se você precisa ter um controle maior das configurações de compartilhamento.
-
-* [Criação de aplicativo](#criacao-de-aplicativo)
+Opcional. Porém altamente recomendado, principalmente se você precisa ter um controle maior das configurações de compartilhamento. Veja [Criação de aplicativo](#criacao-de-aplicativo).
 
 **Dica:** *por padrão, o aplicativo do Facebook é criado em modo sandbox. Ou seja, ele é acessível somente ao desenvolvedor e usuários com permissão. É necessário [desativar o modo sandbox](http://stackoverflow.com/questions/20706322/how-to-disable-sandbox-mode-for-app-in-new-facebook-developer) para que o aplicativo se torne visível e utilizável a todos.*
 
