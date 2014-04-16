@@ -21,13 +21,13 @@ Opcional. Porém altamente recomendado, principalmente se você precisa ter um c
 
 #### 2) Inclua as Open Graph meta tags no ```<head>``` do HTML
 
-	<meta property=“fb:app_id” content=“ID do aplicativo no Facebook”>
-	<meta property="og:site_name” content=“O nome do website”>
-	<meta property="og:type” content=“Tipo do conteúdo”>
-	<meta property="og:title" content=“O título do artigo”>
-	<meta property="og:url” content=“URL do artigo”>
-	<meta property="og:description" content="A descrição do artigo.”>
-	<meta property="og:image" content=“URL da imagem do artigo”>
+	<meta property="fb:app_id" content="ID do aplicativo no Facebook">
+	<meta property="og:site_name" content="O nome do website">
+	<meta property="og:type" content="Tipo do conteúdo">
+	<meta property="og:title" content="O título do artigo">
+	<meta property="og:url" content="URL do artigo">
+	<meta property="og:description" content="A descrição do artigo.">
+	<meta property="og:image" content="URL da imagem do artigo">
 
 #### 3) Declare os namespaces necessários
 Para o Facebook analisar a página HTML corretamente, é preciso adicionar os [namespaces](http://www.w3schools.com/xml/xml_namespaces.asp) do Open Graph:
