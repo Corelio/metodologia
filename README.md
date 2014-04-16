@@ -110,6 +110,16 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Ranking de SERP](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/seo/ranking-de-serp.md#ranking-de-serp)
   * [Wordpress SEO by Yoast](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/seo/wordpress-seo.md#wordpress-seo-by-yoast)
 
+=
+
+### Treinamento
+
+> Tudo o que envolve o processo de treinamento do cliente para uso do seu website
+
+* [Treinamento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/treinamento/treinamento.md#treinamento)
+
+=
+
 
 
 
