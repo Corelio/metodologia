@@ -17,7 +17,7 @@ Para a criação do aplicativo, é necessário uma conta de desenvolvedor (auten
 
 ## Como usar as Open Graph meta tags
 #### 1) Crie um aplicativo no Facebook
-Opcional. Porém altamente recomendado, principalmente se você precisa ter um controle maior das configurações de compartilhamento. Veja [Criação de aplicativo](#criacao-de-aplicativo).
+Opcional. Porém altamente recomendado, principalmente se você precisa ter um controle maior das configurações de compartilhamento. Veja [Criação de aplicativo](#cria%C3%A7%C3%A3o-de-aplicativo).
 
 #### 2) Inclua as Open Graph meta tags no ```<head>``` do HTML
 
