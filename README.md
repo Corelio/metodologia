@@ -120,6 +120,56 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 
 =
 
+### Testes
+
+> Todos os testes feitos em um website
+
+* Device Lab
+  * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/device-lab.md#adobe-edge-inspect)
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/device-lab.md#refer%C3%AAncias)
+* Testes
+  * [Como realizar um teste?](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/testes.md#como-realizar-um-teste)
+  * Por que realizar um teste?
+  * Tipos de testes
+    * [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/acessibilidade.md#acessibilidade)
+    * CMS
+    * [Compatibilidade - Cross-browser](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/compatibilidade.md#compatibilidade-cross-browser)
+    * [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/conteudo.md#conte%C3%BAdo)
+    * [Funcional](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/funcional.md#funcional)
+    * [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/newsletter.md#newsletter)
+    * [Performance](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/performance.md#performance)
+    * [Segurança](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/seguranca.md#seguran%C3%A7a)
+    * [SEO e Marketing](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/seo.md#seo-e-marketing)
+    * [Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/usabilidade.md#usabilidade)
+
+=
+
+### Lançamento
+
+> Todo o processo que ocorre no lançamento de um website
+
+=
+
+### Pós-lançamento
+
+> O que fazemos após o website ser lançado?
+
+* Google Webmaster Tools
+* Newsletter
+  * [Boas práticas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento/newsletter.md#boas-pr%C3%A1ticas)
+  * [Dicas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento/newsletter.md#dicas)
+  * [Estrutura](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento/newsletter.md#estrutura)
+  * [Testes](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento/newsletter.md#testes)
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/pos-lancamento/newsletter.md#refer%C3%AAncias)
+  
+=
+
+
+
+
+
+
+
 
 
 
