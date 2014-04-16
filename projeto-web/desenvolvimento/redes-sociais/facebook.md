@@ -50,7 +50,7 @@ Para o Facebook analisar a página HTML corretamente, é preciso adicionar os [n
 * Use as [OG meta tags apropriadas](https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content#tags)
 * Declare o [ID do aplicativo do Facebook](https://help.yahoo.com/kb/yahoo-merchant-solutions/facebook-application-sln18861.html) 
 * Inclua os [namespaces necessários](http://www.geoffhayward.eu/blog/you-can-validate-open-graph-metadata)
-* Defina [imagens nos tamanhos certos](https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content#images)
+* Defina [imagens nos tamanhos recomendados](https://developers.facebook.com/docs/plugins/checklist/#images)
 * Use o [Debug Tool](https://developers.facebook.com/tools/debug/)
 
 ###Truques e Dicas
