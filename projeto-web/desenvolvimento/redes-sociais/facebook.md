@@ -32,7 +32,7 @@ Opcional. Porém altamente recomendado, principalmente se você precisa ter um c
 #### 3) Declare os namespaces necessários
 Para o Facebook analisar a página HTML corretamente, é preciso adicionar os [namespaces](http://www.w3schools.com/xml/xml_namespaces.asp) do Open Graph:
 
-	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#>
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 
 #### 4) Teste
 
