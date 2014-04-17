@@ -9,13 +9,13 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 ### Proposta comercial
 > Tudo o que acontece antes do projeto ser aprovado
 
-* [Briefing](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#briefing)
-  * [Sobre o cliente](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#sobre-o-cliente)
-  * [Sobre o projeto](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#sobre-o-projeto)
-  * [Funcionalidades](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#funcionalidades)
-  * [Conteúdo](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#conte%C3%BAdo)
-  * [Desenvolvimento](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#desenvolvimento)
-  * [Design](https://github.com/a2comunicacao/metodologia/edit/master/projeto-web/proposta-comercial/briefing.md#design)
+* Briefing
+  * [Sobre o cliente](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/briefing.md#sobre-o-cliente)
+  * [Sobre o projeto](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/briefing.md#sobre-o-projeto)
+  * [Funcionalidades](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/briefing.md#funcionalidades)
+  * [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/briefing.md#conte%C3%BAdo)
+  * [Desenvolvimento](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/briefing.md#desenvolvimento)
+  * [Design](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/briefing.md#design)
  
 =
 
