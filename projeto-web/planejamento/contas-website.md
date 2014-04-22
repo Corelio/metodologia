@@ -1,7 +1,8 @@
 # Contas padrão para serviços ligados a um website
 
-Quando criamos um website, é necessário pelo menos uma conta de e-mail para cadastrar diversos serviços e ferramentas de terceiros. Para isso, o e-mail abaixo deve ser criado no domínio do website que está sendo desenvolvido:
-`config@nomedocliente.com.br`
+Quando criamos um website, é necessário pelo menos uma conta de e-mail para cadastrar diversos serviços e ferramentas de terceiros. Para isso, deve ser criado o email padrão `config@nomedocliente.com.br` no domínio do website que está sendo desenvolvido.
+
+PS: Quando não for possível criar um email no domínio do cliente usar o email `config@a2comunicacao.com.br`
 
 ## Tipos de serviços que utilizam esse e-mail
 * E-mail que recebe o formulário de contato, caso nenhum outro seja especificado
