@@ -81,6 +81,12 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 
 > Tudo o que acontece durante os sprints
 
+* [A2idiomatic](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/a2idiomatic.md#a2idiomatic)
+  * [Arquivos](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/a2idiomatic.md#arquivos)
+  * [Comentários](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/a2idiomatic.md#coment%C3%A1rios)
+  * [HTML](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/a2idiomatic.md#html)
+  * [CSS](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/a2idiomatic.md#html)
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/a2idiomatic.md#html)
 * [Metodologia ágil](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/metodologia-agil.md#metodologia-%C3%A1gil)
   * Sprint
   * Hotfix
