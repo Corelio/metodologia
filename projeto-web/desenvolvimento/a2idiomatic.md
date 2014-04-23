@@ -1,6 +1,6 @@
 # A2idiomatic
 
-** Índice **
+**Índice**
 * [Arquivos](#idiomatic1)
 * [Comentários](#idiomatic2)
 * [HTML](#idiomatic3)
