@@ -42,6 +42,8 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Como configurar máquinas virtuais com Windows](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/mac-os-x.md#como-configurar-m%C3%A1quinas-virtuais-com-windows)
   * [Como criar uma pasta compartilhada com a Virtual Box](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/mac-os-x.md#como-criar-uma-pasta-compartilhada-com-a-virtual-box)
 * SASS
+  * [Instalação](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/sass.md#instala%C3%A7%C3%A3o)
+  * [Utilização](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/sass.md#utiliza%C3%A7%C3%A3o)
 * Wordpress
 
 =
