@@ -179,6 +179,8 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * [Verificação de links](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/verificacao-de-links.md#verifica%C3%A7%C3%A3o-de-links)
 * A2Projetos
   * [2013.04.a2comunicacao](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/a2projetos.md#201304a2comunicacao)
+* GIT
+  * [Padronização de commits](https://github.com/a2comunicacao/metodologia/blob/master/manutencao-evolutiva/git.md#padroniza%C3%A7%C3%A3o-de-commits)
 
 =
 
