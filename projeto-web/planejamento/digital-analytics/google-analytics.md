@@ -39,13 +39,13 @@ $('#elemento').click(function(){
 * [Event Tracking  (Classic Analytics)](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide?hl=pt-BR)
 
 #### Onde encontrar os dados no Google Analytics?
-O relatório que exibi as informações coletadas pelos _Event Tracks_ fica em **Comportamento > Eventos > Visão geral** (por exemplo, veja o [relatório para o site da A2 Comunicação](https://www.google.com/analytics/web/?hl=pt-BR&pli=1#report/content-event-overview/a9911169w21785238p83581831/))
+O relatório que exibi as informações coletadas pelos _Event Tracks_ fica em **Comportamento > Eventos > Visão geral** (exemplo: veja o [relatório para o site da A2 Comunicação](https://www.google.com/analytics/web/?hl=pt-BR&pli=1#report/content-event-overview/a9911169w21785238p83581831/)).
 
 ## Monitoramento de envio de formulários
 
 O monitoramente do _click_ no botão de envio do fomulário não é a forma mais eficaz para esse tipo de interação. Pois o usuário pode clicar no botão, sem ter preenchido os campos; o formulário não será enviado, mas o click será contabilizado no formulário do Google Analytics. 
 
-Uma melhor solução é o monitoramento da resposta de sucesso que o servidor retorna quando formulário é efetivamente enviado. Para isso é necessário uma configuração especial dessas respostas (como foi feito no site da A2 pelo [@williancarminato](https://github.com/williancarminato). 
+Uma melhor solução é o monitoramento da resposta de sucesso que o servidor retorna quando formulário é efetivamente enviado. Para isso é necessário uma configuração especial dessas respostas (como foi feito no site da A2 pelo [@williancarminato](https://github.com/williancarminato)). 
 
 ```php
 // Exemplo: como foi implementado o Event Track no site da A2 Comunicação (com Twig)
