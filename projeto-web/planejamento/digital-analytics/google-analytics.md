@@ -73,3 +73,25 @@ $('.facebook').click(function(){
 ```
 
 ## <a name="social-plugins"></a>Social Plug-ins 
+
+* [Sobre as Métricas do plug-in de redes sociais](https://support.google.com/analytics/answer/1316556?hl=pt-BR)
+* [Configurando Social Analytics - Universal](https://developers.google.com/analytics/devguides/collection/analyticsjs/social-interactions?hl=pt-BR)
+* [Configurando Social Analytics - Classic](https://developers.google.com/analytics/devguides/collection/gajs/gaTrackingSocial?hl=pt-BR)
+
+**Importante**
+
+* O script dos social plug-ins devem estar no mesmo arquivo onde é declarado o código de rastreamento do Analytics;
+* Para configurar o rastreamento de âncoras (links na mesma página), troque o trecho padrão 
+
+```javascript
+ ga('create', 'UA-0000000-0', 'dominio.com.br');
+ ga('send', 'pageview'); 
+```
+
+por:
+
+```javascript
+ga('create', 'UA-0000000-0', 'dominio.com.br', {'name': 'newTracker'});
+ga('send', 'pageview' , { 'page': location.pathname + location.search  + location.hash});
+ga('newTracker.send', 'pageview');
+```
