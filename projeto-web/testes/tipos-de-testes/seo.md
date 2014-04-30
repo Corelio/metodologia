@@ -1,4 +1,3 @@
-
 # SEO e Marketing
 É importante avaliar se boas práticas de código e conteúdo estão sendo seguidas para garantir uma boa visibilidade do website ou software nos mecanismos de busca.
 
@@ -14,3 +13,15 @@
 * Verificar funcionamento da ferramenta de monitoramento de acessos (Ex.: [Configuração de metas no Google Analytics](http://www.google.com/analytics/)) [[5]](#seo5);
 * Em caso de migração ou redesign, verificar se as URLs alteradas estão sendo redirecionadas através do código de status HTTP 301;
 * Verificar aparência do website nas páginas de resultado de busca (SERPs) [[6]](#seo6).
+
+## Referências
+
+* <a name="seo1"></a>[1] - [Moz - Meta Description](http://moz.com/learn/seo/meta-description);
+* <a name="seo2"></a>[2] - [Matt Cutts - SEO advice: url canonicalization](http://www.mattcutts.com/blog/seo-advice-url-canonicalization/);
+* <a name="seo3"></a>[3] - [Webdesigntuts+ - How to create an SEO-friendly URL structure](http://webdesign.tutsplus.com/articles/seo-articles/seo-friendly-url-structure/);
+* <a name="seo4"></a>[4] - [Issue #10 - SEO e Marketing - Verificar marcação e semântica do código HTML](https://github.com/a2comunicacao/metodologia/issues/10);
+* <a name="seo5"></a>[5] - [Google Analytics - Aproveite ao máximo seus relatórios](http://www.google.com/analytics/learn/setupchecklist.html);
+* <a name="seo6"></a>[6] - [Google Webmasters - Buscar como Google](https://support.google.com/webmasters/answer/158587?hl=pt-BR);
+* [Issue #7 - SEO - Uso do arquivo human.txt?](https://github.com/a2comunicacao/metodologia/issues/7);
+* [Define an Open Graph object](https://github.com/a2comunicacao/metodologia/issues/7).
+
