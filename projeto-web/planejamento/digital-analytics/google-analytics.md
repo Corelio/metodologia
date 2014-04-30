@@ -43,7 +43,7 @@ O relatório que exibi as informações coletadas pelos _Event Tracks_ fica em *
 
 ## Monitoramento de envio de formulários
 
-O monitoramente do _click_ no botão de envio do fomulário não é a forma mais eficaz para esse tipo de interação. Pois o usuário pode clicar no botão, sem ter preenchido os campos; o formulário não será enviado, mas o click será contabilizado no formulário do Google Analytics. 
+O monitoramento do _click_ no botão de envio do fomulário não é a forma mais eficaz para esse tipo de interação. Pois o usuário pode clicar no botão, sem ter preenchido os campos; o formulário não será enviado, mas o click será contabilizado no formulário do Google Analytics. 
 
 Uma melhor solução é o monitoramento da resposta de sucesso que o servidor retorna quando formulário é efetivamente enviado. Para isso é necessário uma configuração especial dessas respostas (como foi feito no site da A2 pelo [@williancarminato](https://github.com/williancarminato)). 
 
@@ -59,9 +59,9 @@ Uma melhor solução é o monitoramento da resposta de sucesso que o servidor re
 ```
 
 
-## Monitoramento de eventos de botões nas redes socias
+## Monitoramento de eventos de botões nas redes sociais
 
-O ideal para esse tipo de monitoramento é o uso dos [Social Plug-ins](#social-plugins). Se por alguma razão eles não se aplicarem, é possível configurar o monitoramento do _click_ no botão social.
+O ideal para esse tipo de monitoramento é o uso dos [Social Plug-ins](#social-plugins). Se por alguma razão eles não se aplicarem, é possível configurar o monitoramento do _click_ no botão de compartilhamento.
 
 Nesse caso, é interessante definir o _label_ dinamicamente com a URL do conteúdo. Pois assim, no relatório do Analytics vai ser possível saber quais os conteúdos mais clicados por rede social. 
 ```javascript
