@@ -20,7 +20,7 @@
 Permite medir interações dos usuários com o conteúdo do website.  <br/>
 Funciona em conjunto com os [HTML Events](http://www.w3schools.com/tags/ref_eventattributes.asp).
 
-Código base para monitormaneto de eventos (no exemplo, com o evento 'click' e usando jquery):
+Código base para monitormaneto de eventos (no exemplo, com o evento _click_ e usando jquery):
 
 ```javascript
 //Universal Analytics
@@ -40,6 +40,21 @@ $('#elemento').click(function(){
 
 
 ## Monitoramento de envio de formulários
+
+O monitoramente do _click_ no botão de envio do fomulário não é a forma mais eficaz para esse tipo de interação. Pois o usuário pode clicar no botão, sem ter preenchido os campos, o formulário não será enviado, mas o click será contabilizado no formulário do Google Analytics. 
+
+Uma melhor solução é o monitoramento da resposta de sucesso que o servidor retorna quando formulário é efetivamente enviado. Para isso é necessário uma configuração especial dessas respostas (como foi feito no site da A2 pelo @williancarminato). 
+
+```javascript
+// Exemplo de como foi implementado no site da A2 Comunicação
+{% if enviou == true %}
+  <script>
+    $(window).load(function(){
+      ga('send', 'event', 'Contato', 'Enviou', 'Enviar uma mensagem', {'nonInteraction': 1});
+    });
+</script>
+{% endif %}
+```
 
 ## Monitoramento de eventos de botões nas redes socias
 
