@@ -72,7 +72,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Redes sociais](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/contas-website.md#redes-sociais)
 * Digital Analytics
   * [Plano de métricas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/digital-analytics/plano-de-metricas.md#plano-de-m%C3%A9tricas)
-  * Google Analytics
+  * [Google Analytics](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/digital-analytics/google-analytics.md)
   * [Análise de keywords](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/planejamento/digital-analytics/analise-de-keywords.md#an%C3%A1lise-de-keywords)
 
 =
