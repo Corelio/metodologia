@@ -2,28 +2,28 @@
 
 ## 2013.04.a2comunicacao
 
-* URL: http://a2comunicacao.com.br/;
-* CMS: A2siteBox - http://a2comunicacao.com.br/a2sitebox/login/;
-* Hospedagem: Hostgator - https://financeiro.hostgator.com.br/;
-* <a name="projetos1"></a>Repositório GIT: `192.168.0.241:/Dados/A2Projetos/2013.04.a2comunicacao/www`;
+* URL: http://a2comunicacao.com.br/
+* CMS: A2siteBox - http://a2comunicacao.com.br/a2sitebox/login/
+* Hospedagem: Hostgator - https://financeiro.hostgator.com.br/
+* <a name="projetos1"></a>Repositório GIT: `www-data@192.168.0.241:/Dados/A2Projetos/2013.04.a2comunicacao/www`
 * FTP:
 	* a2comunicacao.com.br;
 	* Login: `a2com691`;
 	* Senha: `p60vbK62gV`.
 * Dependências:
 	* Composer (deve ser instalado na pasta do projeto);
-	* Grunt (deve ser instalado na pasta do tema).
+	* [Grunt](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/grunt.md#grunt) (deve ser instalado na pasta do tema).
 
 ### Configurando o projeto
 
-1. Atualize/baixe o projeto para sua máquina usando o [GIT](#projetos1);
-2. Baixe a pasta _/web/uploads_ do servidor, via FTP (ela não vem com o projeto);
-3. Instale o Composer na pasta raiz do projeto via terminal: `php composer.phar install`;
-4. Instale o Grunt na pasta do tema _/web/themes/site_ via terminal: `npm install`.
+1. Atualize/baixe o projeto para sua máquina usando o [GIT](#projetos1)
+2. Baixe a pasta _/web/uploads_ do servidor, via FTP (ela não vem com o projeto)
+3. Instale o Composer na pasta raiz do projeto via terminal: `php composer.phar install`
+4. Instale o Grunt na pasta do tema _/web/themes/site_ via terminal: `npm install`
 
-### Atualizações no código CSS/JS
+### Atualizações no código CSS/JS <a name="atualiza-css"></a>
 
-1. Rode o Grunt na pasta do tema e execute o comando via terminal: `grunt w`;
+1. Rode o Grunt na pasta do tema e execute o comando via terminal: `cd caminho-ate-a-pasta`; tecle _Enter_ e `grunt w`
 2. Faça as modificações necessárias (o arquivo minificado deve ser gerado automaticamente via Grunt);
 3. Suba os arquivos via FTP:
 	* **Se forem alterações de CSS**: Além dos arquivos modificados, suba o _style.css_ (em _/web/themes/site/css_);
@@ -55,3 +55,31 @@ Obs.: O site da A2 Comunicação tem cache ativado, após subir é preciso limp�
 	* Altere o nome, texto do curriculum, o caminho da imagem e salve o arquivo.
 5. Suba a imagem e o template para o servidor, via FTP;
 6. Execute a limpeza do cache e verifique a atualização no browser.
+
+## 2013.07.intranetemtu
+
+* URL: http://200.144.29.93:8080 (user: willianc; pass: a2comunica)
+* CMS: A2siteBox - http://200.144.29.93:8080/a2sitebox/login (user: admin; senha: a2@345box)
+* Hospedagem: Servidor interno da EMTU
+* <a name="projetos1"></a>Repositório GIT: `www-data@192.168.0.241:/Dados/A2Projetos/2013.07.intranetemtu/www`
+* FTP: não temos acesso; são gerados pacotes de atualização e enviados à equipe de TI da EMTU
+* Dependências:
+	* Composer (deve ser instalado na pasta do projeto);
+	* [Grunt](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/grunt.md#grunt) (deve ser instalado na pasta do tema).
+
+### Configurando o projeto
+
+1. Atualize/baixe o projeto para sua máquina usando o [GIT](#projetos1)
+2. Instale o Composer na pasta raiz do projeto via terminal: `php composer.phar install`
+3. Instale o Grunt na pasta do tema _/web/themes/intranet_ via terminal: `npm install`
+
+### Atualizações no código CSS/JS
+Veja os passos para [atualização](#atualiza-css).
+
+OBS.: O controle de _cache_ é feito pelos responsáveis pelo servidor (EMTU)
+
+### Gerando pacote de atualização
+
+1. Envie as alterações para o GIT
+2. No terminal, digite `git diff HEAD 'HEAD~1' --name-only`  para listar os arquivos que serão incluídos no pacote
+3. Digite ``tar czfv nome-do-arquivo.tar.gz 'git diff HEAD 'HEAD~1' --name-only'``  para gerar o arquivo .tar.gz
