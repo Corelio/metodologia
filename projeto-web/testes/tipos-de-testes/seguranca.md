@@ -14,3 +14,16 @@ Testes de segurança são essenciais para verificar se dados confidenciais estã
 
 ## Referências
 * [<a name="seguranca1"></a>1] - [Google Webmasters - Bloquear ou remover páginas usando um arquivo robots.txt](https://support.google.com/webmasters/answer/156449?hl=pt-BR)
+
+
+##Tipos de testes
+* [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/acessibilidade.md#acessibilidade)
+* CMS
+* [Compatibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/compatibilidade.md#compatibilidade-cross-browser)
+* [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/conteudo.md#conte%C3%BAdo)
+* [Funcional](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/funcional.md#funcional)
+* [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/newsletter.md#newsletter)
+* [Performance](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/performance.md#performance)
+* [Segurança](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/seguranca.md#seguran%C3%A7a)
+* [SEO e Marketing](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/seo.md#seo-e-marketing)
+* [Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/usabilidade.md#usabilidade)
