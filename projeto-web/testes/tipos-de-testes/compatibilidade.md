@@ -34,3 +34,15 @@ Funcionamento em diferentes browsers, sistemas operacionais e servidores. Atualm
 * [Codrops - UI Design guidelines for Responsive Design](http://tympanus.net/codrops/2013/01/21/ui-design-guidelines-for-responsive-design/)
 * [Smashing Magazine - Review of cross-browser testing tools](http://www.smashingmagazine.com/2011/08/07/a-dozen-cross-browser-testing-tools/)
 * [Techniques for mobile and responsive cross-browser testing: An Envato case study](http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/)
+
+##Tipos de testes
+* [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/acessibilidade.md#acessibilidade)
+* CMS
+* [Compatibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/compatibilidade.md#compatibilidade-cross-browser)
+* [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/conteudo.md#conte%C3%BAdo)
+* [Funcional](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/funcional.md#funcional)
+* [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/newsletter.md#newsletter)
+* [Performance](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/performance.md#performance)
+* [Segurança](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/seguranca.md#seguran%C3%A7a)
+* [SEO e Marketing](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/seo.md#seo-e-marketing)
+* [Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/usabilidade.md#usabilidade)
