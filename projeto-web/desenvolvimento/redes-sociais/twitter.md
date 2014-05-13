@@ -38,3 +38,4 @@ Para validar:
 * [About Twitter Cards](https://dev.twitter.com/docs/cards)
 * [Cards Markup Tag Reference](https://dev.twitter.com/docs/cards/markup-reference)
 * [Cards Validator Tool](https://dev.twitter.com/docs/cards/validation/validator)
+* [Configurando Twitter Cards para o seu site](http://leobetosouza.com.br/blog/2014/03/04/configurando-twitter-cards-para-o-seu-site/)
