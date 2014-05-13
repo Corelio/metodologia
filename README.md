@@ -110,6 +110,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
     * [Criação de aplicativo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/redes-sociais/facebook.md#cria%C3%A7%C3%A3o-de-aplicativo)
     * Integração do aplicativo com o Wordpress
   * Twitter
+    * [Como configurar os Twitter Cards](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/redes-sociais/twitter.md#como-configurar-os-twitter-cards)
   * Youtube
   * Google +
   * [Disqus](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/redes-sociais/disqus.md#disqus)
