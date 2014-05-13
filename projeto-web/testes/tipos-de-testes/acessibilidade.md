@@ -23,7 +23,7 @@ Estima-se que 20% da população mundial possue algum tipo de deficiência [[1]]
 * [<a name="acessibilidade2"></a>2] - [WebAIM - “Skip navigation links](http://webaim.org/techniques/skipnav/)
 * [<a name="acessibilidade3"></a>3] - [WebAIM - Presenting document structure](http://webaim.org/techniques/aria/#structure)
 * [<a name="acessibilidade4"></a>4] - [WebAIM - Screen reader users often navigate from link to link, skipping the text in between](http://webaim.org/techniques/hypertext/#link_to_link)
-* [<a name="acessibilidade5"></a>5] - [Why your links should never say “Click here”](uxdesign.smashingmagazine.com/2012/06/20/links-should-never-say-click-here/)
+* [<a name="acessibilidade5"></a>5] - [Why your links should never say “Click here”](http://www.uxdesign.smashingmagazine.com/2012/06/20/links-should-never-say-click-here/)
 * [<a name="acessibilidade6"></a>6] - [WebAIM - Creating accessible forms](http://webaim.org/techniques/forms/controls)
 * [<a name="acessibilidade7"></a>7] - [W3C - ARIA2: Identifying required fields with the aria-required property](http://www.w3.org/TR/WCAG20-TECHS/ARIA2.html)
 * [<a name="acessibilidade8"></a>8] - [WebAIM - Usable and accesible form validation and error recovery](http://webaim.org/techniques/formvalidation/#error)
