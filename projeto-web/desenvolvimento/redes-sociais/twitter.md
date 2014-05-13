@@ -12,7 +12,7 @@
     <meta name="twitter:image:src" content=content=“URL da imagem do artigo”>
 
 * Há diferentes [tipos](https://dev.twitter.com/docs/cards#cards) de Twitter Cards; o mais usado é o _summary_
-* O tamanho mínimo para a imagem do [_Summary Card_](https://dev.twitter.com/docs/cards/types/summary-card) é 120x120px (imagens maiores serão recortadas e/ou redimensionadas em formato quadrado); a imagem não deve ter mais de 1MB 
+* O tamanho mínimo para a imagem do [_Summary Card_](https://dev.twitter.com/docs/cards/types/summary-card) é 120x120px (imagens maiores serão recortadas e/ou redimensionadas em formato quadrado); a imagem não deve ter mais de 1MB; use caminho absoluto 
 
 #### 2) Teste e solicite a validação do _Card_
 
