@@ -23,8 +23,8 @@ Para validar:
 **a)** Selecione o tipo de _card_ <br>
 **b)** Clique em _Validate and Apply_ <br>
 **c)** Entre com a URL e clique em GO <br>
-**d)** Se estiver tudo ok com as declarações das meta tags, aparecerá _Request approval_; basta clicar<br>
-**e)** Entre com os dados do Administrador (@a2lab) e os dados sobre o site; envie e é só aguardar a aprovação (que acontece em alguns minutos)
+**d)** Se estiver tudo ok com as declarações das meta tags, aparecerá o botão _Request Approval_; basta clicar<br>
+**e)** Entre com os dados do Administrador (@a2lab) e os dados sobre o site e envie; agora é só aguardar a aprovação (que deve acontecer em alguns minutos)
 
 ###Dicas
 * O tamanho recomendado da imagem/thumbnail varia de acordo com o tipo de _card_
