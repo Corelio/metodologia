@@ -14,15 +14,15 @@
 
 ## <a name="basecamp1"></a> Boas práticas
 1. Sempre comece o título de uma tarefa com um verbo no infinitivo: Fazer, Organizar, Analisar, Criar etc.:
-![Sempre comece o título de uma tarefa com um verbo no infinitivo](http://lab.a2comunicacao.com.br/metodologia/basecamp_01.png)
+![Sempre comece o título de uma tarefa com um verbo no infinitivo](/assets/basecamp_01.png)
 2. Sempre que possível, associe uma lista de tarefas à uma meta:
-![Sempre que possível, associe uma lista de tarefas a uma meta](http://lab.a2comunicacao.com.br/metodologia/basecamp_02.png)
+![Sempre que possível, associe uma lista de tarefas a uma meta](/assets/basecamp_02.png)
 3. Coloque o link da página que você estiver comentando, mesmo que seja um endereço bem conhecido. Para URLs com acesso restrito, sempre coloque usuário e senha para facilitar;
 4. Evite duplicar o conteúdo de uma mensagem em mais de uma tarefa. Coloque o link de uma tarefa na outra. ([Veja um exemplo correto](https://a2comunicacao.basecamphq.com/projects/8083835-2011-09-educacao2/todo_items/165610841/comments#comment_241229133));
 5. Para tarefas longas, é recomendado fazer um breve resumo diário do andamento nos comentários;
 6. Não deixe de cadastrar as horas trabalhadas no dia seguinte, crie o hábito de fazer isso no final do dia;
 7. Se duas ou mais pessoas são responsáveis pela mesma tarefa, é preciso dividí-la:
-![Se duas ou mais pessoas são responsáveis pela mesma tarefa é preciso dividí-la](http://lab.a2comunicacao.com.br/metodologia/basecamp_03.png);
+![Se duas ou mais pessoas são responsáveis pela mesma tarefa é preciso dividí-la](/assets/basecamp_03.png);
 8. Não tenha receio de copiar muitas pessoas em um comentário. Além de copiar os envolvidos diretamente na tarefa, inclua a equipe de atendimento, os gerentes das áreas e outras pessoas que possam se beneficiar com a informação. Na dúvida, copie todos! Se a pessoa não deseja receber comentários, ela pode desativar essa opção ou mesmo se desligar daquele projeto;
 9. Ao criar um novo projeto, de preferência por utilizar um modelo já existente ou crie um novo modelo caso seja necessário. ([Veja um exemplo](https://a2comunicacao.basecamphq.com/project_templates)).
 10. Primeiro cadastre no Basecamp e depois execute a tarefa, não o contrário.
