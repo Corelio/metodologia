@@ -143,7 +143,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
   * [Tipos de testes](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/testes.md#tipos-de-testes)
     * [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/acessibilidade.md#acessibilidade)
     * CMS
-    * [Compatibilidade - Cross-browser](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/compatibilidade.md#compatibilidade-cross-browser)
+    * [Compatibilidade (Cross-browser)](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/compatibilidade.md#compatibilidade-cross-browser)
     * [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/conteudo.md#conte%C3%BAdo)
     * [Funcional](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/funcional.md#funcional)
     * [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/newsletter.md#newsletter)
