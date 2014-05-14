@@ -19,7 +19,7 @@
 
 ## <a name="mac1"></a>Como criar uma pasta compartilhada com a Virtual Box
 
-1. Inicie a máquina virtual, abra o painel de controle do Windows e selecione _unidade de CD (D:) VirtualBox Guest Additions_,instale com as configurações padrão e reinicie a måquina virtual;
+1. Inicie a máquina virtual, abra o painel de controle do Windows e selecione _unidade de CD (D:) VirtualBox Guest Additions_, instale com as configurações padrão e reinicie a måquina virtual;
 2. No menu superior da VirtualBox, selecione _devices > shared folder settings_. Clique no "+" e, em _folder path_ selecione "Other";
 3. Selecione no MAC qual pasta/arquivo você quer que apareça também na máquina virtual;
 4. A pasta ficará disponível em _painel de controle > rede > VBOXSVR_.
