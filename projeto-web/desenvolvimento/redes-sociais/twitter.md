@@ -31,7 +31,7 @@ Para validar:
 * Após a aprovação, pode levar alguns minutos até que a visualização do _card_ esteja disponível nos compartilhamentos
 * Um e-mail é enviado ao Administrador (@a2lab) avisando sobre a aprovação do _card_; 
 * Caso queira testar a aprovação, repita os procedimentos do Passo 2; ao invés do link de solicitação de validação, deve aparecer _approved_
-* É necessário fazer a validação para cada tipo de _card_ que será utilizado
+* É necessário fazer uma validação para cada tipo de _card_ que será utilizado
 
 ###Referências
 
