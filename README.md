@@ -9,6 +9,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 ### Proposta comercial
 > Tudo o que acontece antes do projeto ser aprovado
 
+* [Análise heurística e avaliação de SEO](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/analise-heuristica-e-avaliacao-seo.md)
 * Briefing
   * [Sobre o cliente](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/briefing.md#sobre-o-cliente)
   * [Sobre o projeto](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/proposta-comercial/briefing.md#sobre-o-projeto)
