@@ -140,7 +140,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * Testes
   * [Como realizar um teste?](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/testes.md#como-realizar-um-teste)
   * Por que realizar um teste?
-  * Tipos de testes
+  * [Tipos de testes](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/testes.md#tipos-de-testes)
     * [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/acessibilidade.md#acessibilidade)
     * CMS
     * [Compatibilidade - Cross-browser](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/compatibilidade.md#compatibilidade-cross-browser)
