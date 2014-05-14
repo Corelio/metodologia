@@ -41,7 +41,7 @@ Obs.: Caso esqueça a tag `unsub` ou `rewards`, o Mailchimp automaticamente inse
 
 Exemplo: 
 
-![Elementos inline com background](http://lab.a2comunicacao.com.br/metodologia/newsletter_01.png)
+![Elementos inline com background](/assets/newsletter_01.png)
 
 * Dentro da tabela principal do conteúdo, insira uma `<tr>` com a quantidade de `<td>` desejadas;
 * Dentro de cada `<td>` inclua uma nova tabela, com uma nova `<tr>` e `<td>` dentro;
