@@ -16,16 +16,16 @@
 
 Os tipos de testes manuais (não automatizados) realizados em um website ou aplicativo web são:
 
-1. [Acessibilidade]()
-2. [CMS]()
-3. [Compatibilidade]()
-4. [Conteúdo]()
-5. [Funcional]()
-6. [Newsletter]()
-7. [Performance]()
-8. [Segurança]()
-9. [SEO e Marketing]()
-10. [Usabilidade]()
+1. [Acessibilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/acessibilidade.md#acessibilidade)
+2. CMS
+3. [Compatibilidade (Cross-browser)](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/compatibilidade.md#compatibilidade-cross-browser)
+4. [Conteúdo](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/conteudo.md#conte%C3%BAdo)
+5. [Funcional](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/funcional.md#funcional)
+6. [Newsletter](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/newsletter.md#newsletter)
+7. [Performance](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/performance.md#performance)
+8. [Segurança](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/seguranca.md#seguran%C3%A7a)
+9. [SEO e Marketing](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/seo.md#seo-e-marketing)
+10. [Usabilidade](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/tipos-de-testes/usabilidade.md#usabilidade)
 
 
 ## Referências
