@@ -11,7 +11,7 @@ Estima-se que 20% da população mundial possue algum tipo de deficiência [[1]]
 * Verificar se todos os elementos do formulário possuem etiqueta `<label>` e se essa etiqueta está associada ao elemento correto do formulário (`<id>`) [[6]](#acessibilidade6);
 * Verificar se elementos obrigatórios do formulário estão devidamente identificados (`aria-required=true`) [[7]](#acessibilidade7);
 * Verificar se o feedback do formulário direciona o usuário para o campo a ser corrigido, através de link [[8]](#acessibilidade8);
-![Verificar se feedback do formulário direciona o usuário para o campo a ser corrigido, através de link](http://lab.a2comunicacao.com.br/metodologia/testes_form-validation.gif)
+![Verificar se feedback do formulário direciona o usuário para o campo a ser corrigido, através de link](/assets/acessibilidade_01.gif)
 * Verificar se vídeos possuem legendas e se áudios possuem transcrição;
 * Validar (de forma automática) acessibilidade das páginas usando o [Wave](http://wave.webaim.org/) [[9]](#acessibilidade9);
 * Validar (de forma automática) HTML das páginas usando o [W3C Validator](http://validator.w3.org/);
