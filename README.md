@@ -1,7 +1,15 @@
 # Metodologia A2
 Documentação de todos os processos de gestão, criação e desenvolvimento web da [A2 Comunicação](http://www.a2comunicacao.com.br). Com isso, podemos transmitir o conhecimento para novos funcionários e discutir novas formas de trabalho.
 
+## Sobre a Metodologia
+* [Estrutura](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#estrutura)
+* Como colaborar
+  * [Índice](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#%C3%8Dndice)
+  * [Imagens](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#imagens)
+  * [Escrita](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#escrita)
+  * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/sobre-a-metodologia.md#refer%C3%AAncias)
 
+=
 
 
 ## Projeto Web
