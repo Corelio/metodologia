@@ -20,15 +20,15 @@
 * Liste apenas os títulos e subtítulos principais (normalmente apenas até o terceiro nível). Utilize mais tópicos apenas se for necessário, para que não fique extenso demais:
 ![Estrutura do índice até terceiro nível](/assets/como-colaborar_04.png)
 
-## Imagens
+### Imagens
 * As imagens utilizadas nos artigos devem ficar arquivadas na pasta assets. Para fazer o upload, é necessário _commitar_ do seu ambiente local para o GitHub;
 * O nome do arquivo deverá ser sempre: `nome-do-artigo_número`.
 
-## Escrita
+### Escrita
 1. Use o termo "website", ao invés de "site", "web site", "sítio" ou "página de internet" [[1]](#metodologia1);
 2. Sempre cite as referências que você utilizou para escrever um artigo ou fazer uma correção. Quando for necessário, faça um link com âncora diretamente para o link da referência:
 ![Estrutura de âncoras para referência](/assets/como-colaborar_06.png)
 
-## Referências
+### Referências
 
 * [<a name="acessibilidade1"></a>1] - [AP Stylebook Finally Changes "Web site" to "website"](http://mashable.com/2010/04/16/ap-stylebook-website/)
