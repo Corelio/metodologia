@@ -95,8 +95,9 @@
 
 ### Outros
   * Produtividade
-  * OpenGraph
+  * OpenGraph 
   * Desenvolvimento para Facebook
+     * Otimizando as meta tags do Facebook [Google Drive](https://docs.google.com/a/a2comunicacao.com.br/presentation/d/1nXKtGK4AjuobU3FpmGRlXuI6agDRcy7Z3tvXDGELtAs/edit#slide=id.g33e3eae92_1_0)
   * A2 Lab
     * A2boilerplate
       * _GridA2_ | [Slideshare](http://www.slideshare.net/raphaelfabeni/a2boilerplate) - [Online](http://raphaelfabeni.com.br/talks/grid-a2/)
