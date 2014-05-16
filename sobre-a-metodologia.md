@@ -11,7 +11,7 @@
 ![Estrutura de subpastas da Metodologia](/assets/como-colaborar_02.png)
 4. Dentro de cada pasta estão os artigos em arquivos _.md_. Se um artigo tiver mais que 10 subtópicos ou for muito extenso, divida-o em subpastas:
 ![Estrutura interna das subpastas da Metodologia](/assets/como-colaborar_03.png)
-5. E artigos com mais de 3 subtópicos devem possuir um índice interno com âncoras:
+5. E artigos com mais de 3 subtópicos - que não são tão extensos para serem dividios em subpastas - devem possuir um índice interno com âncoras:
 ![Estrutura de um arquivo .md com mais de 3 tópicos de conteúdo](/assets/como-colaborar_05.png)
 
 ## Como colaborar
