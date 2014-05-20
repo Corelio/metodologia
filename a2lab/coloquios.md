@@ -56,6 +56,8 @@
     * **Facebook: Otimizando as metatags do Facebook** - [Drive](https://docs.google.com/a/a2comunicacao.com.br/presentation/d/1nXKtGK4AjuobU3FpmGRlXuI6agDRcy7Z3tvXDGELtAs/edit#slide=id.g33e3eae92_1_0)
 
 ### Infraestrutura 
+  * GIT
+    * **Git Workflow** - [Drive](https://drive.google.com/a/a2comunicacao.com.br/file/d/0B_RcfUW_8MGiLWxFa2dzMlcxMTQ/edit?usp=sharing)
   * Vagrant
 
 ### SEO
