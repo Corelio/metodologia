@@ -59,6 +59,7 @@ Ficou interessado em participar? Siga esses passos:
 * [Font-size](#fontsize)
 * [jQuery Accordion](#jqueryaccordion)
 * [jQuery Editable](#jqueryeditable)
+* [Pinterest](#pinterest)
 * [Twitter API](#twitterapi)
 * [Vídeo Destacado](#videodestacado)
 * [WP Plugins](#wpplugins)
@@ -75,6 +76,15 @@ O [A2boilerplate](https://github.com/a2comunicacao/A2boilerplate) é um _boilerp
 =
 
 ### <a name="a2showcase"></a>A2 Showcase
+Utilizando a ferramenta [GimmeBar](https://gimmebar.com/loves/a2showcase/), criamos uma coletânea de referências (layouts) para o desenvolvimento de novos projetos. 
+
+#### Dados de acesso
+````
+Login: a2showcase 
+Senha: a2@345box
+````
+
+> Atualmente estamos utilizando o [Pinterest](http://www.pinterest.com/a2com) para arquivar mais formatos de arquivos (infográficos, peças de Facebook etc.), portanto, estamos migrando nossas futuras referências de layout para lá também. Além de centralizar as imagens, isso previne um problema do GimmeBar, que perdia algumas imagens e era preciso enviar manualmente. Agora, montamos as imagens e mandamos manualmente para o Pinterest, mas sem riscos de que a imagem se perca.
 
 =
 ### <a name="cdframework"></a>CD Framework
@@ -110,6 +120,16 @@ Plugin jQuery que possibilita a edição de blocos de conteúdo de uma página.
 
 * [Repositório Github](https://github.com/williancarminato/jquery-editable);
 * [Demo](http://lab.a2comunicacao.com.br/jquery-editable/).
+
+=
+
+### <a name="pinterest"></a> Pinterest 
+Biblioteca de referências visuais para diversos projetos da A2 Comunicação. [www.pinterest.com/a2com](http://www.pinterest.com/a2com/)
+
+````
+Login: a2lab@a2comunicacao.com.br
+Senha: a2@345box
+````
 
 =
 
