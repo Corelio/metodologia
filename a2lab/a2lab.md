@@ -124,14 +124,15 @@ Plugin jQuery que possibilita a edição de blocos de conteúdo de uma página.
 =
 
 ### <a name="pinterest"></a> Pinterest 
-Biblioteca de referências visuais para diversos projetos da A2 Comunicação. [www.pinterest.com/a2com](http://www.pinterest.com/a2com/)
-
-> Como não é possível capturar e enviar diretamente um screenshot de um website para o Pinterest, estamos utilizando a extensão [Awesome Screenshot Plus](https://addons.mozilla.org/en-US/firefox/addon/awesome-screenshot-capture-/developers) para Firefox. Com ele é possível rapidamente capturar o screenshot e com algumas ferramentas básicas também incluir destaques e/ou anotações ao arquivo. 
+Biblioteca de referências visuais para diversos projetos da A2 Comunicação: [www.pinterest.com/a2com](http://www.pinterest.com/a2com/)
 
 ````
 Login: a2lab@a2comunicacao.com.br
 Senha: a2@345box
 ````
+
+> Como não é possível capturar e enviar diretamente um screenshot de um website para o Pinterest, estamos utilizando a extensão [Awesome Screenshot Plus](https://addons.mozilla.org/en-US/firefox/addon/awesome-screenshot-capture-/developers) para Firefox. Com ele é possível rapidamente capturar o screenshot e com algumas ferramentas básicas também incluir destaques e/ou anotações ao arquivo. 
+
 
 =
 
