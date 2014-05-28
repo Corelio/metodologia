@@ -113,6 +113,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * Design Visual
   * [Photoshop](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/design-visual/photoshop.md#photoshop)
   * [Peças gráficas para redes sociais](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/design-visual/pecas-graficas.md#pe%C3%A7as-gr%C3%A1ficas-para-redes-sociais)
+  * [Criação de identidade visual para campanhas políticas - PSDB](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/design-visual/campanhas.md#cria%C3%A7%C3%A3o-de-identidade-visual-para-campanhas-pol%C3%ADticas---psdb)
 * Redes sociais
   * Facebook
     * [Como usar as Open Graph meta tags](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/desenvolvimento/redes-sociais/facebook.md#como-usar-as-open-graph-meta-tags)
