@@ -10,7 +10,7 @@ Para entender um pouco mais sobre guias de estilo e seu uso no desenvolvimento w
 * 13/12/12 [Blogdeai - Styleguides são o novo Photoshop (por Fabricio Teixeira)](http://arquiteturadeinformacao.com/2012/12/17/styleguides-sao-o-novo-photoshop/)
 * 09/01/13 [Tableless - Guia de Estilos (por Dani Guerrato)](http://tableless.com.br/guia-de-estilos/)
 * 10/06/13 [Atomic Design (por Brad Frost)](http://bradfrostweb.com/blog/post/atomic-web-design/)
-
+* 11/05/14 [Typesetting your CSS Objects](http://www.edenspiekermann.com/blog/typesetting-your-css-objects)
 
 ## Ferramentas
 * [Style Tiles (por Samantha Warren)](http://styletil.es/)
@@ -20,7 +20,6 @@ Para entender um pouco mais sobre guias de estilo e seu uso no desenvolvimento w
 * [Common Patterns in Styleguides, Boilerplates and Pattern Libraries](http://blog.cloudfour.com/common-patterns/)
 * [Universal CSS styleguide generator for Grunt](https://github.com/indieisaconcept/grunt-styleguide)
 * [Stylifyme - Gerador automático de guias de estilo](http://stylifyme.com/)
-
 
 ## Referências
 
@@ -38,6 +37,7 @@ Para entender um pouco mais sobre guias de estilo e seu uso no desenvolvimento w
 * [Mailchimp Patterns](https://ux.mailchimp.com/patterns/)
 * [SalesForce](http://sfdc-styleguide.herokuapp.com/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [FontShop](http://next.fontshop.com/styleguide/globals)
 
 
 ### Redação
