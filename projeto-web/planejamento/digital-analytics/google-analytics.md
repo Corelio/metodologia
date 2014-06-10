@@ -17,22 +17,21 @@
 * [Configurar o Universal Analytics: uma visão geral](https://support.google.com/analytics/answer/2817075?hl=pt-BR&ref_topic=6010376)
 
 ## Monitoramento de eventos (Event Track)
-Permite medir interações dos usuários com o conteúdo do website.  <br/>
-Funciona em conjunto com os [HTML Events](http://www.w3schools.com/tags/ref_eventattributes.asp).
+Permite medir interações dos usuários com o conteúdo do website.
 
-Código base para monitormaneto de eventos (no exemplo, com o evento _click_ e usando jquery):
+Código base para monitormaneto de eventos (no exemplo, com o evento _click_ e usando jQuery):
 
 ```javascript
-//Universal Analytics
-$('#elemento').click(function(){
+// Universal Analytics
+$('#elemento').on('click', function() {
   ga('send', 'event', 'category', 'action', 'label');
-}
+});
 ```
 ```javascript
-//Classic Analytics
-$('#elemento').click(function(){
+// Classic Analytics
+$('#elemento').on('click', function() {
   _gaq.push(['_trackEvent', 'category', 'action', 'label']);
-}
+});
 ```
 
 * [Event Tracking (Universal Analytics)](https://developers.google.com/analytics/devguides/collection/analyticsjs/events?hl=pt-BR)
