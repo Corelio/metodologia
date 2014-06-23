@@ -23,6 +23,8 @@ Para entender um pouco mais sobre guias de estilo e seu uso no desenvolvimento w
 
 ## Referências
 
+* [All The Style Guides - Just trying to put all the style guides and pattern libraries I can find in one place](http://allthestyleguides.tumblr.com/)
+
 ### Código
 * [Educação SP](http://a2comunicacao.github.io/gde-educacaosp/)
 * [Desenvolve SP](http://desenvolvesp.com.br/a2sitebox/temas/styleguide/)
