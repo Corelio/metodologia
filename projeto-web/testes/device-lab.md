@@ -4,13 +4,13 @@ O Device Lab foi implantado na A2 com o objetivo de testar os projetos em divers
 
 Atualmente no nosso Device Lab, temos os seguintes dispositivos:
 
-* Tablets
-** Motorola Xoom com Android 4.1.2
-* 2 iPads 3ª geração
-* Celulares
-* iPhone 5
-* Samsung Galaxy com Android 4.1.2
-* BlackBerry Z10 - versão 10.2.1.2102
+* _Tablets_
+  * Motorola Xoom com Android 4.1.2
+  * 2 iPads 3ª geração
+* _Celulares_
+  * iPhone 5
+  * Samsung Galaxy com Android 4.1.2
+  * BlackBerry Z10 - versão 10.2.1.2102
 
 Para testarmos o projeto nos dispositivos, podemos usar o [Grunt Browser Sync](../setup/grunt.md) (recomendado) ou o [Adobe Edge Inspect](#adobe-edge-inspect)
 
