@@ -143,7 +143,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 
 > Todos os testes feitos em um website
 
-* [Device Lab](/testes/device-lab.md)
+* [Device Lab](projeto-web/testes/device-lab.md)
   * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/device-lab.md#adobe-edge-inspect)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/device-lab.md#refer%C3%AAncias)
 * Testes
