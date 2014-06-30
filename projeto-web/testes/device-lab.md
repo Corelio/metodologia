@@ -1,5 +1,20 @@
 # Device Lab
 
+O Device Lab foi implantado na A2 com o objetivo de testar os projetos em diversos dispositivos, possibilitando experiência de usabilidade do projeto em um dispositivo real e não em um simulador.
+
+Atualmente no nosso Device Lab, temos os seguintes dispositivos:
+
+* Tablets
+** Motorola Xoom com Android 4.1.2
+* 2 iPads 3ª geração
+* Celulares
+* iPhone 5
+* Samsung Galaxy com Android 4.1.2
+* BlackBerry Z10 - versão 10.2.1.2102
+
+Para testarmos o projeto nos dispositivos, podemos usar o [Grunt Browser Sync](../setup/grunt.md) (recomendado) ou o [Adobe Edge Inspect](#adobe-edge-inspect)
+
+
 ## Adobe Edge Inspect
 1. Primeiro precisamos fazer o [download](https://creative.adobe.com/inspect) do aplicativo do Edge Inspect. É necessário ter/criar uma conta na Creative Cloud;
 2. Depois é necessário fazer o [download](https://chrome.google.com/webstore/detail/adobe-edge-inspect-cc/ijoeapleklopieoejahbpdnhkjjgddem) da extensão para Google Chrome;
