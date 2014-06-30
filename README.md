@@ -39,7 +39,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 * [A2siteBox](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/a2sitebox.md#a2sitebox)
 * [Basecamp](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/basecamp.md#basecamp)
   * [Boas práticas](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/basecamp.md#-boas-pr%C3%A1ticas)
-  * [Perguntas frequentes (FAQ)](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/basecamp.md#perguntas-frequentes-faq)
+  * [Perguntas frequentes (FAQ)](https://github.com/a2comunicdacao/metodologia/blob/master/projeto-web/setup/basecamp.md#perguntas-frequentes-faq)
 * [Clonagem de repositórios](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/clonagem-de-repositorios.md#clonagem-de-reposit%C3%B3rios)
   * [Softwares recomendados](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/clonagem-de-repositorios.md#softwares-recomendados)
   * [Configurando ambiente local](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/setup/clonagem-de-repositorios.md#configurando-ambiente-local)
@@ -143,7 +143,7 @@ Documentação de todos os processos de gestão, criação e desenvolvimento web
 
 > Todos os testes feitos em um website
 
-* Device Lab
+* [Device Lab](/testes/device-lab.md)
   * [Adobe Edge Inspect](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/device-lab.md#adobe-edge-inspect)
   * [Referências](https://github.com/a2comunicacao/metodologia/blob/master/projeto-web/testes/device-lab.md#refer%C3%AAncias)
 * Testes
