@@ -74,7 +74,7 @@ Projetos hospedados atualmente:
 #### Vantagens:
 
 * Deploy feito via linha de comando;
-* Ótima integração com o Amazon e cache poderoso;
+* Ótima integração com a Amazon e cache poderoso;
 
 #### Desvantagens:
 
