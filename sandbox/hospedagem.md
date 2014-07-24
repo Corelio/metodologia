@@ -2,7 +2,9 @@
 
 Nossas impressões e opiniões sobre algumas empresas de hospedagem:
 
-## Amazon
+## Amazon Web Services (AWS) | http://aws.amazon.com/pt/
+
+![Logo da Amazon](/assets/hospedagem_aws.png)
 
 Vantagens:
 
@@ -18,6 +20,8 @@ Projetos hospedados atualmente:
 
 ## Dreamhost | http://www.dreamhost.com/
 
+![Logo da Dreamhost](/assets/hospedagem_dreamhost.png)
+
 Vantagens:
 
 * ...
@@ -31,6 +35,8 @@ Projetos hospedados atualmente:
 * ...
 
 ## Hostgator | http://www.hostgator.com.br/
+
+![Logo da Hostgator](/assets/hospedagem_hostgator.png)
 
 Vantagens:
 
@@ -46,6 +52,8 @@ Projetos hospedados atualmente:
 
 
 ## Locaweb | http://www.locaweb.com.br/
+
+![Logo da Locaweb](/assets/hospedagem_locaweb.png)
 
 Vantagens:
 
