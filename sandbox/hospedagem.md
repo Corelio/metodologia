@@ -73,12 +73,13 @@ Projetos hospedados atualmente:
 
 #### Vantagens:
 
-* ...
+* Deploy feito via linha de comando;
+* Ótima integração com o Amazon e cache poderoso;
 
 #### Desvantagens:
 
-* ...
-
+* Dependência do desenvolvedor da Getup Cloud;
+* O core do WP é modificado para funcionar corretamente, o que ocasiona alguns contratempos no funcionamento de plugins e, scripts e códigos;
 
 ## [Hostgator](http://www.hostgator.com.br/)
 
