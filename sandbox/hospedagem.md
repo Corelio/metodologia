@@ -2,49 +2,55 @@
 
 Nossas impressões e opiniões sobre algumas empresas de hospedagem:
 
-## [Amazon Web Services (AWS)](http://aws.amazon.com/pt/)
+## Amazon Web Services (AWS)
 
 ![Logo da Amazon](/assets/hospedagem_aws.png)
+
+#### Informações gerais
+
+* **Site:** http://aws.amazon.com/pt/
+* **Status:** http://status.aws.amazon.com/
+* **ReclameAqui:** _Não cadastrada_
+* **Telefone:** _Não documentado_
 
 Projetos hospedados atualmente:
 * [2014.05.maisrn](/projetos/2014.05.maisrn.md)
 
-#### Vantagens:
-
-* ...
-
-#### Desvantagens:
+#### O que você deveria saber antes de contratar:
 
 * Não possui servidor de email
 
-## [Digital Ocean](http://www.digitalocean.com/)
+## Digital Ocean
+
+#### Informações gerais
+
+* **Site:** http://www.digitalocean.com/
+* **Status:** https://status.digitalocean.com/
+* **ReclameAqui:** _Não cadastrada_
+* **Telefone:** _Não documentado_
 
 Projetos hospedados atualmente:
 * [2013.10.investe](/projetos/2013.10.investe.md)
 
-#### Vantagens:
+#### O que você deveria saber antes de contratar:
 
 * ...
 
-#### Desvantagens:
-
-* ...
-
-## [Dreamhost](http://www.dreamhost.com/)
+## Dreamhost
 
 ![Logo da Dreamhost](/assets/hospedagem_dreamhost.png)
+
+* **Site:** http://www.dreamhost.com/
+* **Status:** http://www.dreamhoststatus.com/
+* **ReclameAqui:** _Não cadastrada_
+* **Telefone:** _Não documentado_
 
 Projetos hospedados atualmente:
 * ...
 
-#### Vantagens:
+#### O que você deveria saber antes de contratar:
 
-* ...
-
-#### Desvantagens:
-
-* ...
-
+* Já foi a nossa escolha padrão e hospedava a maioria dos sites da A2, mas foi abandonada devido aos problemas de instabilidade;
 
 ## FDE
 
