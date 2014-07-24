@@ -2,7 +2,7 @@
 
 Nossas impressões e opiniões sobre algumas empresas de hospedagem:
 
-### [Amazon Web Services (AWS)](http://aws.amazon.com/pt/)
+## [Amazon Web Services (AWS)](http://aws.amazon.com/pt/)
 
 ![Logo da Amazon](/assets/hospedagem_aws.png)
 
@@ -17,7 +17,7 @@ Projetos hospedados atualmente:
 
 * Não possui servidor de email
 
-### [Digital Ocean](http://www.digitalocean.com/)
+## [Digital Ocean](http://www.digitalocean.com/)
 
 Projetos hospedados atualmente:
 * [2013.10.investe](/projetos/2013.10.investe.md)
@@ -60,7 +60,7 @@ Projetos hospedados atualmente:
 * ...
 
 
-## Getup Cloud | http://getupcloud.com/
+## [Getup Cloud](http://getupcloud.com/)
 
 Projetos hospedados atualmente:
 * ...
