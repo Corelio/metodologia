@@ -137,7 +137,18 @@ Projetos hospedados atualmente:
 
 * ...
 
+## [IPHotel](http://www.iphotel.com.br/)
 
+Projetos hospedados atualmente:
+* http://www.ateliercomunicacao.com.br/
 
+![Logo do IPHotel](/assets/hospedagem_iphotel.gif)
 
+#### Vantagens:
+
+* Atendimento rápido e eficiente pelo Suporte Técnico
+
+#### Desvantagens:
+
+* ...
 
