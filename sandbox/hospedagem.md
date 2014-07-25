@@ -74,7 +74,7 @@ Projetos hospedados atualmente:
 
 ## Getup Cloud
 
-![Logo da Getup Cloud](/assets/hospedagem_getup	.png)
+![Logo da Getup Cloud](/assets/hospedagem_getup.png)
 
 * **Site:** http://getupcloud.com/
 * **Valores e Planos:** http://getupcloud.com/#/pricing
