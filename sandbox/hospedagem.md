@@ -34,7 +34,7 @@ Projetos hospedados atualmente:
 
 #### O que você deveria saber antes de contratar:
 
-* ...
+* Não possui suporte em português
 
 ## Dreamhost
 
@@ -57,11 +57,7 @@ Projetos hospedados atualmente:
 Projetos hospedados atualmente:
 * ...
 
-#### Vantagens:
-
-* ...
-
-#### Desvantagens:
+#### O que você deveria saber antes de contratar:
 
 * ...
 
@@ -71,13 +67,10 @@ Projetos hospedados atualmente:
 Projetos hospedados atualmente:
 * ...
 
-#### Vantagens:
+#### O que você deveria saber antes de contratar:
 
 * Deploy feito via linha de comando;
 * Ótima integração com a Amazon e cache poderoso;
-
-#### Desvantagens:
-
 * Dependência do desenvolvedor da Getup Cloud;
 * O core do WP é modificado para funcionar corretamente, o que ocasiona alguns contratempos no funcionamento de plugins e, scripts e códigos;
 
@@ -88,11 +81,7 @@ Projetos hospedados atualmente:
 Projetos hospedados atualmente:
 * [2013.04.a2comunicacao](/projetos/2013.04.a2comunicacao.md)
 
-#### Vantagens:
-
-* ...
-
-#### Desvantagens:
+#### O que você deveria saber antes de contratar:
 
 * ...
 
@@ -101,40 +90,7 @@ Projetos hospedados atualmente:
 Projetos hospedados atualmente:
 * ...
 
-#### Vantagens:
-
-* ...
-
-#### Desvantagens:
-
-* ...
-
-## [Locaweb](http://www.locaweb.com.br/)
-
-Projetos hospedados atualmente:
-* ...
-
-![Logo da Locaweb](/assets/hospedagem_locaweb.png)
-
-#### Vantagens:
-
-* ...
-
-#### Desvantagens:
-
-* ...
-
-## Prodesp
-
-Projetos hospedados atualmente:
-* ...
-
-#### Vantagens:
-
-* ...
-
-#### Desvantagens:
-
+#### O que você deveria saber antes de contratar:
 * ...
 
 ## [IPHotel](http://www.iphotel.com.br/)
@@ -144,11 +100,50 @@ Projetos hospedados atualmente:
 
 ![Logo do IPHotel](/assets/hospedagem_iphotel.gif)
 
-#### Vantagens:
+#### O que você deveria saber antes de contratar:
 
 * Atendimento rápido e eficiente pelo Suporte Técnico
 
-#### Desvantagens:
+## [Locaweb](http://www.locaweb.com.br/)
+
+Projetos hospedados atualmente:
+* ...
+
+![Logo da Locaweb](/assets/hospedagem_locaweb.png)
+
+#### O que você deveria saber antes de contratar:
 
 * ...
+
+## Prodesp
+
+Projetos hospedados atualmente:
+* ...
+
+#### O que você deveria saber antes de contratar:
+
+* ...
+
+## RedeHost
+
+![Logo da Amazon](/assets/hospedagem_redehost.png)
+
+#### Informações gerais
+
+* **Site:** http://www.redehost.com.br/
+* **Status:** https://twitter.com/redehost
+* **ReclameAqui:** http://www.reclameaqui.com.br/indices/13820/redehost/
+* **Telefone:** _Não documentado_
+
+Projetos hospedados atualmente:
+* ...
+
+#### O que você deveria saber antes de contratar:
+
+* ...
+
+
+
+
+
 
