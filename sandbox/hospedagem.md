@@ -149,7 +149,7 @@ Projetos hospedados atualmente:
 
 #### O que você deveria saber antes de contratar:
 
-* ...
+* Demora até 1 hora para criar o banco de dados MySQL
 
 ## Prodesp
 
