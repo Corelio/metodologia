@@ -112,7 +112,7 @@ Projetos hospedados atualmente:
 ## Imprensa Oficial
 
 Projetos hospedados atualmente:
-* ...
+* [2011.10.saopaulosp](/projetos/2011.10.saopaulosp.md)
 
 #### O que você deveria saber antes de contratar:
 * É a empresa oficil que hospeda o site do Governo SP
