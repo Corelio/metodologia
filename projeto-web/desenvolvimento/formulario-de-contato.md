@@ -4,8 +4,10 @@
 Em alguns ambientes de produção, o envio de e-mails via formulário de contato não funcionam corretamente. Para solucionar o problema, estamos utilizando a ferramenta **MailGun**, não havendo mais a necessidade de configurações extras de SMTP ou algo do gênero no Wordpress.
 
 ### Configuração
+
+[http://www.mailgun.com/](http://www.mailgun.com/)
+
 ````
-http://www.mailgun.com/
 Login: config@a2comunicacao.com.br 
 Senha: 2FNOk3Yw
 ```
